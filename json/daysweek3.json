@@ -1,0 +1,137 @@
+{
+  "daysW3": [
+    {
+      "week": 3,
+      "day": 15,
+      "title": "Santo Domingo de la Calzada -> Belorado",
+      "distance": "22,2 km",
+      "short_desc": "In i Montes de Oca.",
+      "long_desc": "Vandring genom skog och över höjder till klostret i San Juan de Ortega.",
+      "accommodation": "Rest Life El Salto",
+      "elevation_gain": "+350 m",
+      "elevation_loss": "-200 m",
+      "image": "week3/dag1.jpg",
+      "route_map": {
+        "start": { "name": "Santo Domingo de la Calzada", "lat": 42.4242, "lng": -3.1922 },
+        "end": { "name": "Belorado", "lat": 42.3972, "lng": -3.5172 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "day": 16,
+      "title": "Belorado -> Villafranca Montes de Oca",
+      "distance": "11,9 km",
+      "short_desc": "Mot storstaden Burgos.",
+      "long_desc": "Nedstigning till den historiska staden Burgos.",
+      "accommodation": "Hotel San Anton Abad",
+      "elevation_gain": "+100 m",
+      "elevation_loss": "-350 m",
+      "image": "week3/dag2.jpg",
+      "route_map": {
+        "start": { "name": "Belorado", "lat": 42.3972, "lng": -3.5172 },
+        "end": { "name": "Villafranca Montes de Oca", "lat": 42.3439, "lng": -3.6969 },
+        "polyline": [
+         
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "day": 17,
+      "title": "Villafranca Montes de Oca -> Atapuerca",
+      "distance": "18,1 km",
+      "short_desc": "Ut på Mesetan.",
+      "long_desc": "Platt landskap och vida vyer.",
+      "accommodation": "Hostel Atapuerque Inpulso",
+      "elevation_gain": "+80 m",
+      "elevation_loss": "-60 m",
+      "image": "week3/dag3.jpg",
+      "route_map": {
+        "start": { "name": "Villafranca Montes de Oca", "lat": 42.3439, "lng": -3.6969 },
+        "end": { "name": "Atapuerca", "lat": 42.3222, "lng": -3.8572 },
+        "polyline": [
+         
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "day": 18,
+      "title": "Atapuerca -> Burgos",
+      "distance": "20,2 km",
+      "short_desc": "Landsbygdsvandring.",
+      "long_desc": "Genom små byar och öppna fält.",
+      "accommodation": "Hotel Corona de Castilla Burgos",
+      "elevation_gain": "+90 m",
+      "elevation_loss": "-100 m",
+      "image": "week3/dag4.jpg",
+      "route_map": {
+        "start": { "name": "Atapuerca", "lat": 42.3222, "lng": -3.8572 },
+        "end": { "name": "Burgos", "lat": 42.2872, "lng": -4.1456 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "day": 19,
+      "title": "Burgos -> Burgos",
+      "distance": "0,0 km",
+      "short_desc": "Vilodag.",
+      "long_desc": "Känd stigning och utsikt över Mesetan.",
+      "accommodation": "Hotel Corona de Castilla Burgos",
+      "elevation_gain": "+0 m",
+      "elevation_loss": "-0 m",
+      "image": "week3/dag5.jpg",
+      "route_map": {
+        "start": { "name": "Burgos", "lat": 42.2872, "lng": -4.1456 },
+        "end": { "name": "Burgos", "lat": 42.2667, "lng": -4.4167 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "day": 20,
+      "title": "Burgos -> Rabé de las Calzadas",
+      "distance": "12,8 km",
+      "short_desc": "Längs kanalen.",
+      "long_desc": "Vandring längs Canal de Castilla.",
+      "accommodation": "Hostel Bar Resturante La Fuente",
+      "elevation_gain": "+50 m",
+      "elevation_loss": "-40 m",
+      "image": "week3/dag6.jpg",
+      "route_map": {
+        "start": { "name": "Burgos", "lat": 42.2667, "lng": -4.4167 },
+        "end": { "name": "Rabé de las Calzadas ", "lat": 42.3381, "lng": -4.6031 },
+        "polyline": [
+         
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "day": 21,
+      "title": "Rabé de las Calzadas -> Hontanas",
+      "distance": "18,3 km",
+      "short_desc": "Lång raksträcka.",
+      "long_desc": "Ensam vandring på den gamla romarvägen.",
+      "accommodation": "Villa Fontanas",
+      "elevation_gain": "+30 m",
+      "elevation_loss": "-20 m",
+      "image": "week3/dag7.jpg",
+      "route_map": {
+        "start": { "name": "Rabé de las Calzadas", "lat": 42.3381, "lng": -4.6031 },
+        "end": { "name": "Hontanas", "lat": 42.3667, "lng": -4.7833 },
+        "polyline": [
+         
+        ]
+      }
+    }
+  ]
+}

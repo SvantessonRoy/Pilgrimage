@@ -1,0 +1,135 @@
+{
+  "daysW4": [
+    {
+      "week": 4,
+      "day": 22,
+      "title": "Hontanas -> Itero de la Vega",
+      "distance": "20,4 km",
+      "short_desc": "Mot Leónprovinsen.",
+      "long_desc": "Vandring genom små byar och öppna fält.",
+      "accommodation": "Hostel Puente Fitero",
+      "elevation_gain": "+60 m",
+      "elevation_loss": "-80 m",
+      "image": "week4/dag1.jpg",
+      "route_map": {
+        "start": { "name": "Hontanas", "lat": 42.3667, "lng": -4.7833 },
+        "end": { "name": "Itero de la Vega", "lat": 42.3700, "lng": -5.0300 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "day": 23,
+      "title": "Itero de la Vega -> Frómista",
+      "distance": "13,9 km",
+      "short_desc": "Platt landskap.",
+      "long_desc": "Lugn dagsetapp genom jordbrukslandskap.",
+      "accommodation": "Hostel Camino de Santiago",
+      "elevation_gain": "+30 m",
+      "elevation_loss": "-20 m",
+      "image": "week4/dag2.jpg",
+      "route_map": {
+        "start": { "name": "Itero de la Vega", "lat": 42.3700, "lng": -5.0300 },
+        "end": { "name": "Frómista", "lat": 42.4492, "lng": -5.2467 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "day": 24,
+      "title": "Frómista -> Carrión de los Condes",
+      "distance": "19,0 km",
+      "short_desc": "Mot staden Mansilla.",
+      "long_desc": "Avslutning på Mesetan.",
+      "accommodation": "Hotel Real Monasterio de san Zoilo",
+      "elevation_gain": "+40 m",
+      "elevation_loss": "-50 m",
+      "image": "week4/dag3.jpg",
+      "route_map": {
+        "start": { "name": "Frómista", "lat": 42.4492, "lng": -5.2467 },
+        "end": { "name": "Carrión de los Condes", "lat": 42.5050, "lng": -5.3122 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "day": 25,
+      "title": "Carrión de los Condes -> Ledigos",
+      "distance": "23,3 km",
+      "short_desc": "In i León.",
+      "long_desc": "Stadsvandring till Leóns centrum.",
+      "accommodation": "Albuergue LaMorena",
+      "elevation_gain": "+60 m",
+      "elevation_loss": "-70 m",
+      "image": "week4/dag4.jpg",
+      "route_map": {
+        "start": { "name": "Carrión de los Condes", "lat": 42.5050, "lng": -5.3122 },
+        "end": { "name": "Ledigos", "lat": 42.5987, "lng": -5.5671 },
+        "polyline": [
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "day": 26,
+      "title": "Ledigos-> Sahagún",
+      "distance": "16,0 km",
+      "short_desc": "Vilo- och sightseeingdag.",
+      "long_desc": "Tid för återhämtning och besök i León.",
+      "accommodation": "Domus Viatoris",
+      "elevation_gain": "",
+      "elevation_loss": "",
+      "image": "week4/dag5.jpg",
+      "route_map": {
+        "start": { "name": "Ledigos", "lat": 42.5050, "lng": -5.3122 },
+        "end": { "name": "Sahagún", "lat": 42.5987, "lng": -5.5671 },
+        "polyline": [
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "day": 27,
+      "title": "Sahagún-> El Burgo Ranero",
+      "distance": "17,7 km",
+      "short_desc": "Längsta etappen på veckan.",
+      "long_desc": "Vandring till den historiska bron i Hospital de Órbigo.",
+      "accommodation": "La Costa del adobe",
+      "elevation_gain": "+120 m",
+      "elevation_loss": "-100 m",
+      "image": "week4/dag6.jpg",
+      "route_map": {
+        "start": { "name": "Sahagún", "lat": 42.5987, "lng": -5.5671 },
+        "end": { "name": "El Burgo Ranero", "lat": 42.4667, "lng": -5.9000 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "day": 28,
+      "title": "El Burgo Ranero -> Mansilla de las Mulas",
+      "distance": "18,8 km",
+      "short_desc": "Mot Astorga.",
+      "long_desc": "Slut på veckan i den romerska staden Astorga.",
+      "accommodation": "La Casa de los Soportales",
+      "elevation_gain": "+90 m",
+      "elevation_loss": "-80 m",
+      "image": "week4/dag7.jpg",
+      "route_map": {
+        "start": { "name": "El Burgo Ranero", "lat": 42.4667, "lng": -5.9000 },
+        "end": { "name": "Mansilla de las Mulas", "lat": 42.4584, "lng": -6.0580 },
+        "polyline": [
+          
+        ]
+      }
+    }
+  ]
+}

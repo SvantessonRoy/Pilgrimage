@@ -1,0 +1,122 @@
+{
+  "daysW7": [
+    {
+      "week": 7,
+      "day": 1,
+      "title": "Santiago de Compostela -> Negreira",
+      "distance": "21,0 km",
+      "short_desc": "Mot Atlanten.",
+      "long_desc": "Första etappen mot Finisterre.",
+      "accommodation": "Albergue i Negreira",
+      "elevation_gain": "+300 m",
+      "elevation_loss": "-250 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
+        "end": { "name": "Negreira", "lat": 42.9067, "lng": -8.7481 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "day": 2,
+      "title": "Negreira -> Olveiroa",
+      "distance": "33,0 km",
+      "short_desc": "Längsta etappen på veckan.",
+      "long_desc": "Vandring genom Galiciens inland.",
+      "accommodation": "Albergue i Olveiroa",
+      "elevation_gain": "+400 m",
+      "elevation_loss": "-350 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Negreira", "lat": 42.9067, "lng": -8.7481 },
+        "end": { "name": "Olveiroa", "lat": 42.9500, "lng": -9.0000 },
+        "polyline": [
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "day": 3,
+      "title": "Olveiroa -> Cee",
+      "distance": "19,0 km",
+      "short_desc": "Mot kusten.",
+      "long_desc": "Nedstigning till Atlantkusten.",
+      "accommodation": "Albergue i Cee",
+      "elevation_gain": "+100 m",
+      "elevation_loss": "-400 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Olveiroa", "lat": 42.9500, "lng": -9.0000 },
+        "end": { "name": "Cee", "lat": 42.9500, "lng": -9.2000 },
+        "polyline": [
+         
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "day": 4,
+      "title": "Cee -> Finisterre",
+      "distance": "16,0 km",
+      "short_desc": "Slut vid världens ände.",
+      "long_desc": "Ankomst till Atlanten och Finisterre.",
+      "accommodation": "Albergue i Finisterre",
+      "elevation_gain": "+80 m",
+      "elevation_loss": "-90 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Cee", "lat": 42.9500, "lng": -9.2000 },
+        "end": { "name": "Finisterre", "lat": 42.9074, "lng": -9.2695 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "day": 5,
+      "title": "Vila i Finisterre",
+      "distance": "0,0 km",
+      "short_desc": "Vilo- och utflyktsdag.",
+      "long_desc": "Tid för återhämtning och utflykter vid kusten.",
+      "accommodation": "Albergue i Finisterre",
+      "elevation_gain": "",
+      "elevation_loss": "",
+      "image": "placeholder.jpg"
+    },
+    {
+      "week": 7,
+      "day": 6,
+      "title": "Finisterre -> Muxía",
+      "distance": "29,0 km",
+      "short_desc": "Mot Muxía.",
+      "long_desc": "Vandring längs kusten till Muxía.",
+      "accommodation": "Albergue i Muxía",
+      "elevation_gain": "+200 m",
+      "elevation_loss": "-180 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Finisterre", "lat": 42.9074, "lng": -9.2695 },
+        "end": { "name": "Muxía", "lat": 43.1100, "lng": -9.2200 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "day": 7,
+      "title": "Muxía -> Santiago de Compostela (buss)",
+      "distance": "0,0 km",
+      "short_desc": "Återresa till Santiago.",
+      "long_desc": "Bussresa tillbaka till startpunkten.",
+      "accommodation": "Albergue i Santiago",
+      "elevation_gain": "",
+      "elevation_loss": "",
+      "image": "placeholder.jpg"
+    }
+  ]
+}

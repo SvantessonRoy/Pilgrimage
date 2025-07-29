@@ -1,0 +1,54 @@
+{
+  "daysW8": [
+    {
+      "week": 8,
+      "day": 1,
+      "title": "Santiago de Compostela -> O Pedrouzo",
+      "distance": "20,0 km",
+      "short_desc": "Mot sista etappen.",
+      "long_desc": "Vandring mot O Pedrouzo.",
+      "accommodation": "Albergue i O Pedrouzo",
+      "elevation_gain": "+150 m",
+      "elevation_loss": "-120 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
+        "end": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "day": 2,
+      "title": "O Pedrouzo -> Santiago de Compostela",
+      "distance": "20,0 km",
+      "short_desc": "Ankomst till målet.",
+      "long_desc": "Sista vandringen till katedralen i Santiago.",
+      "accommodation": "Albergue i Santiago",
+      "elevation_gain": "+120 m",
+      "elevation_loss": "-150 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
+        "end": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "day": 3,
+      "title": "Santiago de Compostela -> Finisterre (buss)",
+      "distance": "0,0 km",
+      "short_desc": "Bussresa till Atlanten.",
+      "long_desc": "Transport till Finisterre för avslutning vid havet.",
+      "accommodation": "Albergue i Finisterre",
+      "elevation_gain": "",
+      "elevation_loss": "",
+      "image": "placeholder.jpg"
+    }
+  ]
+}

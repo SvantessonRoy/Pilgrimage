@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Saint-Jean-Pied-de-Port",
+    "lat": 43.1631,
+    "lng": -1.2374,
+    "desc": "Startpunkt för El Camino Francés."
+  },
+  {
+    "name": "Estella",
+    "lat": 42.6716,
+    "lng": -2.0316,
+    "desc": "Slut på vecka 1. Historisk stad i Navarra."
+  },
+  {
+    "name": "Burgos",
+    "lat": 42.3439,
+    "lng": -3.6969,
+    "desc": "Slut på vecka 2. Känd för sin katedral."
+  },
+  {
+    "name": "León",
+    "lat": 42.5987,
+    "lng": -5.5671,
+    "desc": "Slut på vecka 3. Känd för sin gotiska katedral."
+  },
+  {
+    "name": "O Cebreiro",
+    "lat": 42.7086,
+    "lng": -7.0406,
+    "desc": "Slut på vecka 4. Bergsby i Galicien."
+  },
+  {
+    "name": "Sarria",
+    "lat": 42.7811,
+    "lng": -7.4092,
+    "desc": "Slut på vecka 5. Populär startpunkt för sista etappen."
+  },
+  {
+    "name": "Santiago de Compostela",
+    "lat": 42.8806,
+    "lng": -8.5457,
+    "desc": "Målet för El Camino Francés."
+  },
+  {
+    "name": "Finisterre",
+    "lat": 42.9074,
+    "lng": -9.2695,
+    "desc": "Valfritt slutmål vid Atlantkusten."
+  }
+]

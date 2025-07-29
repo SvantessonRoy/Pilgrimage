@@ -1,0 +1,136 @@
+{
+  "daysW2": [
+    {
+      "week": 2,
+      "day": 8,
+      "title": "Estella ->  Villamayor de Monjardin  ",
+      "distance": "9,3 km",
+      "short_desc": "Vingårdar och historiska byar.",
+      "long_desc": "Vandring genom vinregionen Rioja, med stopp vid den berömda vinfontänen i Irache.",
+      "accommodation": "Albergue i  Villamayor de Monjardin",
+      "elevation_gain": "+250 m",
+      "elevation_loss": "-200 m",
+      "image": "week2/dag1.JPG",
+      "route_map": {
+        "start": { "name": "Estella", "lat": 42.6716, "lng": -2.0316 },
+        "end": { "name": " Villamayor de Monjardin", "lat": 42.5756, "lng": -2.1872 },
+        "polyline": [
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "day": 9,
+      "title": "Villamayor de Monjardin -> Tores de Rio",
+      "distance": "19,9 km",
+      "short_desc": "Längsta etappen på veckan.",
+      "long_desc": "Landsbygdsvandring till regionhuvudstaden Logroño.",
+      "accommodation": "Albergue i Tores de Rio",
+      "elevation_gain": "+180 m",
+      "elevation_loss": "-220 m",
+      "image": "week2/dag2.JPG",
+      "route_map": {
+        "start": { "name": "Villamayor de Monjardin", "lat": 42.5756, "lng": -2.1872 },
+        "end": { "name": "Tores de Rio", "lat": 42.4667, "lng": -2.4456 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "day": 10,
+      "title": "Tores de Rioño -> Logroño",
+      "distance": "20,2 km",
+      "short_desc": "Genom vinfält och små byar.",
+      "long_desc": "Vandring genom Rioja Alta till Logroño.",
+      "accommodation": "Hotell Los Bracos i Logroño",
+      "elevation_gain": "+200 m",
+      "elevation_loss": "-180 m",
+      "image": "week2/dag3.JPG",
+      "route_map": {
+        "start": { "name": "Tores de Rio", "lat": 42.4667, "lng": -2.4456 },
+        "end": { "name": "Logroño", "lat": 42.4172, "lng": -2.7333 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "day": 11,
+      "title": "Logroño -> Logroño",
+      "distance": "0,0 km",
+      "short_desc": "Vilodag med stadstur.",
+      "long_desc": "En lugn dagsetapp till den lilla byn Azofra.",
+      "accommodation": "Hotell Los Bracos i Logroño",
+      "elevation_gain": "+0 m",
+      "elevation_loss": "-0 m",
+      "image": "week2/dag4.JPG",
+      "route_map": {
+        "start": { "name": "Logroño", "lat": 42.4172, "lng": -2.7333 },
+        "end": { "name": "Logroño", "lat": 42.4197, "lng": -2.8256 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "day": 12,
+      "title": "Logroño -> Navarrete",
+      "distance": "12,5 km",
+      "short_desc": "Mot den berömda hönskatedralen.",
+      "long_desc": "Historisk stad med pilgrimslegend.",
+      "accommodation": "Hotell Ray Sancho Najera",
+      "elevation_gain": "+120 m",
+      "elevation_loss": "-100 m",
+      "image": "week2/dag5.jpg",
+      "route_map": {
+        "start": { "name": "Azofra", "lat": 42.4197, "lng": -2.8256 },
+        "end": { "name": "Navarre", "lat": 42.4417, "lng": -2.9547 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "day": 13,
+      "title": "Navarre-> Najera",
+      "distance": "17,1 km",
+      "short_desc": "Vilo- och utflyktsdag.",
+      "long_desc": "Tid för återhämtning och sightseeing.",
+      "accommodation": "Hotell Ray Sancho Najera",
+      "elevation_gain": "",
+      "elevation_loss": "",
+      "image": "week2/dag6.jpg",
+      "route_map": {
+        "start": { "name": "Navarre", "lat": 42.4417, "lng": -2.9547 },
+        "end": { "name": "Najera", "lat": 42.4500, "lng": -2.9000 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "day": 14,
+      "title": "Najera -> Santo Domingo de la Calzada ",
+      "distance": "20,9 km",
+      "short_desc": "Mot Kastilien.",
+      "long_desc": "Lämnar Rioja och går in i Kastilien och León.",
+      "accommodation": "Albergue i Belorado",
+      "elevation_gain": "+180 m",
+      "elevation_loss": "-160 m",
+      "image": "week2/dag6.jpg",
+      "route_map": {
+        "start": { "name": "Najera", "lat": 42.4417, "lng": -2.9547 },
+        "end": { "name": "Santo Domingo de la Calzada", "lat": 42.4242, "lng": -3.1922 },
+        "polyline": [
+        
+        ]
+      }
+    }
+  ]
+}

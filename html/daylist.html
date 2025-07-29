@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alla Dagsetapper | El Camino Francés 2025</title>
+    <link rel="stylesheet" href="../style/main.css">
+</head>
+<body>
+    <header>
+        <div class="hero-title">El Camino Francés 2025</div>
+        <div class="hero-subtitle">Alla dagsetapper</div>
+        <div class="hero-period">September – Oktober 2025</div>
+    </header>
+    <nav>
+        <a href="index.html">Översikt</a>
+        <a href="daylist.html">Dagsetapper</a>
+        <a href="#foton">Foton</a>
+        <a href="#uppsats">Masteruppsats</a>
+    </nav>
+    <main>
+        <section class="daylist-section">
+            <h2>Alla dagsetapper</h2>
+            <ul id="day-list" class="day-list"></ul>
+        </section>
+    </main>
+    <footer>
+        &copy; 2025 El Camino Francés. Alla bilder och texter är skyddade.
+    </footer>
+    <script src="../js/daylist.js"></script>
+    <script>
+        function renderDayList(days) {
+            const list = document.getElementById('day-list');
+            list.classList.add('day-list-flex');
+            days.sort((a, b) => (a.week - b.week) || (a.day - b.day));
+            days.forEach(day => {
+                const li = document.createElement('li');
+                li.innerHTML = `<a class="day-box-link" href="day.html?week=${day.week}&day=${day.day}">Dag ${day.day} (Vecka ${day.week}): ${day.title}</a>`;
+                list.appendChild(li);
+            });
+        }
+    </script>
+</body>
+</html>

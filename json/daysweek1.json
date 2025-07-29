@@ -1,0 +1,160 @@
+{
+"daysW1": [
+  {
+    "week": 1,
+    "day": 1,
+    "title": "Saint-Jean-Pied-de-Port -> Orisson",
+    "distance": "7,4 km",
+    "short_desc": "Bergsetapp över Pyrenéerna.",
+    "long_desc": "En av de mest utmanande etapperna, med fantastisk utsikt och historiska platser.",
+    "accommodation": "Kloster i Roncesvalles",
+    "elevation_gain": "+1250 m",
+    "elevation_loss": "-500 m",
+    "image": "week1/dag1.JPG",
+    "route_map": {
+      "start": { "name": "Saint-Jean-Pied-de-Port", "lat": 43.1631, "lng": -1.2374 },
+      "end": { "name": "Orisson", "lat": 43.1767, "lng": -1.2031 },
+        "polyline": [
+    
+  ]
+    },
+    "descriptions_gallery": [
+      "En bild på mig och mammma",
+      "En bild på en pilgrimsskulptur",
+      "En bild på vindkraftverken",
+      "En bild på en vacker utsikt över bergen",
+      "En bild på en liten by längs vägen",
+      "En bild på en traditionell pilgrimsstuga",
+      "En bild på en vacker solnedgång över bergen"
+    ],
+    "gallery" : [
+      "assets/week1/dag1/dag11.JPG",
+      "assets/week1/dag1/dag12.JPG"
+    ]
+  },
+  {
+    "week": 1,
+    "day": 2,
+    "title": "Orisson -> Roncesvalles",
+    "distance": "16,8 km",
+    "short_desc": "Nedstigning genom skogar och byar.",
+    "long_desc": "Lugnare etapp med vackra skogspartier och små baskiska byar.",
+    "accommodation": "Albergue i Zubiri",
+    "elevation_gain": "+250 m",
+    "elevation_loss": "-600 m",
+    "image": "week1/dag2.JPG",
+    "route_map": {
+      "start": { "name": "Orisson", "lat": 43.1767, "lng": -1.2031 },
+      "end": { "name": "Roncesvalles", "lat": 43.0094, "lng": -1.3206 },
+      "polyline": [
+ 
+      ]
+    },
+      "gallery" : [
+        "assets/week1/dag2/dag21.JPG",
+        "assets/week1/dag2/dag22.JPG",
+        "assets/week1/dag2/dag23.JPG",
+        "assets/week1/dag2/dag24.JPG",
+        "assets/week1/dag2/dag25.JPG",
+        "assets/week1/dag2/dag26.JPG",
+        "assets/week1/dag2/dag27.JPG"
+    ]
+    
+  },
+  {
+    "week": 1,
+    "day": 3,
+    "title": "Roncesvalles -> Zubiri",
+    "distance": "21,5 km",
+    "short_desc": "Mot den första storstaden.",
+    "long_desc": "Vandring längs floden Arga till den historiska staden Pamplona.",
+    "accommodation": "Albergue i Pamplona",
+    "elevation_gain": "+150 m",
+    "elevation_loss": "-200 m",
+    "image": "week1/dag3.JPG",
+    "route_map": {
+      "start": { "name": "Roncesvalles", "lat": 43.0094, "lng": -1.3206 },
+      "end": { "name": "Zubiri", "lat": 42.9767, "lng": -1.4681 },
+      "polyline": [
+      
+      ]
+    }
+  },
+  {
+    "week": 1,
+    "day": 4,
+    "title": "Zubiri -> Pamplona",
+    "distance": "20,5 km",
+    "short_desc": "Över Alto del Perdón.",
+    "long_desc": "Känd för vindkraftverken och pilgrimsskulpturerna på höjden.",
+    "accommodation": "Albergue i Puente la Reina",
+    "elevation_gain": "+400 m",
+    "elevation_loss": "-450 m",
+    "image": "week1/dag4.JPG",
+    "route_map": {
+      "start": { "name": "Zubiri", "lat": 42.9767, "lng": -1.4681 },
+      "end": { "name": "Pamplona", "lat": 42.8169, "lng": -1.6432 },
+      "polyline": [
+     
+      ]
+    }
+  },
+  {
+    "week": 1,
+    "day": 5,
+    "title": "Pamplona -> Puente la Reina",
+    "distance": "25,0 km",
+    "short_desc": "Vinlandskap och små byar.",
+    "long_desc": "Vandring genom vingårdar och medeltida byar till Estella.",
+    "accommodation": "Albergue i Estella",
+    "elevation_gain": "+300 m",
+    "elevation_loss": "-350 m",
+    "image": "week1/dag5.JPG",
+    "route_map": {
+      "start": { "name": "Pamplona", "lat": 42.8169, "lng": -1.6432 },
+      "end": { "name": "Puente la Reina", "lat": 42.6716, "lng": -1.8167 },
+      "polyline": [
+     
+      ]
+    }
+  },
+  {
+    "week": 1,
+    "day": 6,
+    "title": "Puente la Reina -> Lorca",
+    "distance": "18,0 km",
+    "short_desc": "Kända vinfontänen.",
+    "long_desc": "Passerar Irache och dess berömda vinfontän, vidare till Los Arcos.",
+    "accommodation": "Albergue i Los Arcos",
+    "elevation_gain": "+200 m",
+    "elevation_loss": "-250 m",
+    "image": "week1/dag6.JPG",
+    "route_map": {
+      "start": { "name": "Puente la Reina", "lat": 42.6716, "lng": -1.8167 },
+      "end": { "name": "Lorca", "lat": 42.6667, "lng": -1.9500 },
+      "polyline": [
+ 
+      ]
+    }
+  },
+  {
+    "week": 1,
+    "day": 7,
+    "title": "Lorca -> Estella",
+    "distance": "9,0 km",
+    "short_desc": "Längsta etappen på veckan.",
+    "long_desc": "Avslutning i Rioja-regionens huvudstad Logroño.",
+    "accommodation": "Albergue i Logroño",
+    "elevation_gain": "+150 m",
+    "elevation_loss": "-200 m",
+    "image": "week1/dag7.JPG",
+    "route_map": {
+      "start": { "name": "Lorca", "lat": 42.6667, "lng": -1.9500 },
+      "end": { "name": "Estella", "lat": 42.6716, "lng": -2.0316 },
+      "polyline": [
+     
+      ]
+    }
+  }
+]
+}

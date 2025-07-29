@@ -1,0 +1,136 @@
+{
+  "daysW6": [
+    {
+      "week": 6,
+      "day": 36,
+      "title": "El Acebo de San Miguel-> Sarria",
+      "distance": "18,0 km",
+      "short_desc": "Mot populär startpunkt.",
+      "long_desc": "Vandring genom Galiciens gröna landskap.",
+      "accommodation": "Albergue i Sarria",
+      "elevation_gain": "+200 m",
+      "elevation_loss": "-300 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Triacastela", "lat": 42.7267, "lng": -7.2406 },
+        "end": { "name": "Sarria", "lat": 42.7811, "lng": -7.4092 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "day": 2,
+      "title": "Sarria -> Portomarín",
+      "distance": "22,0 km",
+      "short_desc": "Första etappen för många pilgrimer.",
+      "long_desc": "Vandring över floden Miño till Portomarín.",
+      "accommodation": "Albergue i Portomarín",
+      "elevation_gain": "+350 m",
+      "elevation_loss": "-400 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Sarria", "lat": 42.7811, "lng": -7.4092 },
+        "end": { "name": "Portomarín", "lat": 42.8081, "lng": -7.6156 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "day": 3,
+      "title": "Portomarín -> Palas de Rei",
+      "distance": "25,0 km",
+      "short_desc": "Landsbygdsvandring.",
+      "long_desc": "Genom små byar och gröna kullar.",
+      "accommodation": "Albergue i Palas de Rei",
+      "elevation_gain": "+300 m",
+      "elevation_loss": "-250 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Portomarín", "lat": 42.8081, "lng": -7.6156 },
+        "end": { "name": "Palas de Rei", "lat": 42.8731, "lng": -7.8681 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "day": 4,
+      "title": "Palas de Rei -> Melide",
+      "distance": "15,0 km",
+      "short_desc": "Mot pulpostaden.",
+      "long_desc": "Kortare dag till Melide, känd för sin bläckfisk.",
+      "accommodation": "Albergue i Melide",
+      "elevation_gain": "+120 m",
+      "elevation_loss": "-100 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Palas de Rei", "lat": 42.8731, "lng": -7.8681 },
+        "end": { "name": "Melide", "lat": 42.9131, "lng": -8.0156 },
+        "polyline": [
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "day": 5,
+      "title": "Melide -> Arzúa",
+      "distance": "14,0 km",
+      "short_desc": "Mot oststaden.",
+      "long_desc": "Vandring till Arzúa, känd för sin ost.",
+      "accommodation": "Albergue i Arzúa",
+      "elevation_gain": "+80 m",
+      "elevation_loss": "-90 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Melide", "lat": 42.9131, "lng": -8.0156 },
+        "end": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1581 },
+        "polyline": [
+         
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "day": 6,
+      "title": "Arzúa -> O Pedrouzo",
+      "distance": "19,0 km",
+      "short_desc": "Nästan framme.",
+      "long_desc": "Sista natten före Santiago.",
+      "accommodation": "Albergue i O Pedrouzo",
+      "elevation_gain": "+120 m",
+      "elevation_loss": "-110 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1581 },
+        "end": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
+        "polyline": [
+          
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "day": 7,
+      "title": "O Pedrouzo -> Santiago de Compostela",
+      "distance": "20,0 km",
+      "short_desc": "Målet nås!",
+      "long_desc": "Ankomst till katedralen i Santiago.",
+      "accommodation": "Albergue i Santiago",
+      "elevation_gain": "+150 m",
+      "elevation_loss": "-200 m",
+      "image": "placeholder.jpg",
+      "route_map": {
+        "start": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
+        "end": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
+        "polyline": [
+          
+        ]
+      }
+    }
+  ]
+}

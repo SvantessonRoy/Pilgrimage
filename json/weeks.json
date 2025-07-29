@@ -1,0 +1,66 @@
+[
+  {
+    "week": 1,
+    "title": "Vecka 1",
+    "route": "Saint-Jean-Pier-de-Port -> Estella",
+    "distance": "118,2 km",
+    "button": "Till vecka 1",
+    "image": "vecka1.jpg"
+  },
+  {
+    "week": 2,
+    "title": "Vecka 2",
+    "route": "Estella -> Santo Domingo de la Calzada",
+    "distance": "99,9 km",
+    "button": "Till vecka 2",
+    "image": "vecka2.jpg"
+  },
+  {
+    "week": 3,
+    "title": "Vecka 3",
+    "route": "Santo Domingo de la Calzada -> Hontanas",
+    "distance": "103,5 km",
+    "button": "Till vecka 3",
+    "image": "vecka3.jpg"
+  },
+  {
+    "week": 4,
+    "title": "Vecka 4",
+    "route": "Hontanas -> Mansilla de las Mulas",
+    "distance": "129,1 km",
+    "button": "Till vecka 4",
+    "image": "vecka4.jpg"
+  },
+  {
+    "week": 5,
+    "title": "Vecka 5",
+    "route": "Mansilla de las Mulas ->El Acebo de San Miguel",
+    "distance": "96,5 km",
+    "button": "Till vecka 5",
+    "image": "vecka5.jpg"
+  },
+  {
+    "week": 6,
+    "title": "Vecka 6",
+    "route": "El Acebo de San Miguel -> Sarria",
+    "distance": "98,4 km",
+    "button": "Till vecka 6",
+    "image": "vecka6.jpg"
+  },
+  {
+    "week": 7,
+    "title": "Vecka 7",
+    "route": "Sarria -> Santiago de Compostela",
+    "distance": "95,1 km",
+    "button": "Till vecka 7",
+    "image": "vecka7.jpg"
+  },
+  {
+    "week": 8,
+    "title": "Vecka 8",
+    "route": "Santiago de Compostela -> Finisterre",
+    "distance": "82,0 km",
+    "button": "Till vecka 8",
+    "image": "vecka8.jpg"
+  }
+]
