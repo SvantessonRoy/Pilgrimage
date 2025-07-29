@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Dynamisk rendering av veckokort med bakgrundsbild
-    fetch('../json/weeks.json')
+    fetch('json/weeks.json')
         .then(response => response.json())
         .then(weeks => {
             const weekCardsContainer = document.querySelector('.week-cards');
@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     card.className = 'week-card';
                     // Om week.image finns, använd den som bakgrund
                     if (week.image) {
-                        card.style.backgroundImage = `url('../assets/${week.image}')`;
+                        card.style.backgroundImage = `url('assets/${week.image}')`;
                         card.style.backgroundSize = 'cover';
                         card.style.backgroundPosition = 'center';
                         card.style.color = '#fff';
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const leafletScript = document.createElement('script');
     leafletScript.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
     leafletScript.onload = function() {
-        fetch('../json/map_points.json')
+        fetch('json/map_points.json')
             .then(response => response.json())
             .then(points => {
                 const map = L.map('map').setView([42.7, -4.5], 7);
