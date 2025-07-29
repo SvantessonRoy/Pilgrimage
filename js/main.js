@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         <h4>${week.title}</h4>
                         <p>${week.route}</p>
                         <p><strong>Distans:</strong> ${week.distance ? week.distance : ''}</p>
-                        <a href="week.html?week=${encodeURIComponent(weekId)}" class="week-link-btn">${week.button || 'Visa vecka'}</a>
+                        <a href="html/week.html?week=${encodeURIComponent(weekId)}" class="week-link-btn">${week.button || 'Visa vecka'}</a>
                     `;
                     weekCardsContainer.appendChild(card);
                 });
