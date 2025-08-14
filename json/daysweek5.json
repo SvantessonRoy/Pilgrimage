@@ -4,9 +4,10 @@
       "week": 5,
       "day": 29,
       "title": "Mansilla de las Mulas -> León",
-      "distance": "18,0 km",
-      "short_desc": "Upp mot bergen.",
-      "long_desc": "Vandring mot Montes de León.",
+  "distance": "18,0 km",
+  "time": "5 h",
+  "short_desc": "Up towards the mountains.",
+  "long_desc": "Hiking towards Montes de León.",
       "accommodation": "Hotel My Palace Leon",
       "elevation_gain": "+350 m",
       "elevation_loss": "-100 m",
@@ -17,14 +18,40 @@
         "polyline": [
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Mansilla de las Mulas",
+      "León",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week5/dag1/dag11.jpg",
+      "assets/week5/dag1/dag12.jpg",
+      "assets/week5/dag1/dag13.jpg",
+      "assets/week5/dag1/dag14.jpg",
+      "assets/week5/dag1/dag15.jpg",
+      "assets/week5/dag1/dag16.jpg",
+      "assets/week5/dag1/dag17.jpg",
+      "assets/week5/dag1/dag18.jpg",
+      "assets/week5/dag1/dag19.jpg",
+      "assets/week5/dag1/dag110.jpg"
+    ]
     },
     {
       "week": 5,
       "day": 30,
-      "title": "León -> León",
-      "distance": "0,0 km",
-      "short_desc": "Vilodag.",
-      "long_desc": "Kort men brant etapp till Cruz de Ferro.",
+      "title": "León - Rest day",
+  "distance": "0,0 km",
+  "time": "Rest",
+  "short_desc": "Rest day.",
+  "long_desc": "Short but steep stage to Cruz de Ferro.",
       "accommodation": "Hotel My Palace Leon",
       "elevation_gain": "+250 m",
       "elevation_loss": "-50 m",
@@ -36,14 +63,40 @@
         
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "León",
+      "León",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week5/dag2/dag21.jpg",
+      "assets/week5/dag2/dag22.jpg",
+      "assets/week5/dag2/dag23.jpg",
+      "assets/week5/dag2/dag24.jpg",
+      "assets/week5/dag2/dag25.jpg",
+      "assets/week5/dag2/dag26.jpg",
+      "assets/week5/dag2/dag27.jpg",
+      "assets/week5/dag2/dag28.jpg",
+      "assets/week5/dag2/dag29.jpg",
+      "assets/week5/dag2/dag210.jpg"
+    ]
     },
     {
       "week": 5,
       "day": 31,
       "title": "León -> Villa de Mazarife",
-      "distance": "22,0 km",
-      "short_desc": "Nedstigning till dalen.",
-      "long_desc": "Brant nedför till byn Molinaseca.",
+  "distance": "22,0 km",
+  "time": "6 h",
+  "short_desc": "Descent to the valley.",
+  "long_desc": "Steep descent to the village of Molinaseca.",
       "accommodation": "Tio pepe Hostel",
       "elevation_gain": "+50 m",
       "elevation_loss": "-900 m",
@@ -54,14 +107,40 @@
         "polyline": [
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "León",
+      "Villa de Mazarife",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week5/dag3/dag31.jpg",
+      "assets/week5/dag3/dag32.jpg",
+      "assets/week5/dag3/dag33.jpg",
+      "assets/week5/dag3/dag34.jpg",
+      "assets/week5/dag3/dag35.jpg",
+      "assets/week5/dag3/dag36.jpg",
+      "assets/week5/dag3/dag37.jpg",
+      "assets/week5/dag3/dag38.jpg",
+      "assets/week5/dag3/dag39.jpg",
+      "assets/week5/dag3/dag310.jpg"
+    ]
     },
     {
       "week": 5,
       "day": 32,
       "title": "Villa de Mazarife -> Hospital de Orbigio",
-      "distance": "20,0 km",
-      "short_desc": "Kort dag till Ponferrada.",
-      "long_desc": "Besök vid Templarslottet i Ponferrada.",
+  "distance": "20,0 km",
+  "time": "5 h",
+  "short_desc": "Short day to Ponferrada.",
+  "long_desc": "Visit to the Templar castle in Ponferrada.",
       "accommodation": "Hostal Don Suero de Quinones ",
       "elevation_gain": "+40 m",
       "elevation_loss": "-30 m",
@@ -73,14 +152,40 @@
           
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Villa de Mazarife",
+      "Hospital de Orbigio",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week5/dag4/dag41.jpg",
+      "assets/week5/dag4/dag42.jpg",
+      "assets/week5/dag4/dag43.jpg",
+      "assets/week5/dag4/dag44.jpg",
+      "assets/week5/dag4/dag45.jpg",
+      "assets/week5/dag4/dag46.jpg",
+      "assets/week5/dag4/dag47.jpg",
+      "assets/week5/dag4/dag48.jpg",
+      "assets/week5/dag4/dag49.jpg",
+      "assets/week5/dag4/dag410.jpg"
+    ]
     },
     {
       "week": 5,
       "day": 33,
       "title": "Hospital de Orbigio -> Astorga",
-      "distance": "17,9 km",
-      "short_desc": "Genom vinregionen Bierzo.",
-      "long_desc": "Vandring genom vingårdar och små byar.",
+  "distance": "17,9 km",
+  "time": "5 h",
+  "short_desc": "Through the Bierzo wine region.",
+  "long_desc": "Hiking through vineyards and small villages.",
       "accommodation": "Hotel Gaudi",
       "elevation_gain": "+200 m",
       "elevation_loss": "-180 m",
@@ -92,14 +197,40 @@
           
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Hospital de Orbigio",
+      "Astorga",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week5/dag5/dag51.jpg",
+      "assets/week5/dag5/dag52.jpg",
+      "assets/week5/dag5/dag53.jpg",
+      "assets/week5/dag5/dag54.jpg",
+      "assets/week5/dag5/dag55.jpg",
+      "assets/week5/dag5/dag56.jpg",
+      "assets/week5/dag5/dag57.jpg",
+      "assets/week5/dag5/dag58.jpg",
+      "assets/week5/dag5/dag59.jpg",
+      "assets/week5/dag5/dag510.jpg"
+    ]
     },
     {
       "week": 5,
       "day": 34,
       "title": "Astorga ->  Rabanal del Camino",
-      "distance": "19,8 km",
-      "short_desc": "Upp i Galiciens berg.",
-      "long_desc": "Lång och krävande stigning till O Cebreiro.",
+  "distance": "19,8 km",
+  "time": "6 h",
+  "short_desc": "Up into the mountains of Galicia.",
+  "long_desc": "Long and demanding climb to O Cebreiro.",
       "accommodation": "Posada El Tesin",
       "elevation_gain": "+900 m",
       "elevation_loss": "-100 m",
@@ -111,14 +242,40 @@
           
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Astorga",
+      "Rabanal del Camino",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week5/dag6/dag61.jpg",
+      "assets/week5/dag6/dag62.jpg",
+      "assets/week5/dag6/dag63.jpg",
+      "assets/week5/dag6/dag64.jpg",
+      "assets/week5/dag6/dag65.jpg",
+      "assets/week5/dag6/dag66.jpg",
+      "assets/week5/dag6/dag67.jpg",
+      "assets/week5/dag6/dag68.jpg",
+      "assets/week5/dag6/dag69.jpg",
+      "assets/week5/dag6/dag610.jpg"
+    ]
     },
     {
       "week": 5,
       "day": 35,
       "title": "Rabanal del Camino -> El Acebo de San Miguel",
-      "distance": "16,8 km",
-      "short_desc": "Ned i Galicien.",
-      "long_desc": "Vandring genom gröna dalar och små byar.",
+  "distance": "16,8 km",
+  "time": "5 h",
+  "short_desc": "Down into Galicia.",
+  "long_desc": "Hiking through green valleys and small villages.",
       "accommodation": "La Trucha del Arco Iris",
       "elevation_gain": "+100 m",
       "elevation_loss": "-600 m",
@@ -130,6 +287,31 @@
          
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Rabanal del Camino",
+      "El Acebo de San Miguel",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week5/dag7/dag71.jpg",
+      "assets/week5/dag7/dag72.jpg",
+      "assets/week5/dag7/dag73.jpg",
+      "assets/week5/dag7/dag74.jpg",
+      "assets/week5/dag7/dag75.jpg",
+      "assets/week5/dag7/dag76.jpg",
+      "assets/week5/dag7/dag77.jpg",
+      "assets/week5/dag7/dag78.jpg",
+      "assets/week5/dag7/dag79.jpg",
+      "assets/week5/dag7/dag710.jpg"
+    ]
     }
   ]
 }

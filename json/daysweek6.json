@@ -3,134 +3,303 @@
     {
       "week": 6,
       "day": 36,
-      "title": "El Acebo de San Miguel-> Sarria",
-      "distance": "18,0 km",
-      "short_desc": "Mot populär startpunkt.",
-      "long_desc": "Vandring genom Galiciens gröna landskap.",
-      "accommodation": "Albergue i Sarria",
+      "title": "El Acebo de San Miguel-> Ponferrada",
+  "distance": "15,4 km",
+  "time": "4 h",
+      "short_desc": "Brief description of today's pilgrimage of today's pilgrimage.",
+      "long_desc": "Detailed description and illustration.",
+      "accommodation": "Hotel Aroi Ponferrada",
       "elevation_gain": "+200 m",
       "elevation_loss": "-300 m",
       "image": "placeholder.jpg",
       "route_map": {
-        "start": { "name": "Triacastela", "lat": 42.7267, "lng": -7.2406 },
-        "end": { "name": "Sarria", "lat": 42.7811, "lng": -7.4092 },
-        "polyline": [
-          
-        ]
+        "start": { "name": "El Acebo de San Miguel", "lat": 42.5367, "lng": -6.5206 },
+        "end": { "name": "Ponferrada", "lat": 42.5461, "lng": -6.5941 },
+        "polyline": []
       }
+    ,
+    "descriptions_gallery": [
+      "El Acebo de San Miguel",
+      "Ponferrada",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week6/dag1/dag11.jpg",
+      "assets/week6/dag1/dag12.jpg",
+      "assets/week6/dag1/dag13.jpg",
+      "assets/week6/dag1/dag14.jpg",
+      "assets/week6/dag1/dag15.jpg",
+      "assets/week6/dag1/dag16.jpg",
+      "assets/week6/dag1/dag17.jpg",
+      "assets/week6/dag1/dag18.jpg",
+      "assets/week6/dag1/dag19.jpg",
+      "assets/week6/dag1/dag110.jpg"
+    ]
     },
     {
       "week": 6,
-      "day": 2,
-      "title": "Sarria -> Portomarín",
-      "distance": "22,0 km",
-      "short_desc": "Första etappen för många pilgrimer.",
-      "long_desc": "Vandring över floden Miño till Portomarín.",
-      "accommodation": "Albergue i Portomarín",
+      "day": 37,
+      "title": "Ponferrada -> Villafranca del Bierzo",
+  "distance": "23,6 km",
+  "time": "6 h",
+  "short_desc": "The first stage for many pilgrims.",
+  "long_desc": "Hiking over the Miño river to Portomarín.",
+      "accommodation": "Vina Femita",
       "elevation_gain": "+350 m",
       "elevation_loss": "-400 m",
       "image": "placeholder.jpg",
       "route_map": {
-        "start": { "name": "Sarria", "lat": 42.7811, "lng": -7.4092 },
-        "end": { "name": "Portomarín", "lat": 42.8081, "lng": -7.6156 },
-        "polyline": [
-          
-        ]
+        "start": { "name": "Ponferrada", "lat": 42.5461, "lng": -6.5941 },
+        "end": { "name": "Villafranca del Bierzo", "lat": 42.6036, "lng": -6.7656 },
+        "polyline": []
       }
+    ,
+    "descriptions_gallery": [
+      "Ponferrada",
+      "Villafranca del Bierzo",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week6/dag2/dag21.jpg",
+      "assets/week6/dag2/dag22.jpg",
+      "assets/week6/dag2/dag23.jpg",
+      "assets/week6/dag2/dag24.jpg",
+      "assets/week6/dag2/dag25.jpg",
+      "assets/week6/dag2/dag26.jpg",
+      "assets/week6/dag2/dag27.jpg",
+      "assets/week6/dag2/dag28.jpg",
+      "assets/week6/dag2/dag29.jpg",
+      "assets/week6/dag2/dag210.jpg"
+    ]
     },
     {
       "week": 6,
-      "day": 3,
-      "title": "Portomarín -> Palas de Rei",
-      "distance": "25,0 km",
-      "short_desc": "Landsbygdsvandring.",
-      "long_desc": "Genom små byar och gröna kullar.",
-      "accommodation": "Albergue i Palas de Rei",
+      "day": 38,
+      "title": "Villafranca del Bierzo -> Vega de Valcarce",
+  "distance": "16,8 km",
+  "time": "5 h",
+  "short_desc": "Rural walk.",
+  "long_desc": "Through small villages and green hills.",
+      "accommodation": "Hostal El Recanto",
       "elevation_gain": "+300 m",
       "elevation_loss": "-250 m",
       "image": "placeholder.jpg",
       "route_map": {
-        "start": { "name": "Portomarín", "lat": 42.8081, "lng": -7.6156 },
-        "end": { "name": "Palas de Rei", "lat": 42.8731, "lng": -7.8681 },
-        "polyline": [
-          
-        ]
+        "start": { "name": "Villafranca del Bierzo", "lat": 42.6036, "lng": -6.7656 },
+        "end": { "name": "Vega de Valcarce", "lat": 42.6891, "lng": -6.9681 },
+        "polyline": []
       }
+    ,
+    "descriptions_gallery": [
+      "Villafranca del Bierzo",
+      "Vega de Valcarce",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week6/dag3/dag31.jpg",
+      "assets/week6/dag3/dag32.jpg",
+      "assets/week6/dag3/dag33.jpg",
+      "assets/week6/dag3/dag34.jpg",
+      "assets/week6/dag3/dag35.jpg",
+      "assets/week6/dag3/dag36.jpg",
+      "assets/week6/dag3/dag37.jpg",
+      "assets/week6/dag3/dag38.jpg",
+      "assets/week6/dag3/dag39.jpg",
+      "assets/week6/dag3/dag310.jpg"
+    ]
     },
     {
       "week": 6,
-      "day": 4,
-      "title": "Palas de Rei -> Melide",
-      "distance": "15,0 km",
-      "short_desc": "Mot pulpostaden.",
-      "long_desc": "Kortare dag till Melide, känd för sin bläckfisk.",
-      "accommodation": "Albergue i Melide",
+      "day": 39,
+      "title": "Vega de Valcarce -> Fonfria",
+  "distance": "23,4 km",
+  "time": "6 h",
+  "short_desc": "Towards the octopus town.",
+  "long_desc": "Shorter day to Melide, famous for its octopus.",
+      "accommodation": "Casa Galego",
       "elevation_gain": "+120 m",
       "elevation_loss": "-100 m",
       "image": "placeholder.jpg",
       "route_map": {
-        "start": { "name": "Palas de Rei", "lat": 42.8731, "lng": -7.8681 },
-        "end": { "name": "Melide", "lat": 42.9131, "lng": -8.0156 },
-        "polyline": [
-        ]
+        "start": { "name": "Vega de Valcarce", "lat": 42.6891, "lng": -6.9681 },
+        "end": { "name": "Fonfria", "lat": 42.7086, "lng": -7.0406 },
+        "polyline": []
       }
+    ,
+    "descriptions_gallery": [
+      "Vega de Valcarce",
+      "Fonfria",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week6/dag4/dag41.jpg",
+      "assets/week6/dag4/dag42.jpg",
+      "assets/week6/dag4/dag43.jpg",
+      "assets/week6/dag4/dag44.jpg",
+      "assets/week6/dag4/dag45.jpg",
+      "assets/week6/dag4/dag46.jpg",
+      "assets/week6/dag4/dag47.jpg",
+      "assets/week6/dag4/dag48.jpg",
+      "assets/week6/dag4/dag49.jpg",
+      "assets/week6/dag4/dag410.jpg"
+    ]
     },
     {
       "week": 6,
-      "day": 5,
-      "title": "Melide -> Arzúa",
-      "distance": "14,0 km",
-      "short_desc": "Mot oststaden.",
-      "long_desc": "Vandring till Arzúa, känd för sin ost.",
-      "accommodation": "Albergue i Arzúa",
+      "day": 40,
+      "title": "Fonfria -> Samos",
+  "distance": "19,2 km",
+  "time": "5 h",
+  "short_desc": "Towards the cheese town.",
+  "long_desc": "Hiking to Arzúa, famous for its cheese.",
+      "accommodation": "A Casa da Botica",
       "elevation_gain": "+80 m",
       "elevation_loss": "-90 m",
       "image": "placeholder.jpg",
       "route_map": {
-        "start": { "name": "Melide", "lat": 42.9131, "lng": -8.0156 },
-        "end": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1581 },
-        "polyline": [
-         
-        ]
+        "start": { "name": "Fonfria", "lat": 42.7086, "lng": -7.0406 },
+        "end": { "name": "Samos", "lat": 42.7787, "lng": -7.4092 },
+        "polyline": []
       }
+    ,
+    "descriptions_gallery": [
+      "Fonfria",
+      "Samos",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week6/dag5/dag51.jpg",
+      "assets/week6/dag5/dag52.jpg",
+      "assets/week6/dag5/dag53.jpg",
+      "assets/week6/dag5/dag54.jpg",
+      "assets/week6/dag5/dag55.jpg",
+      "assets/week6/dag5/dag56.jpg",
+      "assets/week6/dag5/dag57.jpg",
+      "assets/week6/dag5/dag58.jpg",
+      "assets/week6/dag5/dag59.jpg",
+      "assets/week6/dag5/dag510.jpg"
+    ]
     },
     {
       "week": 6,
-      "day": 6,
-      "title": "Arzúa -> O Pedrouzo",
-      "distance": "19,0 km",
-      "short_desc": "Nästan framme.",
-      "long_desc": "Sista natten före Santiago.",
-      "accommodation": "Albergue i O Pedrouzo",
+      "day": 41,
+      "title": "Samos -> Sarria",
+  "distance": "15,4 km",
+  "time": "4 h",
+  "short_desc": "Almost there.",
+  "long_desc": "Last night before Santiago.",
+      "accommodation": "Casa Solance",
       "elevation_gain": "+120 m",
       "elevation_loss": "-110 m",
       "image": "placeholder.jpg",
       "route_map": {
-        "start": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1581 },
-        "end": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
-        "polyline": [
-          
-        ]
+        "start": { "name": "Samos", "lat": 42.7787, "lng": -7.4092 },
+        "end": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
+        "polyline": []
       }
+    ,
+    "descriptions_gallery": [
+      "Samos",
+      "Sarria",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week6/dag6/dag61.jpg",
+      "assets/week6/dag6/dag62.jpg",
+      "assets/week6/dag6/dag63.jpg",
+      "assets/week6/dag6/dag64.jpg",
+      "assets/week6/dag6/dag65.jpg",
+      "assets/week6/dag6/dag66.jpg",
+      "assets/week6/dag6/dag67.jpg",
+      "assets/week6/dag6/dag68.jpg",
+      "assets/week6/dag6/dag69.jpg",
+      "assets/week6/dag6/dag610.jpg"
+    ]
     },
     {
       "week": 6,
-      "day": 7,
-      "title": "O Pedrouzo -> Santiago de Compostela",
-      "distance": "20,0 km",
-      "short_desc": "Målet nås!",
-      "long_desc": "Ankomst till katedralen i Santiago.",
-      "accommodation": "Albergue i Santiago",
+      "day": 42,
+      "title": "Sarria -Rest day",
+  "distance": "0,0 km",
+  "time": "Rest",
+  "short_desc": "The goal is reached!",
+  "long_desc": "Arrival at the cathedral in Santiago.",
+      "accommodation": "Casa Solance",
       "elevation_gain": "+150 m",
       "elevation_loss": "-200 m",
       "image": "placeholder.jpg",
       "route_map": {
-        "start": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
-        "end": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
-        "polyline": [
-          
-        ]
+        "start": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
+        "end": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
+        "polyline": []
       }
+    ,
+    "descriptions_gallery": [
+      "Sarria",
+      "Sarria",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week6/dag7/dag71.jpg",
+      "assets/week6/dag7/dag72.jpg",
+      "assets/week6/dag7/dag73.jpg",
+      "assets/week6/dag7/dag74.jpg",
+      "assets/week6/dag7/dag75.jpg",
+      "assets/week6/dag7/dag76.jpg",
+      "assets/week6/dag7/dag77.jpg",
+      "assets/week6/dag7/dag78.jpg",
+      "assets/week6/dag7/dag79.jpg",
+      "assets/week6/dag7/dag710.jpg"
+    ]
     }
   ]
 }

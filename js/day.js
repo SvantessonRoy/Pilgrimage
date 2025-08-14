@@ -14,7 +14,7 @@ async function loadDay() {
         document.getElementById('day-desc').textContent = '';
         document.getElementById('day-accommodation').textContent = '';
         document.getElementById('day-gallery').innerHTML = '';
-        document.getElementById('day-back-link').innerHTML = '<a href="week.html?week=' + (weekId || '') + '">← Tillbaka till Vecka</a>';
+        document.getElementById('day-back-link').innerHTML = '<a href="week.html?week=' + (weekId || '') + '">← Back to Week</a>';
         return;
     }
     try {
@@ -29,16 +29,17 @@ async function loadDay() {
             document.getElementById('day-desc').textContent = '';
             document.getElementById('day-accommodation').textContent = '';
             document.getElementById('day-gallery').innerHTML = '';
-            document.getElementById('day-back-link').innerHTML = `<a href="week.html?week=${weekId}">← Tillbaka till Vecka ${weekId}</a>`;
+            document.getElementById('day-back-link').innerHTML = `<a href="week.html?week=${weekId}">← Back to Week ${weekId}</a>`;
             return;
         }
         // Title
-        document.getElementById('day-title').textContent = `Dag ${day.day}: ${day.title}`;
+        document.getElementById('day-title').textContent = `Day ${day.day}: ${day.title}`;
         // Meta
         let meta = '';
         if (day.date) meta += day.date + ' | ';
-        if (day.distance) meta += 'Distans: ' + day.distance + ' | ';
-        if (day.elevation_gain) meta += 'Höjdmeter: ' + day.elevation_gain;
+        if (day.distance) meta += 'Day distance: ' + day.distance + ' | ';
+        if (day.time) meta += 'Time: ' + day.time + ' | ';
+        if (day.elevation_gain) meta += 'Elevation: ' + day.elevation_gain;
         document.getElementById('day-meta').textContent = meta;
         // Description
         let desc = '';
@@ -68,7 +69,7 @@ async function loadDay() {
                 let caption = captions[i] || '';
                 gallery += `
                     <div class="gallery-photo-container">
-                        <div class="gallery-photo" style="background-image:url('../assets/${imgPath}'); background-size:cover; background-position:center; cursor:pointer;" data-img="../assets/${imgPath}" tabindex="0" aria-label="Visa större bild"></div>
+                        <div class="gallery-photo" style="background-image:url('../assets/${imgPath}'); background-size:cover; background-position:center; cursor:pointer;" data-img="../assets/${imgPath}" tabindex="0" aria-label="Show larger format"></div>
                         <div class="gallery-caption">${caption}</div>
                     </div>
                 `;
@@ -132,7 +133,7 @@ async function loadDay() {
                 // End marker
                 L.marker([day.route_map.end.lat, day.route_map.end.lng])
                   .addTo(map)
-                  .bindPopup(`<b>Mål:</b> ${day.route_map.end.name}`);
+                  .bindPopup(`<b>Ends:</b> ${day.route_map.end.name}`);
                 map.fitBounds(L.polyline(day.route_map.polyline).getBounds(), {padding: [20,20]});
             }
             if (typeof L === 'undefined') {
@@ -149,10 +150,10 @@ async function loadDay() {
                 renderMap();
             }
         } else {
-            document.getElementById('day-map').innerHTML = '<div style="color:#888;text-align:center;padding:2em 0;">Ingen kartdata för denna dag.</div>';
+            document.getElementById('day-map').innerHTML = '<div style="color:#888;text-align:center;padding:2em 0;">No map information for this day.</div>';
         }
         // Back link
-        document.getElementById('day-back-link').innerHTML = `<a href="week.html?week=${weekId}">← Tillbaka till Vecka ${weekId}</a>`;
+        document.getElementById('day-back-link').innerHTML = `<a href="week.html?week=${weekId}">← Back to Week ${weekId}</a>`;
 
         // Previous/Next day navigation (across weeks)
         let navHtml = '<div id="day-nav-buttons" style="position:fixed;bottom:0;left:0;width:100vw;display:flex;justify-content:center;gap:2em;padding:1em 0;background:rgba(255,255,255,0.97);z-index:20000;box-shadow:0 -2px 12px #0002;">';
@@ -172,9 +173,9 @@ async function loadDay() {
             } catch {}
         }
         if (prevLink) {
-            navHtml += `<a id="day-nav-prev" href="${prevLink}" class="day-nav-btn" style="padding:0.7em 2em;background:#3e5c3a;border-radius:2em;text-decoration:none;color:#fff;font-weight:bold;box-shadow:0 2px 8px #0002;transition:background 0.2s;">← Föregående dag</a>`;
+            navHtml += `<a id="day-nav-prev" href="${prevLink}" class="day-nav-btn" style="padding:0.7em 2em;background:#3e5c3a;border-radius:2em;text-decoration:none;color:#fff;font-weight:bold;box-shadow:0 2px 8px #0002;transition:background 0.2s;">← Past day</a>`;
         } else {
-            navHtml += `<span class="day-nav-btn" style="padding:0.7em 2em;background:#b7cbb2;border-radius:2em;color:#fff;font-weight:bold;opacity:0.5;">← Föregående dag</span>`;
+            navHtml += `<span class="day-nav-btn" style="padding:0.7em 2em;background:#b7cbb2;border-radius:2em;color:#fff;font-weight:bold;opacity:0.5;">← Past day</span>`;
         }
         // Next button logic
         let nextLink = null;
@@ -191,9 +192,9 @@ async function loadDay() {
             } catch {}
         }
         if (nextLink) {
-            navHtml += `<a id="day-nav-next" href="${nextLink}" class="day-nav-btn" style="padding:0.7em 2em;background:#3e5c3a;border-radius:2em;text-decoration:none;color:#fff;font-weight:bold;box-shadow:0 2px 8px #0002;transition:background 0.2s;">Nästa dag →</a>`;
+            navHtml += `<a id="day-nav-next" href="${nextLink}" class="day-nav-btn" style="padding:0.7em 2em;background:#3e5c3a;border-radius:2em;text-decoration:none;color:#fff;font-weight:bold;box-shadow:0 2px 8px #0002;transition:background 0.2s;">Next day →</a>`;
         } else {
-            navHtml += `<span class="day-nav-btn" style="padding:0.7em 2em;background:#b7cbb2;border-radius:2em;color:#fff;font-weight:bold;opacity:0.5;">Nästa dag →</span>`;
+            navHtml += `<span class="day-nav-btn" style="padding:0.7em 2em;background:#b7cbb2;border-radius:2em;color:#fff;font-weight:bold;opacity:0.5;">Next day→</span>`;
         }
         navHtml += '</div>';
         // Remove any existing nav buttons to avoid duplicates
@@ -229,7 +230,7 @@ async function loadDay() {
         document.getElementById('day-desc').textContent = '';
         document.getElementById('day-accommodation').textContent = '';
         document.getElementById('day-gallery').innerHTML = '';
-        document.getElementById('day-back-link').innerHTML = '<a href="week.html">← Tillbaka till Veckor</a>';
+        document.getElementById('day-back-link').innerHTML = '<a href="week.html">← Back to week overview</a>';
     }
 }
 

@@ -30,7 +30,7 @@ function renderDayList(days) {
     days.sort((a, b) => (a.week - b.week) || (a.day - b.day));
     days.forEach(day => {
         const li = document.createElement('li');
-        li.innerHTML = `<a class="day-box-link" href="day.html?week=${day.week}&day=${day.day}">Dag ${day.day} (Vecka ${day.week}): ${day.title}</a>`;
+        li.innerHTML = `<a class="day-box-link" href="day.html?week=${day.week}&day=${day.day}">Day ${day.day} (Week ${day.week}): ${day.title}</a>`;
         list.appendChild(li);
     });
 }

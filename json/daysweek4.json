@@ -4,28 +4,55 @@
       "week": 4,
       "day": 22,
       "title": "Hontanas -> Itero de la Vega",
-      "distance": "20,4 km",
-      "short_desc": "Mot Leónprovinsen.",
-      "long_desc": "Vandring genom små byar och öppna fält.",
+  "distance": "20,4 km",
+  "time": "6 h",
+  "short_desc": "Towards the province of León.",
+  "long_desc": "Hiking through small villages and open fields.",
       "accommodation": "Hostel Puente Fitero",
       "elevation_gain": "+60 m",
       "elevation_loss": "-80 m",
       "image": "week4/dag1.jpg",
       "route_map": {
-        "start": { "name": "Hontanas", "lat": 42.3667, "lng": -4.7833 },
+        "start": { "name": "Hontanas", "lat": 42.3138, "lng": -4.0450 },
         "end": { "name": "Itero de la Vega", "lat": 42.3700, "lng": -5.0300 },
         "polyline": [
           
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Hontanas",
+      "Itero de la Vega",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week4/dag1/dag11.jpg",
+      "assets/week4/dag1/dag12.jpg",
+      "assets/week4/dag1/dag13.jpg",
+      "assets/week4/dag1/dag14.jpg",
+      "assets/week4/dag1/dag15.jpg",
+      "assets/week4/dag1/dag16.jpg",
+      "assets/week4/dag1/dag17.jpg",
+      "assets/week4/dag1/dag18.jpg",
+      "assets/week4/dag1/dag19.jpg",
+      "assets/week4/dag1/dag110.jpg"
+    ]
     },
     {
       "week": 4,
       "day": 23,
       "title": "Itero de la Vega -> Frómista",
-      "distance": "13,9 km",
-      "short_desc": "Platt landskap.",
-      "long_desc": "Lugn dagsetapp genom jordbrukslandskap.",
+  "distance": "13,9 km",
+  "time": "4 h",
+  "short_desc": "Flat landscape.",
+  "long_desc": "Easy stage through agricultural landscape.",
       "accommodation": "Hostel Camino de Santiago",
       "elevation_gain": "+30 m",
       "elevation_loss": "-20 m",
@@ -37,14 +64,40 @@
           
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Itero de la Vega",
+      "Frómista",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week4/dag2/dag21.jpg",
+      "assets/week4/dag2/dag22.jpg",
+      "assets/week4/dag2/dag23.jpg",
+      "assets/week4/dag2/dag24.jpg",
+      "assets/week4/dag2/dag25.jpg",
+      "assets/week4/dag2/dag26.jpg",
+      "assets/week4/dag2/dag27.jpg",
+      "assets/week4/dag2/dag28.jpg",
+      "assets/week4/dag2/dag29.jpg",
+      "assets/week4/dag2/dag210.jpg"
+    ]
     },
     {
       "week": 4,
       "day": 24,
       "title": "Frómista -> Carrión de los Condes",
-      "distance": "19,0 km",
-      "short_desc": "Mot staden Mansilla.",
-      "long_desc": "Avslutning på Mesetan.",
+  "distance": "19,0 km",
+  "time": "5 h",
+  "short_desc": "Towards the town of Mansilla.",
+  "long_desc": "End of the Meseta.",
       "accommodation": "Hotel Real Monasterio de san Zoilo",
       "elevation_gain": "+40 m",
       "elevation_loss": "-50 m",
@@ -56,14 +109,40 @@
           
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Frómista",
+      "Carrión de los Condes",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week4/dag3/dag31.jpg",
+      "assets/week4/dag3/dag32.jpg",
+      "assets/week4/dag3/dag33.jpg",
+      "assets/week4/dag3/dag34.jpg",
+      "assets/week4/dag3/dag35.jpg",
+      "assets/week4/dag3/dag36.jpg",
+      "assets/week4/dag3/dag37.jpg",
+      "assets/week4/dag3/dag38.jpg",
+      "assets/week4/dag3/dag39.jpg",
+      "assets/week4/dag3/dag310.jpg"
+    ]
     },
     {
       "week": 4,
       "day": 25,
       "title": "Carrión de los Condes -> Ledigos",
-      "distance": "23,3 km",
-      "short_desc": "In i León.",
-      "long_desc": "Stadsvandring till Leóns centrum.",
+  "distance": "23,3 km",
+  "time": "6 h",
+  "short_desc": "Into León.",
+  "long_desc": "City walk to the center of León.",
       "accommodation": "Albuergue LaMorena",
       "elevation_gain": "+60 m",
       "elevation_loss": "-70 m",
@@ -74,14 +153,40 @@
         "polyline": [
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Carrión de los Condes",
+      "Ledigos",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week4/dag4/dag41.jpg",
+      "assets/week4/dag4/dag42.jpg",
+      "assets/week4/dag4/dag43.jpg",
+      "assets/week4/dag4/dag44.jpg",
+      "assets/week4/dag4/dag45.jpg",
+      "assets/week4/dag4/dag46.jpg",
+      "assets/week4/dag4/dag47.jpg",
+      "assets/week4/dag4/dag48.jpg",
+      "assets/week4/dag4/dag49.jpg",
+      "assets/week4/dag4/dag410.jpg"
+    ]
     },
     {
       "week": 4,
       "day": 26,
       "title": "Ledigos-> Sahagún",
-      "distance": "16,0 km",
-      "short_desc": "Vilo- och sightseeingdag.",
-      "long_desc": "Tid för återhämtning och besök i León.",
+  "distance": "16,0 km",
+  "time": "Rest",
+  "short_desc": "Rest and sightseeing day.",
+  "long_desc": "Time for recovery and a visit to León.",
       "accommodation": "Domus Viatoris",
       "elevation_gain": "",
       "elevation_loss": "",
@@ -92,14 +197,40 @@
         "polyline": [
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Ledigos",
+      "Sahagún",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week4/dag5/dag51.jpg",
+      "assets/week4/dag5/dag52.jpg",
+      "assets/week4/dag5/dag53.jpg",
+      "assets/week4/dag5/dag54.jpg",
+      "assets/week4/dag5/dag55.jpg",
+      "assets/week4/dag5/dag56.jpg",
+      "assets/week4/dag5/dag57.jpg",
+      "assets/week4/dag5/dag58.jpg",
+      "assets/week4/dag5/dag59.jpg",
+      "assets/week4/dag5/dag510.jpg"
+    ]
     },
     {
       "week": 4,
       "day": 27,
       "title": "Sahagún-> El Burgo Ranero",
-      "distance": "17,7 km",
-      "short_desc": "Längsta etappen på veckan.",
-      "long_desc": "Vandring till den historiska bron i Hospital de Órbigo.",
+  "distance": "17,7 km",
+  "time": "5 h",
+  "short_desc": "The longest stage of the week.",
+  "long_desc": "Hiking to the historic bridge in Hospital de Órbigo.",
       "accommodation": "La Costa del adobe",
       "elevation_gain": "+120 m",
       "elevation_loss": "-100 m",
@@ -111,14 +242,40 @@
           
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "Sahagún",
+      "El Burgo Ranero",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week4/dag6/dag61.jpg",
+      "assets/week4/dag6/dag62.jpg",
+      "assets/week4/dag6/dag63.jpg",
+      "assets/week4/dag6/dag64.jpg",
+      "assets/week4/dag6/dag65.jpg",
+      "assets/week4/dag6/dag66.jpg",
+      "assets/week4/dag6/dag67.jpg",
+      "assets/week4/dag6/dag68.jpg",
+      "assets/week4/dag6/dag69.jpg",
+      "assets/week4/dag6/dag610.jpg"
+    ]
     },
     {
       "week": 4,
       "day": 28,
       "title": "El Burgo Ranero -> Mansilla de las Mulas",
-      "distance": "18,8 km",
-      "short_desc": "Mot Astorga.",
-      "long_desc": "Slut på veckan i den romerska staden Astorga.",
+  "distance": "18,8 km",
+  "time": "5 h",
+  "short_desc": "Towards Astorga.",
+  "long_desc": "End of the week in the Roman town of Astorga.",
       "accommodation": "La Casa de los Soportales",
       "elevation_gain": "+90 m",
       "elevation_loss": "-80 m",
@@ -130,6 +287,31 @@
           
         ]
       }
+    ,
+    "descriptions_gallery": [
+      "El Burgo Ranero",
+      "Mansilla de las Mulas",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week4/dag7/dag71.jpg",
+      "assets/week4/dag7/dag72.jpg",
+      "assets/week4/dag7/dag73.jpg",
+      "assets/week4/dag7/dag74.jpg",
+      "assets/week4/dag7/dag75.jpg",
+      "assets/week4/dag7/dag76.jpg",
+      "assets/week4/dag7/dag77.jpg",
+      "assets/week4/dag7/dag78.jpg",
+      "assets/week4/dag7/dag79.jpg",
+      "assets/week4/dag7/dag710.jpg"
+    ]
     }
   ]
 }

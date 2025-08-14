@@ -4,10 +4,11 @@
     "week": 1,
     "day": 1,
     "title": "Saint-Jean-Pied-de-Port -> Orisson",
-    "distance": "7,4 km",
-    "short_desc": "Bergsetapp över Pyrenéerna.",
-    "long_desc": "En av de mest utmanande etapperna, med fantastisk utsikt och historiska platser.",
-    "accommodation": "Kloster i Roncesvalles",
+  "distance": "7,4 km",
+  "time": "3 h",
+  "short_desc": "Mountain stage over the Pyrenees.",
+  "long_desc": "One of the most challenging stages, with fantastic views and historic sites.",
+    "accommodation": "Refugio Orisson",
     "elevation_gain": "+1250 m",
     "elevation_loss": "-500 m",
     "image": "week1/dag1.JPG",
@@ -19,27 +20,39 @@
   ]
     },
     "descriptions_gallery": [
-      "En bild på mig och mammma",
-      "En bild på en pilgrimsskulptur",
-      "En bild på vindkraftverken",
-      "En bild på en vacker utsikt över bergen",
-      "En bild på en liten by längs vägen",
-      "En bild på en traditionell pilgrimsstuga",
-      "En bild på en vacker solnedgång över bergen"
+      "Saint-Jean-Pied-de-Port",
+      "Refugio Orisson",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
     ],
     "gallery" : [
       "assets/week1/dag1/dag11.JPG",
-      "assets/week1/dag1/dag12.JPG"
+      "assets/week1/dag1/dag12.JPG",
+      "assets/week1/dag1/dag13.JPG",
+      "assets/week1/dag1/dag14.JPG",
+      "assets/week1/dag1/dag15.JPG",
+      "assets/week1/dag1/dag16.JPG",
+      "assets/week1/dag1/dag17.JPG",
+      "assets/week1/dag1/dag18.JPG",
+      "assets/week1/dag1/dag19.JPG",
+      "assets/week1/dag1/dag110.JPG"
     ]
   },
   {
     "week": 1,
     "day": 2,
     "title": "Orisson -> Roncesvalles",
-    "distance": "16,8 km",
-    "short_desc": "Nedstigning genom skogar och byar.",
-    "long_desc": "Lugnare etapp med vackra skogspartier och små baskiska byar.",
-    "accommodation": "Albergue i Zubiri",
+  "distance": "16,8 km",
+  "time": "5 h",
+  "short_desc": "Descent through forests and villages.",
+  "long_desc": "A calmer stage with beautiful forest sections and small Basque villages.",
+    "accommodation": "Roncesvalles Pilgrims Hostel",
     "elevation_gain": "+250 m",
     "elevation_loss": "-600 m",
     "image": "week1/dag2.JPG",
@@ -50,62 +63,129 @@
  
       ]
     },
-      "gallery" : [
-        "assets/week1/dag2/dag21.JPG",
-        "assets/week1/dag2/dag22.JPG",
-        "assets/week1/dag2/dag23.JPG",
-        "assets/week1/dag2/dag24.JPG",
-        "assets/week1/dag2/dag25.JPG",
-        "assets/week1/dag2/dag26.JPG",
-        "assets/week1/dag2/dag27.JPG"
+    "descriptions_gallery": [
+      "Orisson",
+      "Roncesvalles",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week1/dag2/dag21.JPG",
+      "assets/week1/dag2/dag22.JPG",
+      "assets/week1/dag2/dag23.JPG",
+      "assets/week1/dag2/dag24.JPG",
+      "assets/week1/dag2/dag25.JPG",
+      "assets/week1/dag2/dag26.JPG",
+      "assets/week1/dag2/dag27.JPG",
+      "assets/week1/dag2/dag28.JPG",
+      "assets/week1/dag2/dag29.JPG",
+      "assets/week1/dag2/dag210.JPG"
     ]
-    
   },
   {
     "week": 1,
     "day": 3,
     "title": "Roncesvalles -> Zubiri",
-    "distance": "21,5 km",
-    "short_desc": "Mot den första storstaden.",
-    "long_desc": "Vandring längs floden Arga till den historiska staden Pamplona.",
-    "accommodation": "Albergue i Pamplona",
+  "distance": "21,5 km",
+  "time": "6 h",
+  "short_desc": "Towards the first big city.",
+  "long_desc": "Hiking along the Arga river to the historic city of Pamplona.",
+    "accommodation": "Albergue Suseia",
     "elevation_gain": "+150 m",
     "elevation_loss": "-200 m",
     "image": "week1/dag3.JPG",
     "route_map": {
       "start": { "name": "Roncesvalles", "lat": 43.0094, "lng": -1.3206 },
-      "end": { "name": "Zubiri", "lat": 42.9767, "lng": -1.4681 },
+      "end": { "name": "Zubiri", "lat": 42.9351, "lng": -1.5041 },
       "polyline": [
       
       ]
     }
+    ,
+    "descriptions_gallery": [
+      "Roncesvalles",
+      "Zubiri",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week1/dag3/dag31.JPG",
+      "assets/week1/dag3/dag32.JPG",
+      "assets/week1/dag3/dag33.JPG",
+      "assets/week1/dag3/dag34.JPG",
+      "assets/week1/dag3/dag35.JPG",
+      "assets/week1/dag3/dag36.JPG",
+      "assets/week1/dag3/dag37.JPG",
+      "assets/week1/dag3/dag38.JPG",
+      "assets/week1/dag3/dag39.JPG",
+      "assets/week1/dag3/dag310.JPG"
+    ]
   },
   {
     "week": 1,
     "day": 4,
     "title": "Zubiri -> Pamplona",
-    "distance": "20,5 km",
-    "short_desc": "Över Alto del Perdón.",
-    "long_desc": "Känd för vindkraftverken och pilgrimsskulpturerna på höjden.",
+  "distance": "20,5 km",
+  "time": "6 h",
+  "short_desc": "Over Alto del Perdón.",
+  "long_desc": "Known for the wind turbines and pilgrim sculptures on the hill.",
     "accommodation": "Albergue i Puente la Reina",
     "elevation_gain": "+400 m",
     "elevation_loss": "-450 m",
     "image": "week1/dag4.JPG",
     "route_map": {
-      "start": { "name": "Zubiri", "lat": 42.9767, "lng": -1.4681 },
+      "start": { "name": "Zubiri", "lat": 42.9351, "lng": -1.5041 },
       "end": { "name": "Pamplona", "lat": 42.8169, "lng": -1.6432 },
       "polyline": [
      
       ]
     }
+    ,
+    "descriptions_gallery": [
+      "Zubiri",
+      "Pamplona",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week1/dag4/dag41.JPG",
+      "assets/week1/dag4/dag42.JPG",
+      "assets/week1/dag4/dag43.JPG",
+      "assets/week1/dag4/dag44.JPG",
+      "assets/week1/dag4/dag45.JPG",
+      "assets/week1/dag4/dag46.JPG",
+      "assets/week1/dag4/dag47.JPG",
+      "assets/week1/dag4/dag48.JPG",
+      "assets/week1/dag4/dag49.JPG",
+      "assets/week1/dag4/dag410.JPG"
+    ]
   },
   {
     "week": 1,
     "day": 5,
     "title": "Pamplona -> Puente la Reina",
-    "distance": "25,0 km",
-    "short_desc": "Vinlandskap och små byar.",
-    "long_desc": "Vandring genom vingårdar och medeltida byar till Estella.",
+  "distance": "25,0 km",
+  "time": "7 h",
+  "short_desc": "Wine landscapes and small villages.",
+  "long_desc": "Hiking through vineyards and medieval villages to Estella.",
     "accommodation": "Albergue i Estella",
     "elevation_gain": "+300 m",
     "elevation_loss": "-350 m",
@@ -117,44 +197,121 @@
      
       ]
     }
+    ,
+    "descriptions_gallery": [
+      "Pamplona",
+      "Puente la Reina",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week1/dag5/dag51.JPG",
+      "assets/week1/dag5/dag52.JPG",
+      "assets/week1/dag5/dag53.JPG",
+      "assets/week1/dag5/dag54.JPG",
+      "assets/week1/dag5/dag55.JPG",
+      "assets/week1/dag5/dag56.JPG",
+      "assets/week1/dag5/dag57.JPG",
+      "assets/week1/dag5/dag58.JPG",
+      "assets/week1/dag5/dag59.JPG",
+      "assets/week1/dag5/dag510.JPG"
+    ]
   },
   {
     "week": 1,
     "day": 6,
     "title": "Puente la Reina -> Lorca",
-    "distance": "18,0 km",
-    "short_desc": "Kända vinfontänen.",
-    "long_desc": "Passerar Irache och dess berömda vinfontän, vidare till Los Arcos.",
-    "accommodation": "Albergue i Los Arcos",
+  "distance": "18,0 km",
+  "time": "5 h",
+  "short_desc": "Famous wine fountain.",
+  "long_desc": "Passing Irache and its famous wine fountain, continuing to Los Arcos.",
+    "accommodation": "Casa Nahia Hostal Rural",
     "elevation_gain": "+200 m",
     "elevation_loss": "-250 m",
     "image": "week1/dag6.JPG",
     "route_map": {
       "start": { "name": "Puente la Reina", "lat": 42.6716, "lng": -1.8167 },
-      "end": { "name": "Lorca", "lat": 42.6667, "lng": -1.9500 },
+      "end": { "name": "Lorca", "lat": 42.6707, "lng": -1.9436 },
       "polyline": [
  
       ]
     }
+    ,
+    "descriptions_gallery": [
+      "Puente la Reina",
+      "Lorca",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week1/dag6/dag61.JPG",
+      "assets/week1/dag6/dag62.JPG",
+      "assets/week1/dag6/dag63.JPG",
+      "assets/week1/dag6/dag64.JPG",
+      "assets/week1/dag6/dag65.JPG",
+      "assets/week1/dag6/dag66.JPG",
+      "assets/week1/dag6/dag67.JPG",
+      "assets/week1/dag6/dag68.JPG",
+      "assets/week1/dag6/dag69.JPG",
+      "assets/week1/dag6/dag610.JPG"
+    ]
   },
   {
     "week": 1,
     "day": 7,
     "title": "Lorca -> Estella",
-    "distance": "9,0 km",
-    "short_desc": "Längsta etappen på veckan.",
-    "long_desc": "Avslutning i Rioja-regionens huvudstad Logroño.",
-    "accommodation": "Albergue i Logroño",
+  "distance": "9,0 km",
+  "time": "2 h",
+  "short_desc": "Longest stage of the week.",
+  "long_desc": "Finishing in the capital of the Rioja region, Logroño.",
+    "accommodation": "Hostal Christina",
     "elevation_gain": "+150 m",
     "elevation_loss": "-200 m",
     "image": "week1/dag7.JPG",
     "route_map": {
-      "start": { "name": "Lorca", "lat": 42.6667, "lng": -1.9500 },
-      "end": { "name": "Estella", "lat": 42.6716, "lng": -2.0316 },
+      "start": { "name": "Lorca", "lat": 42.6707, "lng": -1.9436 },
+      "end": { "name": "Estella", "lat": 42.6790, "lng": -2.0378 },
       "polyline": [
      
       ]
     }
+    ,
+    "descriptions_gallery": [
+      "Lorca",
+      "Estella",
+      "Nature 1",
+      "Nature 2",
+      "People 1",
+      "People 2",
+      "Sustainability 1",
+      "Sustainability 2",
+      "Pilgrimage",
+      "Distance, Time and Elevation"
+    ],
+    "gallery": [
+      "assets/week1/dag7/dag71.JPG",
+      "assets/week1/dag7/dag72.JPG",
+      "assets/week1/dag7/dag73.JPG",
+      "assets/week1/dag7/dag74.JPG",
+      "assets/week1/dag7/dag75.JPG",
+      "assets/week1/dag7/dag76.JPG",
+      "assets/week1/dag7/dag77.JPG",
+      "assets/week1/dag7/dag78.JPG",
+      "assets/week1/dag7/dag79.JPG",
+      "assets/week1/dag7/dag710.JPG"
+    ]
   }
 ]
 }

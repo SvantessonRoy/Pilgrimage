@@ -1,50 +1,56 @@
 [
   {
     "name": "Saint-Jean-Pied-de-Port",
-    "lat": 43.1631,
+    "lat": 43.1636,
     "lng": -1.2374,
-    "desc": "Startpunkt för El Camino Francés."
+    "desc": "The traditional starting point of the Camino Francés, located on the French side of the Pyrenees in the Nouvelle-Aquitaine region. Pilgrims cross the border into Spain here via the steep Roncesvalles Pass."
   },
   {
     "name": "Estella",
     "lat": 42.6716,
-    "lng": -2.0316,
-    "desc": "Slut på vecka 1. Historisk stad i Navarra."
+    "lng": -2.0309,
+    "desc": "Week 1. A historic town in Navarra that flourished due to the pilgrimage route. Known for its Romanesque churches, monasteries, and the Puente de la Cárcel bridge over the Ega River."
   },
   {
-    "name": "Burgos",
-    "lat": 42.3439,
-    "lng": -3.6969,
-    "desc": "Slut på vecka 2. Känd för sin katedral."
+    "name": "Santo Domingo de la Calzada",
+    "lat": 42.4402,
+    "lng": -2.9537,
+    "desc": "Week 2.An important pilgrimage town in La Rioja, founded by Saint Dominic to support pilgrims. Famous for its cathedral and the legend of the rooster and hen that came back to life to prove a pilgrim's innocence."
   },
   {
-    "name": "León",
-    "lat": 42.5987,
-    "lng": -5.5671,
-    "desc": "Slut på vecka 3. Känd för sin gotiska katedral."
+    "name": "Hontanas",
+    "lat": 42.3131,
+    "lng": -4.0453,
+    "desc": "Week 3. A small, isolated village in the province of Burgos, Castilla y León. Often a surprise for pilgrims as it lies hidden in a depression amid the vast Meseta landscape."
   },
   {
-    "name": "O Cebreiro",
-    "lat": 42.7086,
-    "lng": -7.0406,
-    "desc": "Slut på vecka 4. Bergsby i Galicien."
+    "name": "Mansilla de las Mulas",
+    "lat": 42.4989,
+    "lng": -5.4174,
+    "desc": "Week 4. A historic walled town east of León. Several Camino routes converge here, and parts of the old city wall are still preserved."
+  },
+  {
+    "name": "El Acebo de San Miguel",
+    "lat": 42.4752,
+    "lng": -6.5076,
+    "desc": "week 5. A picturesque village in the province of León, nestled in the foothills of the Montes de León. Known for its traditional stone houses and as an important stop before reaching Ponferrada."
   },
   {
     "name": "Sarria",
-    "lat": 42.7811,
-    "lng": -7.4092,
-    "desc": "Slut på vecka 5. Populär startpunkt för sista etappen."
+    "lat": 42.7808,
+    "lng": -7.4141,
+    "desc": "Week 6. The most popular starting point for pilgrims walking the final 100 kilometers to Santiago, the minimum distance required to earn the Compostela certificate. Located in Galicia."
   },
   {
     "name": "Santiago de Compostela",
     "lat": 42.8806,
-    "lng": -8.5457,
-    "desc": "Målet för El Camino Francés."
+    "lng": -8.5466,
+    "desc": "Week 7. The final destination of the Camino de Santiago. Home to the famous cathedral where the remains of the apostle Saint James are believed to rest. A UNESCO World Heritage Site and one of Christianity’s most important pilgrimage destinations."
   },
   {
     "name": "Finisterre",
     "lat": 42.9074,
     "lng": -9.2695,
-    "desc": "Valfritt slutmål vid Atlantkusten."
+    "desc": "TBD later. A symbolic extension of the pilgrimage route, where pilgrims reach the “end of the world” on the Atlantic coast. Many burn their clothes or leave a stone here as a symbolic conclusion to their journey."
   }
 ]

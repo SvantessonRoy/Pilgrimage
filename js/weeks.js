@@ -25,7 +25,7 @@ async function loadWeek() {
             document.getElementById('week-content').textContent = '';
             return;
         }
-        document.getElementById('week-title').textContent = week.title || `Vecka ${week.week || weekId}`;
+        document.getElementById('week-title').textContent = week.title || `Week ${week.week || weekId}`;
         let html = '';
         // Week summary section (image + info)
         html += '<div class="week-summary">';
@@ -33,8 +33,8 @@ async function loadWeek() {
             html += `<div class="week-summary-img" style="background-image:url('../assets/${week.image}')"></div>`;
         }
         html += '<div class="week-summary-text">';
-        if (week.route) html += `<p><strong>Rutt:</strong> ${week.route}</p>`;
-        if (week.distance) html += `<p><strong>Distans:</strong> ${week.distance}</p>`;
+        if (week.route) html += `<p><strong>Route:</strong> ${week.route}</p>`;
+        if (week.distance) html += `<p><strong>Distance:</strong> ${week.distance}</p>`;
         if (week.description) html += `<p>${week.description}</p>`;
         html += '</div></div>';
 
@@ -58,7 +58,7 @@ async function loadWeek() {
                     } else if (!isNaN(parseInt(day.day)) && !isNaN(parseInt(week.week))) {
                         globalDayNumber = (parseInt(week.week) - 1) * 7 + parseInt(day.day);
                     }
-                    const dayNumber = globalDayNumber ? `Dag ${globalDayNumber}` : '';
+                    const dayNumber = globalDayNumber ? `Day ${globalDayNumber}` : '';
                     html += `
                     <a class="stage-card" href="${dayUrl}">
                         <div style="display:flex;flex-direction:column;align-items:center;">
@@ -67,9 +67,11 @@ async function loadWeek() {
                         <div class="stage-card-content">
                             <div class="stage-img-number" style="font-weight:bold;font-size:1.1em;margin-bottom:8px;text-align:left;">${dayNumber}</div>
                             <div class="stage-title">${day.title}</div>
-                            <div class="stage-meta"><strong>Distans:</strong> ${day.distance} &nbsp; <strong>Höjdmeter:</strong> ${day.elevation_gain || ''} / ${day.elevation_loss || ''}</div>
-                            <div class="stage-meta"><strong>Boende:</strong> ${day.accommodation || ''}</div>
-                            <div class="stage-desc">${day.short_desc || ''}<br>${day.long_desc || ''}</div>
+                                <div class="stage-meta"><strong>Distance:</strong> ${day.distance} &nbsp; <strong>Time:</strong> ${day.time || ''}</div>
+                                <div class="stage-meta"><strong>Elevation:</strong> ${day.elevation_gain || ''} / ${day.elevation_loss || ''}</div>
+                            <div class="stage-meta"><strong>Accommodation:</strong> ${day.accommodation || ''}</div>
+                                <div style="height:6px;"></div>
+                                <div class="stage-desc">${day.short_desc || ''}</div>
                         </div>
                     </a>`;
                 });
@@ -85,10 +87,10 @@ async function loadWeek() {
         const currentWeekNum = parseInt(week.week);
         let navButtons = '<div class="week-nav-buttons" style="display:flex;justify-content:center;gap:16px;margin:32px 0 0 0;">';
         if (currentWeekNum > 1) {
-            navButtons += `<a href="week.html?week=${currentWeekNum - 1}" class="week-nav-btn" style="padding:8px 20px;background:#eee;border-radius:6px;text-decoration:none;font-weight:bold;">&laquo; Föregående vecka</a>`;
+            navButtons += `<a href="week.html?week=${currentWeekNum - 1}" class="week-nav-btn" style="padding:8px 20px;background:#eee;border-radius:6px;text-decoration:none;font-weight:bold;">&laquo; Past week</a>`;
         }
         if (currentWeekNum < 8) {
-            navButtons += `<a href="week.html?week=${currentWeekNum + 1}" class="week-nav-btn" style="padding:8px 20px;background:#eee;border-radius:6px;text-decoration:none;font-weight:bold;">Nästa vecka &raquo;</a>`;
+            navButtons += `<a href="week.html?week=${currentWeekNum + 1}" class="week-nav-btn" style="padding:8px 20px;background:#eee;border-radius:6px;text-decoration:none;font-weight:bold;">Next week &raquo;</a>`;
         }
         navButtons += '</div>';
         document.getElementById('week-content').innerHTML = html + navButtons;
