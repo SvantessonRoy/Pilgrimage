@@ -11,9 +11,9 @@
       "accommodation": "Hotel Aroi Ponferrada",
       "elevation_gain": "+200 m",
       "elevation_loss": "-300 m",
-      "image": "placeholder.jpg",
+      "image": "week6/dag36.jpg",
       "route_map": {
-        "start": { "name": "El Acebo de San Miguel", "lat": 42.5367, "lng": -6.5206 },
+        "start": { "name": "El Acebo de San Miguel", "lat": 42.4988, "lng": -6.4575 },
         "end": { "name": "Ponferrada", "lat": 42.5461, "lng": -6.5941 },
         "polyline": []
       }
@@ -31,16 +31,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week6/dag1/dag11.jpg",
-      "assets/week6/dag1/dag12.jpg",
-      "assets/week6/dag1/dag13.jpg",
-      "assets/week6/dag1/dag14.jpg",
-      "assets/week6/dag1/dag15.jpg",
-      "assets/week6/dag1/dag16.jpg",
-      "assets/week6/dag1/dag17.jpg",
-      "assets/week6/dag1/dag18.jpg",
-      "assets/week6/dag1/dag19.jpg",
-      "assets/week6/dag1/dag110.jpg"
+  "assets/week6/dag36/dag361.jpg",
+  "assets/week6/dag36/dag362.jpg",
+  "assets/week6/dag36/dag363.jpg",
+  "assets/week6/dag36/dag364.jpg",
+  "assets/week6/dag36/dag365.jpg",
+  "assets/week6/dag36/dag366.jpg",
+  "assets/week6/dag36/dag367.jpg",
+  "assets/week6/dag36/dag368.jpg",
+  "assets/week6/dag36/dag369.jpg",
+  "assets/week6/dag36/dag3610.jpg"
     ]
     },
     {
@@ -54,10 +54,10 @@
       "accommodation": "Vina Femita",
       "elevation_gain": "+350 m",
       "elevation_loss": "-400 m",
-      "image": "placeholder.jpg",
+      "image": "week6/dag37.jpg",
       "route_map": {
         "start": { "name": "Ponferrada", "lat": 42.5461, "lng": -6.5941 },
-        "end": { "name": "Villafranca del Bierzo", "lat": 42.6036, "lng": -6.7656 },
+        "end": { "name": "Villafranca del Bierzo", "lat": 42.6059, "lng": -6.8117 },
         "polyline": []
       }
     ,
@@ -74,16 +74,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week6/dag2/dag21.jpg",
-      "assets/week6/dag2/dag22.jpg",
-      "assets/week6/dag2/dag23.jpg",
-      "assets/week6/dag2/dag24.jpg",
-      "assets/week6/dag2/dag25.jpg",
-      "assets/week6/dag2/dag26.jpg",
-      "assets/week6/dag2/dag27.jpg",
-      "assets/week6/dag2/dag28.jpg",
-      "assets/week6/dag2/dag29.jpg",
-      "assets/week6/dag2/dag210.jpg"
+  "assets/week6/dag37/dag371.jpg",
+  "assets/week6/dag37/dag372.jpg",
+  "assets/week6/dag37/dag373.jpg",
+  "assets/week6/dag37/dag374.jpg",
+  "assets/week6/dag37/dag375.jpg",
+  "assets/week6/dag37/dag376.jpg",
+  "assets/week6/dag37/dag377.jpg",
+  "assets/week6/dag37/dag378.jpg",
+  "assets/week6/dag37/dag379.jpg",
+  "assets/week6/dag37/dag3710.jpg"
     ]
     },
     {
@@ -97,10 +97,10 @@
       "accommodation": "Hostal El Recanto",
       "elevation_gain": "+300 m",
       "elevation_loss": "-250 m",
-      "image": "placeholder.jpg",
+      "image": "week6/dag38.jpg",
       "route_map": {
-        "start": { "name": "Villafranca del Bierzo", "lat": 42.6036, "lng": -6.7656 },
-        "end": { "name": "Vega de Valcarce", "lat": 42.6891, "lng": -6.9681 },
+        "start": { "name": "Villafranca del Bierzo", "lat": 42.6059, "lng": -6.8117 },
+        "end": { "name": "Vega de Valcarce", "lat": 42.6659, "lng": -6.9402 },
         "polyline": []
       }
     ,
@@ -117,16 +117,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week6/dag3/dag31.jpg",
-      "assets/week6/dag3/dag32.jpg",
-      "assets/week6/dag3/dag33.jpg",
-      "assets/week6/dag3/dag34.jpg",
-      "assets/week6/dag3/dag35.jpg",
-      "assets/week6/dag3/dag36.jpg",
-      "assets/week6/dag3/dag37.jpg",
-      "assets/week6/dag3/dag38.jpg",
-      "assets/week6/dag3/dag39.jpg",
-      "assets/week6/dag3/dag310.jpg"
+  "assets/week6/dag38/dag381.jpg",
+  "assets/week6/dag38/dag382.jpg",
+  "assets/week6/dag38/dag383.jpg",
+  "assets/week6/dag38/dag384.jpg",
+  "assets/week6/dag38/dag385.jpg",
+  "assets/week6/dag38/dag386.jpg",
+  "assets/week6/dag38/dag387.jpg",
+  "assets/week6/dag38/dag388.jpg",
+  "assets/week6/dag38/dag389.jpg",
+  "assets/week6/dag38/dag3810.jpg"
     ]
     },
     {
@@ -140,10 +140,10 @@
       "accommodation": "Casa Galego",
       "elevation_gain": "+120 m",
       "elevation_loss": "-100 m",
-      "image": "placeholder.jpg",
+      "image": "week6/dag39.jpg",
       "route_map": {
-        "start": { "name": "Vega de Valcarce", "lat": 42.6891, "lng": -6.9681 },
-        "end": { "name": "Fonfria", "lat": 42.7086, "lng": -7.0406 },
+        "start": { "name": "Vega de Valcarce", "lat": 42.6659, "lng": -6.9402 },
+        "end": { "name": "Fonfria", "lat": 42.7299, "lng": -7.1551 },
         "polyline": []
       }
     ,
@@ -160,16 +160,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week6/dag4/dag41.jpg",
-      "assets/week6/dag4/dag42.jpg",
-      "assets/week6/dag4/dag43.jpg",
-      "assets/week6/dag4/dag44.jpg",
-      "assets/week6/dag4/dag45.jpg",
-      "assets/week6/dag4/dag46.jpg",
-      "assets/week6/dag4/dag47.jpg",
-      "assets/week6/dag4/dag48.jpg",
-      "assets/week6/dag4/dag49.jpg",
-      "assets/week6/dag4/dag410.jpg"
+  "assets/week6/dag39/dag391.jpg",
+  "assets/week6/dag39/dag392.jpg",
+  "assets/week6/dag39/dag393.jpg",
+  "assets/week6/dag39/dag394.jpg",
+  "assets/week6/dag39/dag395.jpg",
+  "assets/week6/dag39/dag396.jpg",
+  "assets/week6/dag39/dag397.jpg",
+  "assets/week6/dag39/dag398.jpg",
+  "assets/week6/dag39/dag399.jpg",
+  "assets/week6/dag39/dag3910.jpg"
     ]
     },
     {
@@ -183,10 +183,10 @@
       "accommodation": "A Casa da Botica",
       "elevation_gain": "+80 m",
       "elevation_loss": "-90 m",
-      "image": "placeholder.jpg",
+      "image": "week6/dag40.jpg",
       "route_map": {
-        "start": { "name": "Fonfria", "lat": 42.7086, "lng": -7.0406 },
-        "end": { "name": "Samos", "lat": 42.7787, "lng": -7.4092 },
+        "start": { "name": "Fonfria", "lat": 42.7299, "lng": -7.1551 },
+        "end": { "name": "Samos", "lat": 42.7308, "lng": -7.3259 },
         "polyline": []
       }
     ,
@@ -203,16 +203,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week6/dag5/dag51.jpg",
-      "assets/week6/dag5/dag52.jpg",
-      "assets/week6/dag5/dag53.jpg",
-      "assets/week6/dag5/dag54.jpg",
-      "assets/week6/dag5/dag55.jpg",
-      "assets/week6/dag5/dag56.jpg",
-      "assets/week6/dag5/dag57.jpg",
-      "assets/week6/dag5/dag58.jpg",
-      "assets/week6/dag5/dag59.jpg",
-      "assets/week6/dag5/dag510.jpg"
+  "assets/week6/dag40/dag401.jpg",
+  "assets/week6/dag40/dag402.jpg",
+  "assets/week6/dag40/dag403.jpg",
+  "assets/week6/dag40/dag404.jpg",
+  "assets/week6/dag40/dag405.jpg",
+  "assets/week6/dag40/dag406.jpg",
+  "assets/week6/dag40/dag407.jpg",
+  "assets/week6/dag40/dag408.jpg",
+  "assets/week6/dag40/dag409.jpg",
+  "assets/week6/dag40/dag4010.jpg"
     ]
     },
     {
@@ -226,10 +226,10 @@
       "accommodation": "Casa Solance",
       "elevation_gain": "+120 m",
       "elevation_loss": "-110 m",
-      "image": "placeholder.jpg",
+      "image": "week6/dag41.jpg",
       "route_map": {
-        "start": { "name": "Samos", "lat": 42.7787, "lng": -7.4092 },
-        "end": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
+        "start": { "name": "Samos", "lat": 42.7308, "lng": -7.3259 },
+        "end": { "name": "Sarria", "lat": 42.7811, "lng": -7.4154 },
         "polyline": []
       }
     ,
@@ -246,16 +246,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week6/dag6/dag61.jpg",
-      "assets/week6/dag6/dag62.jpg",
-      "assets/week6/dag6/dag63.jpg",
-      "assets/week6/dag6/dag64.jpg",
-      "assets/week6/dag6/dag65.jpg",
-      "assets/week6/dag6/dag66.jpg",
-      "assets/week6/dag6/dag67.jpg",
-      "assets/week6/dag6/dag68.jpg",
-      "assets/week6/dag6/dag69.jpg",
-      "assets/week6/dag6/dag610.jpg"
+  "assets/week6/dag41/dag411.jpg",
+  "assets/week6/dag41/dag412.jpg",
+  "assets/week6/dag41/dag413.jpg",
+  "assets/week6/dag41/dag414.jpg",
+  "assets/week6/dag41/dag415.jpg",
+  "assets/week6/dag41/dag416.jpg",
+  "assets/week6/dag41/dag417.jpg",
+  "assets/week6/dag41/dag418.jpg",
+  "assets/week6/dag41/dag419.jpg",
+  "assets/week6/dag41/dag4110.jpg"
     ]
     },
     {
@@ -269,10 +269,10 @@
       "accommodation": "Casa Solance",
       "elevation_gain": "+150 m",
       "elevation_loss": "-200 m",
-      "image": "placeholder.jpg",
+      "image": "week6/dag42.jpg",
       "route_map": {
-        "start": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
-        "end": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
+        "start": { "name": "Sarria", "lat": 42.7811, "lng": -7.4154 },
+        "end": { "name": "Sarria", "lat": 42.7811, "lng": -7.4154 },
         "polyline": []
       }
     ,
@@ -289,16 +289,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week6/dag7/dag71.jpg",
-      "assets/week6/dag7/dag72.jpg",
-      "assets/week6/dag7/dag73.jpg",
-      "assets/week6/dag7/dag74.jpg",
-      "assets/week6/dag7/dag75.jpg",
-      "assets/week6/dag7/dag76.jpg",
-      "assets/week6/dag7/dag77.jpg",
-      "assets/week6/dag7/dag78.jpg",
-      "assets/week6/dag7/dag79.jpg",
-      "assets/week6/dag7/dag710.jpg"
+  "assets/week6/dag42/dag421.jpg",
+  "assets/week6/dag42/dag422.jpg",
+  "assets/week6/dag42/dag423.jpg",
+  "assets/week6/dag42/dag424.jpg",
+  "assets/week6/dag42/dag425.jpg",
+  "assets/week6/dag42/dag426.jpg",
+  "assets/week6/dag42/dag427.jpg",
+  "assets/week6/dag42/dag428.jpg",
+  "assets/week6/dag42/dag429.jpg",
+  "assets/week6/dag42/dag4210.jpg"
     ]
     }
   ]

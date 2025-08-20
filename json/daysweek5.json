@@ -11,10 +11,10 @@
       "accommodation": "Hotel My Palace Leon",
       "elevation_gain": "+350 m",
       "elevation_loss": "-100 m",
-      "image": "week5/dag1.jpg",
+      "image": "week5/dag29.jpg",
       "route_map": {
-        "start": { "name": "Mansilla de las Mulas", "lat": 42.4584, "lng": -6.0580 },
-        "end": { "name": "León", "lat": 42.4822, "lng": -6.3122 },
+        "start": { "name": "Mansilla de las Mulas", "lat": 42.4997, "lng": -5.4121 },
+        "end": { "name": "León", "lat": 42.5947, "lng": -5.5700 },
         "polyline": [
         ]
       }
@@ -32,16 +32,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week5/dag1/dag11.jpg",
-      "assets/week5/dag1/dag12.jpg",
-      "assets/week5/dag1/dag13.jpg",
-      "assets/week5/dag1/dag14.jpg",
-      "assets/week5/dag1/dag15.jpg",
-      "assets/week5/dag1/dag16.jpg",
-      "assets/week5/dag1/dag17.jpg",
-      "assets/week5/dag1/dag18.jpg",
-      "assets/week5/dag1/dag19.jpg",
-      "assets/week5/dag1/dag110.jpg"
+  "assets/week5/dag29/dag291.jpg",
+  "assets/week5/dag29/dag292.jpg",
+  "assets/week5/dag29/dag293.jpg",
+  "assets/week5/dag29/dag294.jpg",
+  "assets/week5/dag29/dag295.jpg",
+  "assets/week5/dag29/dag296.jpg",
+  "assets/week5/dag29/dag297.jpg",
+  "assets/week5/dag29/dag298.jpg",
+  "assets/week5/dag29/dag299.jpg",
+  "assets/week5/dag29/dag2910.jpg"
     ]
     },
     {
@@ -55,10 +55,10 @@
       "accommodation": "Hotel My Palace Leon",
       "elevation_gain": "+250 m",
       "elevation_loss": "-50 m",
-      "image": "week5/dag2.jpg",
+      "image": "week5/dag30.jpg",
       "route_map": {
-        "start": { "name": "León", "lat": 42.4822, "lng": -6.3122 },
-        "end": { "name": "León", "lat": 42.4922, "lng": -6.4147 },
+        "start": { "name": "León", "lat": 42.5947, "lng": -5.5700 },
+        "end": { "name": "León", "lat": 42.5956, "lng": -5.5684 },
         "polyline": [
         
         ]
@@ -77,16 +77,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week5/dag2/dag21.jpg",
-      "assets/week5/dag2/dag22.jpg",
-      "assets/week5/dag2/dag23.jpg",
-      "assets/week5/dag2/dag24.jpg",
-      "assets/week5/dag2/dag25.jpg",
-      "assets/week5/dag2/dag26.jpg",
-      "assets/week5/dag2/dag27.jpg",
-      "assets/week5/dag2/dag28.jpg",
-      "assets/week5/dag2/dag29.jpg",
-      "assets/week5/dag2/dag210.jpg"
+  "assets/week5/dag30/dag301.jpg",
+  "assets/week5/dag30/dag302.jpg",
+  "assets/week5/dag30/dag303.jpg",
+  "assets/week5/dag30/dag304.jpg",
+  "assets/week5/dag30/dag305.jpg",
+  "assets/week5/dag30/dag306.jpg",
+  "assets/week5/dag30/dag307.jpg",
+  "assets/week5/dag30/dag308.jpg",
+  "assets/week5/dag30/dag309.jpg",
+  "assets/week5/dag30/dag3010.jpg"
     ]
     },
     {
@@ -100,10 +100,10 @@
       "accommodation": "Tio pepe Hostel",
       "elevation_gain": "+50 m",
       "elevation_loss": "-900 m",
-      "image": "week5/dag3.jpg",
+      "image": "week5/dag31.jpg",
       "route_map": {
-        "start": { "name": "León", "lat": 42.4922, "lng": -6.4147 },
-        "end": { "name": "Villa de Mazarife", "lat": 42.5432, "lng": -6.4847 },
+        "start": { "name": "León", "lat": 42.5747, "lng": -5.5700 },
+        "end": { "name": "Villa de Mazarife", "lat": 42.4832, "lng": -5.7267 },
         "polyline": [
         ]
       }
@@ -121,16 +121,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week5/dag3/dag31.jpg",
-      "assets/week5/dag3/dag32.jpg",
-      "assets/week5/dag3/dag33.jpg",
-      "assets/week5/dag3/dag34.jpg",
-      "assets/week5/dag3/dag35.jpg",
-      "assets/week5/dag3/dag36.jpg",
-      "assets/week5/dag3/dag37.jpg",
-      "assets/week5/dag3/dag38.jpg",
-      "assets/week5/dag3/dag39.jpg",
-      "assets/week5/dag3/dag310.jpg"
+  "assets/week5/dag31/dag311.jpg",
+  "assets/week5/dag31/dag312.jpg",
+  "assets/week5/dag31/dag313.jpg",
+  "assets/week5/dag31/dag314.jpg",
+  "assets/week5/dag31/dag315.jpg",
+  "assets/week5/dag31/dag316.jpg",
+  "assets/week5/dag31/dag317.jpg",
+  "assets/week5/dag31/dag318.jpg",
+  "assets/week5/dag31/dag319.jpg",
+  "assets/week5/dag31/dag3110.jpg"
     ]
     },
     {
@@ -144,10 +144,10 @@
       "accommodation": "Hostal Don Suero de Quinones ",
       "elevation_gain": "+40 m",
       "elevation_loss": "-30 m",
-      "image": "week5/dag4.jpg",
+      "image": "week5/dag32.jpg",
       "route_map": {
-        "start": { "name": "Villa de Mazarife", "lat": 42.5432, "lng": -6.4847 },
-        "end": { "name": "Hospital de Orbigio", "lat": 42.5461, "lng": -6.5941 },
+        "start": { "name": "Villa de Mazarife", "lat": 42.4832, "lng": -5.7267 },
+        "end": { "name": "Hospital de Orbigio", "lat": 42.4638, "lng": -5.8810 },
         "polyline": [
           
         ]
@@ -166,16 +166,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week5/dag4/dag41.jpg",
-      "assets/week5/dag4/dag42.jpg",
-      "assets/week5/dag4/dag43.jpg",
-      "assets/week5/dag4/dag44.jpg",
-      "assets/week5/dag4/dag45.jpg",
-      "assets/week5/dag4/dag46.jpg",
-      "assets/week5/dag4/dag47.jpg",
-      "assets/week5/dag4/dag48.jpg",
-      "assets/week5/dag4/dag49.jpg",
-      "assets/week5/dag4/dag410.jpg"
+  "assets/week5/dag32/dag321.jpg",
+  "assets/week5/dag32/dag322.jpg",
+  "assets/week5/dag32/dag323.jpg",
+  "assets/week5/dag32/dag324.jpg",
+  "assets/week5/dag32/dag325.jpg",
+  "assets/week5/dag32/dag326.jpg",
+  "assets/week5/dag32/dag327.jpg",
+  "assets/week5/dag32/dag328.jpg",
+  "assets/week5/dag32/dag329.jpg",
+  "assets/week5/dag32/dag3210.jpg"
     ]
     },
     {
@@ -189,10 +189,10 @@
       "accommodation": "Hotel Gaudi",
       "elevation_gain": "+200 m",
       "elevation_loss": "-180 m",
-      "image": "week5/dag5.jpg",
+      "image": "week5/dag33.jpg",
       "route_map": {
-        "start": { "name": "Hospital de Orbigio", "lat": 42.5461, "lng": -6.5941 },
-        "end": { "name": "Astorga", "lat": 42.6067, "lng": -6.8122 },
+        "start": { "name": "Hospital de Orbigio", "lat": 42.4638, "lng": -5.8810 },
+        "end": { "name": "Astorga", "lat": 42.4574, "lng": -6.0562 },
         "polyline": [
           
         ]
@@ -211,16 +211,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week5/dag5/dag51.jpg",
-      "assets/week5/dag5/dag52.jpg",
-      "assets/week5/dag5/dag53.jpg",
-      "assets/week5/dag5/dag54.jpg",
-      "assets/week5/dag5/dag55.jpg",
-      "assets/week5/dag5/dag56.jpg",
-      "assets/week5/dag5/dag57.jpg",
-      "assets/week5/dag5/dag58.jpg",
-      "assets/week5/dag5/dag59.jpg",
-      "assets/week5/dag5/dag510.jpg"
+  "assets/week5/dag33/dag331.jpg",
+  "assets/week5/dag33/dag332.jpg",
+  "assets/week5/dag33/dag333.jpg",
+  "assets/week5/dag33/dag334.jpg",
+  "assets/week5/dag33/dag335.jpg",
+  "assets/week5/dag33/dag336.jpg",
+  "assets/week5/dag33/dag337.jpg",
+  "assets/week5/dag33/dag338.jpg",
+  "assets/week5/dag33/dag339.jpg",
+  "assets/week5/dag33/dag3310.jpg"
     ]
     },
     {
@@ -234,10 +234,10 @@
       "accommodation": "Posada El Tesin",
       "elevation_gain": "+900 m",
       "elevation_loss": "-100 m",
-      "image": "week5/dag6.jpg",
+      "image": "week5/dag34.jpg",
       "route_map": {
-        "start": { "name": "Astorga", "lat": 42.6067, "lng": -6.8122 },
-        "end": { "name": "Rabanal del Camino ", "lat": 42.7086, "lng": -7.0406 },
+        "start": { "name": "Astorga", "lat": 42.4574, "lng": -6.0552 },
+        "end": { "name": "Rabanal del Camino ", "lat": 42.4814, "lng": -6.2808 },
         "polyline": [
           
         ]
@@ -256,16 +256,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week5/dag6/dag61.jpg",
-      "assets/week5/dag6/dag62.jpg",
-      "assets/week5/dag6/dag63.jpg",
-      "assets/week5/dag6/dag64.jpg",
-      "assets/week5/dag6/dag65.jpg",
-      "assets/week5/dag6/dag66.jpg",
-      "assets/week5/dag6/dag67.jpg",
-      "assets/week5/dag6/dag68.jpg",
-      "assets/week5/dag6/dag69.jpg",
-      "assets/week5/dag6/dag610.jpg"
+  "assets/week5/dag34/dag341.jpg",
+  "assets/week5/dag34/dag342.jpg",
+  "assets/week5/dag34/dag343.jpg",
+  "assets/week5/dag34/dag344.jpg",
+  "assets/week5/dag34/dag345.jpg",
+  "assets/week5/dag34/dag346.jpg",
+  "assets/week5/dag34/dag347.jpg",
+  "assets/week5/dag34/dag348.jpg",
+  "assets/week5/dag34/dag349.jpg",
+  "assets/week5/dag34/dag3410.jpg"
     ]
     },
     {
@@ -279,10 +279,10 @@
       "accommodation": "La Trucha del Arco Iris",
       "elevation_gain": "+100 m",
       "elevation_loss": "-600 m",
-      "image": "week5/dag7.jpg",
+      "image": "week5/dag35.jpg",
       "route_map": {
-        "start": { "name": "Rabanal del Camino ", "lat": 42.7086, "lng": -7.0406 },
-        "end": { "name": "El Acebo de San Miguel", "lat": 42.7267, "lng": -7.2406 },
+        "start": { "name": "Rabanal del Camino ", "lat": 42.4818, "lng": -6.2808 },
+        "end": { "name": "El Acebo de San Miguel", "lat": 42.4988, "lng": -6.4575 },
         "polyline": [
          
         ]
@@ -301,16 +301,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week5/dag7/dag71.jpg",
-      "assets/week5/dag7/dag72.jpg",
-      "assets/week5/dag7/dag73.jpg",
-      "assets/week5/dag7/dag74.jpg",
-      "assets/week5/dag7/dag75.jpg",
-      "assets/week5/dag7/dag76.jpg",
-      "assets/week5/dag7/dag77.jpg",
-      "assets/week5/dag7/dag78.jpg",
-      "assets/week5/dag7/dag79.jpg",
-      "assets/week5/dag7/dag710.jpg"
+  "assets/week5/dag35/dag351.jpg",
+  "assets/week5/dag35/dag352.jpg",
+  "assets/week5/dag35/dag353.jpg",
+  "assets/week5/dag35/dag354.jpg",
+  "assets/week5/dag35/dag355.jpg",
+  "assets/week5/dag35/dag356.jpg",
+  "assets/week5/dag35/dag357.jpg",
+  "assets/week5/dag35/dag358.jpg",
+  "assets/week5/dag35/dag359.jpg",
+  "assets/week5/dag35/dag3510.jpg"
     ]
     }
   ]

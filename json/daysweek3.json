@@ -11,7 +11,7 @@
       "accommodation": "Albergue Rest Life El Salto",
       "elevation_gain": "+350 m",
       "elevation_loss": "-200 m",
-      "image": "week3/dag1.jpg",
+      "image": "week3/dag15.jpg",
       "route_map": {
         "start": { "name": "Santo Domingo de la Calzada", "lat": 42.4390, "lng": -2.9547 },
         "end": { "name": "Belorado", "lat": 42.4149, "lng": -3.2001 },
@@ -33,16 +33,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week3/dag1/dag11.jpg",
-      "assets/week3/dag1/dag12.jpg",
-      "assets/week3/dag1/dag13.jpg",
-      "assets/week3/dag1/dag14.jpg",
-      "assets/week3/dag1/dag15.jpg",
-      "assets/week3/dag1/dag16.jpg",
-      "assets/week3/dag1/dag17.jpg",
-      "assets/week3/dag1/dag18.jpg",
-      "assets/week3/dag1/dag19.jpg",
-      "assets/week3/dag1/dag110.jpg"
+      "assets/week3/dag15/dag151.jpg",
+      "assets/week3/dag15/dag152.jpg",
+      "assets/week3/dag15/dag153.jpg",
+      "assets/week3/dag15/dag154.jpg",
+      "assets/week3/dag15/dag155.jpg",
+      "assets/week3/dag15/dag156.jpg",
+      "assets/week3/dag15/dag157.jpg",
+      "assets/week3/dag15/dag158.jpg",
+      "assets/week3/dag15/dag159.jpg",
+      "assets/week3/dag15/dag1510.jpg"
     ]
     },
     {
@@ -56,7 +56,7 @@
       "accommodation": "Hotel San Anton Abad",
       "elevation_gain": "+100 m",
       "elevation_loss": "-350 m",
-      "image": "week3/dag2.jpg",
+      "image": "week3/dag16.jpg",
       "route_map": {
         "start": { "name": "Belorado", "lat": 42.4149, "lng": -3.2001 },
         "end": { "name": "Villafranca Montes de Oca", "lat": 42.3888, "lng": -3.3099 },
@@ -78,16 +78,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week3/dag2/dag21.jpg",
-      "assets/week3/dag2/dag22.jpg",
-      "assets/week3/dag2/dag23.jpg",
-      "assets/week3/dag2/dag24.jpg",
-      "assets/week3/dag2/dag25.jpg",
-      "assets/week3/dag2/dag26.jpg",
-      "assets/week3/dag2/dag27.jpg",
-      "assets/week3/dag2/dag28.jpg",
-      "assets/week3/dag2/dag29.jpg",
-      "assets/week3/dag2/dag210.jpg"
+  "assets/week3/dag16/dag161.jpg",
+  "assets/week3/dag16/dag162.jpg",
+  "assets/week3/dag16/dag163.jpg",
+  "assets/week3/dag16/dag164.jpg",
+  "assets/week3/dag16/dag165.jpg",
+  "assets/week3/dag16/dag166.jpg",
+  "assets/week3/dag16/dag167.jpg",
+  "assets/week3/dag16/dag168.jpg",
+  "assets/week3/dag16/dag169.jpg",
+  "assets/week3/dag16/dag1610.jpg"
     ]
     },
     {
@@ -101,7 +101,7 @@
       "accommodation": "Hostel Atapuerque Inpulso",
       "elevation_gain": "+80 m",
       "elevation_loss": "-60 m",
-      "image": "week3/dag3.jpg",
+      "image": "week3/dag17.jpg",
       "route_map": {
         "start": { "name": "Villafranca Montes de Oca", "lat": 42.3888, "lng": -3.3099 },
         "end": { "name": "Atapuerca", "lat": 42.3758, "lng": -3.5075 },
@@ -123,16 +123,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week3/dag3/dag31.jpg",
-      "assets/week3/dag3/dag32.jpg",
-      "assets/week3/dag3/dag33.jpg",
-      "assets/week3/dag3/dag34.jpg",
-      "assets/week3/dag3/dag35.jpg",
-      "assets/week3/dag3/dag36.jpg",
-      "assets/week3/dag3/dag37.jpg",
-      "assets/week3/dag3/dag38.jpg",
-      "assets/week3/dag3/dag39.jpg",
-      "assets/week3/dag3/dag310.jpg"
+  "assets/week3/dag17/dag171.jpg",
+  "assets/week3/dag17/dag172.jpg",
+  "assets/week3/dag17/dag173.jpg",
+  "assets/week3/dag17/dag174.jpg",
+  "assets/week3/dag17/dag175.jpg",
+  "assets/week3/dag17/dag176.jpg",
+  "assets/week3/dag17/dag177.jpg",
+  "assets/week3/dag17/dag178.jpg",
+  "assets/week3/dag17/dag179.jpg",
+  "assets/week3/dag17/dag1710.jpg"
     ]
     },
     {
@@ -146,7 +146,7 @@
       "accommodation": "Hotel Corona de Castilla Burgos",
       "elevation_gain": "+90 m",
       "elevation_loss": "-100 m",
-      "image": "week3/dag4.jpg",
+      "image": "week3/dag18.jpg",
       "route_map": {
         "start": { "name": "Atapuerca", "lat": 42.3758, "lng": -3.5075 },
         "end": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
@@ -168,16 +168,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week3/dag4/dag41.jpg",
-      "assets/week3/dag4/dag42.jpg",
-      "assets/week3/dag4/dag43.jpg",
-      "assets/week3/dag4/dag44.jpg",
-      "assets/week3/dag4/dag45.jpg",
-      "assets/week3/dag4/dag46.jpg",
-      "assets/week3/dag4/dag47.jpg",
-      "assets/week3/dag4/dag48.jpg",
-      "assets/week3/dag4/dag49.jpg",
-      "assets/week3/dag4/dag410.jpg"
+  "assets/week3/dag18/dag181.jpg",
+  "assets/week3/dag18/dag182.jpg",
+  "assets/week3/dag18/dag183.jpg",
+  "assets/week3/dag18/dag184.jpg",
+  "assets/week3/dag18/dag185.jpg",
+  "assets/week3/dag18/dag186.jpg",
+  "assets/week3/dag18/dag187.jpg",
+  "assets/week3/dag18/dag188.jpg",
+  "assets/week3/dag18/dag189.jpg",
+  "assets/week3/dag18/dag1810.jpg"
     ]
     },
     {
@@ -191,7 +191,7 @@
       "accommodation": "Hotel Corona de Castilla Burgos",
       "elevation_gain": "+0 m",
       "elevation_loss": "-0 m",
-      "image": "week3/dag5.jpg",
+      "image": "week3/dag19.jpg",
       "route_map": {
         "start": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
         "end": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
@@ -213,16 +213,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week3/dag5/dag51.jpg",
-      "assets/week3/dag5/dag52.jpg",
-      "assets/week3/dag5/dag53.jpg",
-      "assets/week3/dag5/dag54.jpg",
-      "assets/week3/dag5/dag55.jpg",
-      "assets/week3/dag5/dag56.jpg",
-      "assets/week3/dag5/dag57.jpg",
-      "assets/week3/dag5/dag58.jpg",
-      "assets/week3/dag5/dag59.jpg",
-      "assets/week3/dag5/dag510.jpg"
+  "assets/week3/dag19/dag191.jpg",
+  "assets/week3/dag19/dag192.jpg",
+  "assets/week3/dag19/dag193.jpg",
+  "assets/week3/dag19/dag194.jpg",
+  "assets/week3/dag19/dag195.jpg",
+  "assets/week3/dag19/dag196.jpg",
+  "assets/week3/dag19/dag197.jpg",
+  "assets/week3/dag19/dag198.jpg",
+  "assets/week3/dag19/dag199.jpg",
+  "assets/week3/dag19/dag1910.jpg"
     ]
     },
     {
@@ -236,7 +236,7 @@
       "accommodation": "Hostel Bar Resturante La Fuente",
       "elevation_gain": "+50 m",
       "elevation_loss": "-40 m",
-      "image": "week3/dag6.jpg",
+      "image": "week3/dag20.jpg",
       "route_map": {
         "start": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
         "end": { "name": "Rabé de las Calzadas ", "lat": 42.3401, "lng": -3.8339},
@@ -258,16 +258,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week3/dag6/dag61.jpg",
-      "assets/week3/dag6/dag62.jpg",
-      "assets/week3/dag6/dag63.jpg",
-      "assets/week3/dag6/dag64.jpg",
-      "assets/week3/dag6/dag65.jpg",
-      "assets/week3/dag6/dag66.jpg",
-      "assets/week3/dag6/dag67.jpg",
-      "assets/week3/dag6/dag68.jpg",
-      "assets/week3/dag6/dag69.jpg",
-      "assets/week3/dag6/dag610.jpg"
+  "assets/week3/dag20/dag201.jpg",
+  "assets/week3/dag20/dag202.jpg",
+  "assets/week3/dag20/dag203.jpg",
+  "assets/week3/dag20/dag204.jpg",
+  "assets/week3/dag20/dag205.jpg",
+  "assets/week3/dag20/dag206.jpg",
+  "assets/week3/dag20/dag207.jpg",
+  "assets/week3/dag20/dag208.jpg",
+  "assets/week3/dag20/dag209.jpg",
+  "assets/week3/dag20/dag2010.jpg"
     ]
     },
     {
@@ -281,7 +281,7 @@
       "accommodation": "Villa Fontanas",
       "elevation_gain": "+30 m",
       "elevation_loss": "-20 m",
-      "image": "week3/dag7.jpg",
+      "image": "week3/dag21.jpg",
       "route_map": {
         "start": { "name": "Rabé de las Calzadas", "lat": 42.3401, "lng": -3.8339 },
         "end": { "name": "Hontanas", "lat": 42.3128, "lng": -4.0450 },
@@ -303,16 +303,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week3/dag7/dag71.jpg",
-      "assets/week3/dag7/dag72.jpg",
-      "assets/week3/dag7/dag73.jpg",
-      "assets/week3/dag7/dag74.jpg",
-      "assets/week3/dag7/dag75.jpg",
-      "assets/week3/dag7/dag76.jpg",
-      "assets/week3/dag7/dag77.jpg",
-      "assets/week3/dag7/dag78.jpg",
-      "assets/week3/dag7/dag79.jpg",
-      "assets/week3/dag7/dag710.jpg"
+  "assets/week3/dag21/dag211.jpg",
+  "assets/week3/dag21/dag212.jpg",
+  "assets/week3/dag21/dag213.jpg",
+  "assets/week3/dag21/dag214.jpg",
+  "assets/week3/dag21/dag215.jpg",
+  "assets/week3/dag21/dag216.jpg",
+  "assets/week3/dag21/dag217.jpg",
+  "assets/week3/dag21/dag218.jpg",
+  "assets/week3/dag21/dag219.jpg",
+  "assets/week3/dag21/dag2110.jpg"
     ]
     }
   ]

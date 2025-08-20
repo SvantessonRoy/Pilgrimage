@@ -6,54 +6,17 @@
       "title": "Sarria -> Portomarín",
       "distance": "22,3 km",
       "time": "5 h",
-  "short_desc": "Portomarin.",
-  "time": "5 h",
-  "long_desc": "First stage towards Finisterre.",
+      "short_desc": "Portomarin.",
+      "long_desc": "First stage towards Finisterre.",
       "accommodation": "Hotel Portomarin Star",
       "elevation_gain": "+300 m",
       "elevation_loss": "-250 m",
-      "image": "assets/week7/dag1/dag11.jpg",
-      "gallery": [
-        "assets/week7/dag1/dag11.jpg",
-        "assets/week7/dag1/dag12.jpg",
-        "assets/week7/dag1/dag13.jpg",
-        "assets/week7/dag1/dag14.jpg",
-        "assets/week7/dag1/dag15.jpg",
-        "assets/week7/dag1/dag16.jpg",
-        "assets/week7/dag1/dag17.jpg",
-        "assets/week7/dag1/dag18.jpg",
-        "assets/week7/dag1/dag19.jpg",
-        "assets/week7/dag1/dag110.jpg"
-      ],
-      "descriptions_gallery": [
-        "Sarria",
-        "Portomarín",
-        "Nature 1",
-        "Nature 2",
-        "People 1",
-        "People 2",
-        "Sustainability 1",
-        "Sustainability 2",
-        "Pilgrimage",
-        "Distance, Time and Elevation"
-      ],
+      "image": "assets/week7/dag43.jpg",
       "route_map": {
         "start": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
         "end": { "name": "Portomarín", "lat": 42.8067, "lng": -7.6151 },
         "polyline": []
       },
-      "gallery": [
-        "assets/week7/dag1/dag11.JPG",
-        "assets/week7/dag1/dag12.JPG",
-        "assets/week7/dag1/dag13.JPG",
-        "assets/week7/dag1/dag14.JPG",
-        "assets/week7/dag1/dag15.JPG",
-        "assets/week7/dag1/dag16.JPG",
-        "assets/week7/dag1/dag17.JPG",
-        "assets/week7/dag1/dag18.JPG",
-        "assets/week7/dag1/dag19.JPG",
-        "assets/week7/dag1/dag110.JPG"
-      ],
       "descriptions_gallery": [
         "Sarria",
         "Portomarín",
@@ -65,33 +28,37 @@
         "Sustainability 2",
         "Pilgrimage",
         "Distance, Time and Elevation"
+      ],
+      "gallery": [
+        "assets/week7/dag43/dag431.jpg",
+        "assets/week7/dag43/dag432.jpg",
+        "assets/week7/dag43/dag433.jpg",
+        "assets/week7/dag43/dag434.jpg",
+        "assets/week7/dag43/dag435.jpg",
+        "assets/week7/dag43/dag436.jpg",
+        "assets/week7/dag43/dag437.jpg",
+        "assets/week7/dag43/dag438.jpg",
+        "assets/week7/dag43/dag439.jpg",
+        "assets/week7/dag43/dag4310.jpg"
       ]
     },
     {
       "week": 7,
       "day": 44,
-      "title": "Portomarín-> Ligonde (Airexe)",
+      "title": "Portomarín -> Ligonde (Airexe)",
       "distance": "17,3 km",
       "time": "5 h",
-  "short_desc": "Ligonde (Airexe).",
-  "time": "5 h",
-  "long_desc": "Hiking through the interior of Galicia.",
+      "short_desc": "Ligonde (Airexe).",
+      "long_desc": "Hiking through the interior of Galicia.",
       "accommodation": "Casa de Cota",
       "elevation_gain": "+400 m",
       "elevation_loss": "-350 m",
-      "image": "assets/week7/dag2/dag21.jpg",
-      "gallery": [
-        "assets/week7/dag2/dag21.jpg",
-        "assets/week7/dag2/dag22.jpg",
-        "assets/week7/dag2/dag23.jpg",
-        "assets/week7/dag2/dag24.jpg",
-        "assets/week7/dag2/dag25.jpg",
-        "assets/week7/dag2/dag26.jpg",
-        "assets/week7/dag2/dag27.jpg",
-        "assets/week7/dag2/dag28.jpg",
-        "assets/week7/dag2/dag29.jpg",
-        "assets/week7/dag2/dag210.jpg"
-      ],
+      "image": "assets/week7/dag44.jpg",
+      "route_map": {
+        "start": { "name": "Portomarín", "lat": 42.8067, "lng": -7.6151 },
+        "end": { "name": "Ligonde (Airexe)", "lat": 42.8646, "lng": -7.7873 },
+        "polyline": []
+      },
       "descriptions_gallery": [
         "Portomarín",
         "Ligonde (Airexe)",
@@ -104,61 +71,36 @@
         "Pilgrimage",
         "Distance, Time and Elevation"
       ],
-      "route_map": {
-        "start": { "name": "Portomarín", "lat": 42.8067, "lng": -7.6151 },
-        "end": { "name": "Ligonde (Airexe)", "lat": 42.8451, "lng": -7.7473 },
-        "polyline": []
-      },
       "gallery": [
-        "assets/week7/dag2/dag21.JPG",
-        "assets/week7/dag2/dag22.JPG",
-        "assets/week7/dag2/dag23.JPG",
-        "assets/week7/dag2/dag24.JPG",
-        "assets/week7/dag2/dag25.JPG",
-        "assets/week7/dag2/dag26.JPG",
-        "assets/week7/dag2/dag27.JPG",
-        "assets/week7/dag2/dag28.JPG",
-        "assets/week7/dag2/dag29.JPG",
-        "assets/week7/dag2/dag210.JPG"
-      ],
-      "descriptions_gallery": [
-        "Portomarín",
-        "Ligonde (Airexe)oa",
-        "Nature 1",
-        "Nature 2",
-        "People 1",
-        "People 2",
-        "Sustainability 1",
-        "Sustainability 2",
-        "Pilgrimage",
-        "Distance, Time and Elevation"
+        "assets/week7/dag44/dag441.jpg",
+        "assets/week7/dag44/dag442.jpg",
+        "assets/week7/dag44/dag443.jpg",
+        "assets/week7/dag44/dag444.jpg",
+        "assets/week7/dag44/dag445.jpg",
+        "assets/week7/dag44/dag446.jpg",
+        "assets/week7/dag44/dag447.jpg",
+        "assets/week7/dag44/dag448.jpg",
+        "assets/week7/dag44/dag449.jpg",
+        "assets/week7/dag44/dag4410.jpg"
       ]
     },
     {
       "week": 7,
       "day": 45,
-      "title": "Ligonde (Airexe) -> Melide ",
+      "title": "Ligonde (Airexe) -> Melide",
       "distance": "22,4 km",
       "time": "5 h",
-  "short_desc": "Melide",
-  "time": "5 h",
-  "long_desc": "Descent to the Atlantic coast.",
+      "short_desc": "Melide",
+      "long_desc": "Descent to the Atlantic coast.",
       "accommodation": "Pension Ferradura",
       "elevation_gain": "+100 m",
       "elevation_loss": "-400 m",
-      "image": "assets/week7/dag3/dag31.jpg",
-      "gallery": [
-        "assets/week7/dag3/dag31.jpg",
-        "assets/week7/dag3/dag32.jpg",
-        "assets/week7/dag3/dag33.jpg",
-        "assets/week7/dag3/dag34.jpg",
-        "assets/week7/dag3/dag35.jpg",
-        "assets/week7/dag3/dag36.jpg",
-        "assets/week7/dag3/dag37.jpg",
-        "assets/week7/dag3/dag38.jpg",
-        "assets/week7/dag3/dag39.jpg",
-        "assets/week7/dag3/dag310.jpg"
-      ],
+      "image": "assets/week7dag45.jpg",
+      "route_map": {
+        "start": { "name": "Ligonde (Airexe)", "lat": 42.8646, "lng": -7.7873 },
+        "end": { "name": "Melide", "lat": 42.9143, "lng": -8.0148 },
+        "polyline": []
+      },
       "descriptions_gallery": [
         "Ligonde (Airexe)",
         "Melide",
@@ -171,34 +113,17 @@
         "Pilgrimage",
         "Distance, Time and Elevation"
       ],
-      "route_map": {
-        "start": { "name": "Ligonde (Airexe)", "lat": 42.8451, "lng": -7.7473 },
-        "end": { "name": "Melide", "lat": 42.9141, "lng": -8.0121 },
-        "polyline": []
-      },
       "gallery": [
-        "assets/week7/dag3/dag31.JPG",
-        "assets/week7/dag3/dag32.JPG",
-        "assets/week7/dag3/dag33.JPG",
-        "assets/week7/dag3/dag34.JPG",
-        "assets/week7/dag3/dag35.JPG",
-        "assets/week7/dag3/dag36.JPG",
-        "assets/week7/dag3/dag37.JPG",
-        "assets/week7/dag3/dag38.JPG",
-        "assets/week7/dag3/dag39.JPG",
-        "assets/week7/dag3/dag310.JPG"
-      ],
-      "descriptions_gallery": [
-        "Ligonde (Airexe)",
-        "Melide ",
-        "Nature 1",
-        "Nature 2",
-        "People 1",
-        "People 2",
-        "Sustainability 1",
-        "Sustainability 2",
-        "Pilgrimage",
-        "Distance, Time and Elevation"
+        "assets/week7/dag45/dag451.jpg",
+        "assets/week7/dag45/dag452.jpg",
+        "assets/week7/dag45/dag453.jpg",
+        "assets/week7/dag45/dag454.jpg",
+        "assets/week7/dag45/dag455.jpg",
+        "assets/week7/dag45/dag456.jpg",
+        "assets/week7/dag45/dag457.jpg",
+        "assets/week7/dag45/dag458.jpg",
+        "assets/week7/dag45/dag459.jpg",
+        "assets/week7/dag45/dag4510.jpg"
       ]
     },
     {
@@ -207,25 +132,17 @@
       "title": "Melide -> Arzúa",
       "distance": "14,2 km",
       "time": "4 h",
-  "short_desc": "Arzúa.",
-  "time": "4 h",
-  "long_desc": "Arrival at the Atlantic and Finisterre.",
+      "short_desc": "Arzúa.",
+      "long_desc": "Arrival at the Atlantic and Finisterre.",
       "accommodation": "1930 Boutique Hotel",
       "elevation_gain": "+80 m",
       "elevation_loss": "-90 m",
-      "image": "assets/week7/dag4/dag41.jpg",
-      "gallery": [
-        "assets/week7/dag4/dag41.jpg",
-        "assets/week7/dag4/dag42.jpg",
-        "assets/week7/dag4/dag43.jpg",
-        "assets/week7/dag4/dag44.jpg",
-        "assets/week7/dag4/dag45.jpg",
-        "assets/week7/dag4/dag46.jpg",
-        "assets/week7/dag4/dag47.jpg",
-        "assets/week7/dag4/dag48.jpg",
-        "assets/week7/dag4/dag49.jpg",
-        "assets/week7/dag4/dag410.jpg"
-      ],
+      "image": "assets/week7dag46.jpg",
+      "route_map": {
+        "start": { "name": "Melide", "lat": 42.9143, "lng": -8.0148 },
+        "end": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1533 },
+        "polyline": []
+      },
       "descriptions_gallery": [
         "Melide",
         "Arzúa",
@@ -238,60 +155,36 @@
         "Pilgrimage",
         "Distance, Time and Elevation"
       ],
-      "route_map": {
-        "start": { "name": "Melide ", "lat": 42.9141, "lng": -8.0121 },
-        "end": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1533 },
-        "polyline": []
-      },
       "gallery": [
-        "assets/week7/dag4/dag41.JPG",
-        "assets/week7/dag4/dag42.JPG",
-        "assets/week7/dag4/dag43.JPG",
-        "assets/week7/dag4/dag44.JPG",
-        "assets/week7/dag4/dag45.JPG",
-        "assets/week7/dag4/dag46.JPG",
-        "assets/week7/dag4/dag47.JPG",
-        "assets/week7/dag4/dag48.JPG",
-        "assets/week7/dag4/dag49.JPG",
-        "assets/week7/dag4/dag410.JPG"
-      ],
-      "descriptions_gallery": [
-        "Melide ",
-        "Arzúa",
-        "Nature 1",
-        "Nature 2",
-        "People 1",
-        "People 2",
-        "Sustainability 1",
-        "Sustainability 2",
-        "Pilgrimage",
-        "Distance, Time and Elevation"
+        "assets/week7/dag46/dag461.jpg",
+        "assets/week7/dag46/dag462.jpg",
+        "assets/week7/dag46/dag463.jpg",
+        "assets/week7/dag46/dag464.jpg",
+        "assets/week7/dag46/dag465.jpg",
+        "assets/week7/dag46/dag466.jpg",
+        "assets/week7/dag46/dag467.jpg",
+        "assets/week7/dag46/dag468.jpg",
+        "assets/week7/dag46/dag469.jpg",
+        "assets/week7/dag46/dag4610.jpg"
       ]
     },
     {
       "week": 7,
       "day": 47,
-      "title": "Arzúa ->  O Pedrouzo",
-  "distance": "19,2 km",
-  "time": "5 h",
-  "short_desc": "O Pedrouzo",
-  "long_desc": "Time for recovery and excursions by the coast.",
+      "title": "Arzúa -> O Pedrouzo",
+      "distance": "19,2 km",
+      "time": "5 h",
+      "short_desc": "O Pedrouzo",
+      "long_desc": "Time for recovery and excursions by the coast.",
       "accommodation": "Pension 9 de Abril",
       "elevation_gain": "",
       "elevation_loss": "",
-      "image": "assets/week7/dag5/dag51.jpg",
-      "gallery": [
-        "assets/week7/dag5/dag51.jpg",
-        "assets/week7/dag5/dag52.jpg",
-        "assets/week7/dag5/dag53.jpg",
-        "assets/week7/dag5/dag54.jpg",
-        "assets/week7/dag5/dag55.jpg",
-        "assets/week7/dag5/dag56.jpg",
-        "assets/week7/dag5/dag57.jpg",
-        "assets/week7/dag5/dag58.jpg",
-        "assets/week7/dag5/dag59.jpg",
-        "assets/week7/dag5/dag510.jpg"
-      ],
+      "image": "assets/week7/dag47.jpg",
+      "route_map": {
+        "start": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1533 },
+        "end": { "name": "O Pedrouzo", "lat": 42.9048, "lng": -8.3634 },
+        "polyline": []
+      },
       "descriptions_gallery": [
         "Arzúa",
         "O Pedrouzo",
@@ -305,83 +198,35 @@
         "Distance, Time and Elevation"
       ],
       "gallery": [
-        "assets/week7/dag5/dag51.JPG",
-        "assets/week7/dag5/dag52.JPG",
-        "assets/week7/dag5/dag53.JPG",
-        "assets/week7/dag5/dag54.JPG",
-        "assets/week7/dag5/dag55.JPG",
-        "assets/week7/dag5/dag56.JPG",
-        "assets/week7/dag5/dag57.JPG",
-        "assets/week7/dag5/dag58.JPG",
-        "assets/week7/dag5/dag59.JPG",
-        "assets/week7/dag5/dag510.JPG"
-      ],
-      "descriptions_gallery": [
-        "Arzúa",
-        "O Pedrouzo",
-        "Nature 1",
-        "Nature 2",
-        "People 1",
-        "People 2",
-        "Sustainability 1",
-        "Sustainability 2",
-        "Pilgrimage",
-        "Distance, Time and Elevation"
+        "assets/week7/dag47/dag471.jpg",
+        "assets/week7/dag47/dag472.jpg",
+        "assets/week7/dag47/dag473.jpg",
+        "assets/week7/dag47/dag474.jpg",
+        "assets/week7/dag47/dag475.jpg",
+        "assets/week7/dag47/dag476.jpg",
+        "assets/week7/dag47/dag477.jpg",
+        "assets/week7/dag47/dag478.jpg",
+        "assets/week7/dag47/dag479.jpg",
+        "assets/week7/dag47/dag4710.jpg"
       ]
     },
     {
       "week": 7,
       "day": 48,
-      "title": "O Pedrouzo-> Santiago de Compostela",
+      "title": "O Pedrouzo -> Santiago de Compostela",
       "distance": "22,0 km",
       "time": "6 h",
-  "short_desc": "Santiago de Compostela",
-  "long_desc": "Hiking along the coast to Muxía.",
+      "short_desc": "Santiago de Compostela",
+      "long_desc": "Hiking along the coast to Muxía.",
       "accommodation": "Hotel Compostela****",
       "elevation_gain": "+200 m",
       "elevation_loss": "-180 m",
-      "image": "assets/week7/dag6/dag61.jpg",
-      "gallery": [
-        "assets/week7/dag6/dag61.jpg",
-        "assets/week7/dag6/dag62.jpg",
-        "assets/week7/dag6/dag63.jpg",
-        "assets/week7/dag6/dag64.jpg",
-        "assets/week7/dag6/dag65.jpg",
-        "assets/week7/dag6/dag66.jpg",
-        "assets/week7/dag6/dag67.jpg",
-        "assets/week7/dag6/dag68.jpg",
-        "assets/week7/dag6/dag69.jpg",
-        "assets/week7/dag6/dag610.jpg"
-      ],
-      "descriptions_gallery": [
-        "O Pedrouzo",
-        "Santiago de Compostela",
-        "Nature 1",
-        "Nature 2",
-        "People 1",
-        "People 2",
-        "Sustainability 1",
-        "Sustainability 2",
-        "Pilgrimage",
-        "Distance, Time and Elevation"
-      ],
+      "image": "assets/week7/dag48.jpg",
       "route_map": {
-        "start": { "name": "O Pedrouzo", "lat": 42.9058, "lng": -8.4154 },
+        "start": { "name": "O Pedrouzo", "lat": 42.9048, "lng": -8.3634 },
         "end": { "name": "Santiago de Compostela", "lat": 42.8804, "lng": -8.5459 },
         "polyline": []
       },
-      "gallery": [
-        "assets/week7/dag6/dag61.JPG",
-        "assets/week7/dag6/dag62.JPG",
-        "assets/week7/dag6/dag63.JPG",
-        "assets/week7/dag6/dag64.JPG",
-        "assets/week7/dag6/dag65.JPG",
-        "assets/week7/dag6/dag66.JPG",
-        "assets/week7/dag6/dag67.JPG",
-        "assets/week7/dag6/dag68.JPG",
-        "assets/week7/dag6/dag69.JPG",
-        "assets/week7/dag6/dag610.JPG"
-      ],
       "descriptions_gallery": [
         "O Pedrouzo",
         "Santiago de Compostela",
@@ -393,6 +238,18 @@
         "Sustainability 2",
         "Pilgrimage",
         "Distance, Time and Elevation"
+      ],
+      "gallery": [
+        "assets/week7/dag48/dag481.jpg",
+        "assets/week7/dag48/dag482.jpg",
+        "assets/week7/dag48/dag483.jpg",
+        "assets/week7/dag48/dag484.jpg",
+        "assets/week7/dag48/dag485.jpg",
+        "assets/week7/dag48/dag486.jpg",
+        "assets/week7/dag48/dag487.jpg",
+        "assets/week7/dag48/dag488.jpg",
+        "assets/week7/dag48/dag489.jpg",
+        "assets/week7/dag48/dag4810.jpg"
       ]
     },
     {
@@ -401,53 +258,17 @@
       "title": "Santiago de Compostela - Rest days",
       "distance": "0,0 km",
       "time": "0 h",
-  "short_desc": "Santiago de Compostela.",
-  "long_desc": "Bus trip back to the starting point.",
+      "short_desc": "Santiago de Compostela.",
+      "long_desc": "Bus trip back to the starting point.",
       "accommodation": "Hotel Compostela",
       "elevation_gain": "",
       "elevation_loss": "",
-      "image": "assets/week7/dag7/dag71.jpg",
-      "gallery": [
-        "assets/week7/dag7/dag71.jpg",
-        "assets/week7/dag7/dag72.jpg",
-        "assets/week7/dag7/dag73.jpg",
-        "assets/week7/dag7/dag74.jpg",
-        "assets/week7/dag7/dag75.jpg",
-        "assets/week7/dag7/dag76.jpg",
-        "assets/week7/dag7/dag77.jpg",
-        "assets/week7/dag7/dag78.jpg",
-        "assets/week7/dag7/dag79.jpg",
-        "assets/week7/dag7/dag710.jpg"
-      ],
-      "descriptions_gallery": [
-        "Santiago de Compostela",
-        "Santiago de Compostela",
-        "Nature 1",
-        "Nature 2",
-        "People 1",
-        "People 2",
-        "Sustainability 1",
-        "Sustainability 2",
-        "Pilgrimage",
-        "Distance, Time and Elevation"
-      ],
+      "image": "week7/dag49.jpg",
       "route_map": {
         "start": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
         "end": { "name": "Hotel Compostela", "lat": 42.8767, "lng": -8.5439 },
         "polyline": []
       },
-      "gallery": [
-        "assets/week7/dag7/dag71.JPG",
-        "assets/week7/dag7/dag72.JPG",
-        "assets/week7/dag7/dag73.JPG",
-        "assets/week7/dag7/dag74.JPG",
-        "assets/week7/dag7/dag75.JPG",
-        "assets/week7/dag7/dag76.JPG",
-        "assets/week7/dag7/dag77.JPG",
-        "assets/week7/dag7/dag78.JPG",
-        "assets/week7/dag7/dag79.JPG",
-        "assets/week7/dag7/dag710.JPG"
-      ],
       "descriptions_gallery": [
         "Santiago de Compostela",
         "Santiago de Compostela",
@@ -459,6 +280,18 @@
         "Sustainability 2",
         "Pilgrimage",
         "Distance, Time and Elevation"
+      ],
+      "gallery": [
+        "assets/week7/dag49/dag491.jpg",
+        "assets/week7/dag49/dag492.jpg",
+        "assets/week7/dag49/dag493.jpg",
+        "assets/week7/dag49/dag494.jpg",
+        "assets/week7/dag49/dag495.jpg",
+        "assets/week7/dag49/dag496.jpg",
+        "assets/week7/dag49/dag497.jpg",
+        "assets/week7/dag49/dag498.jpg",
+        "assets/week7/dag49/dag499.jpg",
+        "assets/week7/dag49/dag4910.jpg"
       ]
     }
   ]

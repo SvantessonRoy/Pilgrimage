@@ -5,7 +5,7 @@
     "route": "Saint-Jean-Pier-de-Port -> Estella",
     "distance": "118,2 km",
     "button": "Show details",
-    "image": "vecka1.jpg"
+    "image": "weeks/vecka1.jpg"
   },
   {
     "week": 2,
@@ -13,7 +13,7 @@
     "route": "Estella -> Santo Domingo de la Calzada",
     "distance": "99,9 km",
     "button": "Show details",
-    "image": "vecka2.jpg"
+    "image": "weeks/vecka2.jpg"
   },
   {
     "week": 3,
@@ -21,7 +21,7 @@
     "route": "Santo Domingo de la Calzada -> Hontanas",
     "distance": "103,5 km",
     "button": "Show details",
-    "image": "vecka3.jpg"
+    "image": "weeks/vecka3.jpg"
   },
   {
     "week": 4,
@@ -29,7 +29,7 @@
     "route": "Hontanas -> Mansilla de las Mulas",
     "distance": "129,1 km",
     "button": "Show details",
-    "image": "vecka4.jpg"
+    "image": "weeks/vecka4.jpg"
   },
   {
     "week": 5,
@@ -37,7 +37,7 @@
     "route": "Mansilla de las Mulas ->El Acebo de San Miguel",
     "distance": "96,5 km",
     "button": "Show details",
-    "image": "vecka5.jpg"
+    "image": "weeks/vecka5.jpg"
   },
   {
     "week": 6,
@@ -45,15 +45,15 @@
     "route": "El Acebo de San Miguel -> Sarria",
     "distance": "98,4 km",
     "button": "Show details",
-    "image": "vecka6.jpg"
+    "image": "weeks/vecka6.jpg"
   },
   {
-    "week": 7,
-    "title": "Week 7",
-    "route": "Sarria -> Santiago de Compostela",
-    "distance": "95,1 km",
-    "button": "Show details",
-    "image": "vecka7.jpg"
+  "week": 7,
+  "title": "Week 7",
+  "route": "Sarria -> Santiago de Compostela",
+  "distance": "95,1 km",
+  "button": "Show details",
+  "image": "weeks/vecka7.jpg"
   },
   {
     "week": 8,
@@ -61,6 +61,6 @@
     "route": "Santiago de Compostela -> Finisterre",
     "distance": "82,0 km",
     "button": "Show details",
-    "image": "vecka8.jpg"
+    "image": "weeks/vecka8.jpg"
   }
 ]

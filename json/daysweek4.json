@@ -11,10 +11,10 @@
       "accommodation": "Hostel Puente Fitero",
       "elevation_gain": "+60 m",
       "elevation_loss": "-80 m",
-      "image": "week4/dag1.jpg",
+      "image": "week4/dag22.jpg",
       "route_map": {
         "start": { "name": "Hontanas", "lat": 42.3138, "lng": -4.0450 },
-        "end": { "name": "Itero de la Vega", "lat": 42.3700, "lng": -5.0300 },
+        "end": { "name": "Itero de la Vega", "lat": 42.2872, "lng": -4.2557 },
         "polyline": [
           
         ]
@@ -33,16 +33,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week4/dag1/dag11.jpg",
-      "assets/week4/dag1/dag12.jpg",
-      "assets/week4/dag1/dag13.jpg",
-      "assets/week4/dag1/dag14.jpg",
-      "assets/week4/dag1/dag15.jpg",
-      "assets/week4/dag1/dag16.jpg",
-      "assets/week4/dag1/dag17.jpg",
-      "assets/week4/dag1/dag18.jpg",
-      "assets/week4/dag1/dag19.jpg",
-      "assets/week4/dag1/dag110.jpg"
+  "assets/week4/dag22/dag221.jpg",
+  "assets/week4/dag22/dag222.jpg",
+  "assets/week4/dag22/dag223.jpg",
+  "assets/week4/dag22/dag224.jpg",
+  "assets/week4/dag22/dag225.jpg",
+  "assets/week4/dag22/dag226.jpg",
+  "assets/week4/dag22/dag227.jpg",
+  "assets/week4/dag22/dag228.jpg",
+  "assets/week4/dag22/dag229.jpg",
+  "assets/week4/dag22/dag2210.jpg"
     ]
     },
     {
@@ -56,10 +56,10 @@
       "accommodation": "Hostel Camino de Santiago",
       "elevation_gain": "+30 m",
       "elevation_loss": "-20 m",
-      "image": "week4/dag2.jpg",
+      "image": "week4/dag23.jpg",
       "route_map": {
-        "start": { "name": "Itero de la Vega", "lat": 42.3700, "lng": -5.0300 },
-        "end": { "name": "Frómista", "lat": 42.4492, "lng": -5.2467 },
+        "start": { "name": "Itero de la Vega", "lat": 42.2872, "lng": -4.2557 },
+        "end": { "name": "Frómista", "lat": 42.2694, "lng": -4.4047 },
         "polyline": [
           
         ]
@@ -78,16 +78,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week4/dag2/dag21.jpg",
-      "assets/week4/dag2/dag22.jpg",
-      "assets/week4/dag2/dag23.jpg",
-      "assets/week4/dag2/dag24.jpg",
-      "assets/week4/dag2/dag25.jpg",
-      "assets/week4/dag2/dag26.jpg",
-      "assets/week4/dag2/dag27.jpg",
-      "assets/week4/dag2/dag28.jpg",
-      "assets/week4/dag2/dag29.jpg",
-      "assets/week4/dag2/dag210.jpg"
+  "assets/week4/dag23/dag231.jpg",
+  "assets/week4/dag23/dag232.jpg",
+  "assets/week4/dag23/dag233.jpg",
+  "assets/week4/dag23/dag234.jpg",
+  "assets/week4/dag23/dag235.jpg",
+  "assets/week4/dag23/dag236.jpg",
+  "assets/week4/dag23/dag237.jpg",
+  "assets/week4/dag23/dag238.jpg",
+  "assets/week4/dag23/dag239.jpg",
+  "assets/week4/dag23/dag2310.jpg"
     ]
     },
     {
@@ -101,10 +101,10 @@
       "accommodation": "Hotel Real Monasterio de san Zoilo",
       "elevation_gain": "+40 m",
       "elevation_loss": "-50 m",
-      "image": "week4/dag3.jpg",
+      "image": "week4/dag24.jpg",
       "route_map": {
-        "start": { "name": "Frómista", "lat": 42.4492, "lng": -5.2467 },
-        "end": { "name": "Carrión de los Condes", "lat": 42.5050, "lng": -5.3122 },
+        "start": { "name": "Frómista", "lat": 42.2694, "lng": -4.4047 },
+        "end": { "name": "Carrión de los Condes", "lat": 42.3402, "lng": -4.6107 },
         "polyline": [
           
         ]
@@ -123,16 +123,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week4/dag3/dag31.jpg",
-      "assets/week4/dag3/dag32.jpg",
-      "assets/week4/dag3/dag33.jpg",
-      "assets/week4/dag3/dag34.jpg",
-      "assets/week4/dag3/dag35.jpg",
-      "assets/week4/dag3/dag36.jpg",
-      "assets/week4/dag3/dag37.jpg",
-      "assets/week4/dag3/dag38.jpg",
-      "assets/week4/dag3/dag39.jpg",
-      "assets/week4/dag3/dag310.jpg"
+  "assets/week4/dag24/dag241.jpg",
+  "assets/week4/dag24/dag242.jpg",
+  "assets/week4/dag24/dag243.jpg",
+  "assets/week4/dag24/dag244.jpg",
+  "assets/week4/dag24/dag245.jpg",
+  "assets/week4/dag24/dag246.jpg",
+  "assets/week4/dag24/dag247.jpg",
+  "assets/week4/dag24/dag248.jpg",
+  "assets/week4/dag24/dag249.jpg",
+  "assets/week4/dag24/dag2410.jpg"
     ]
     },
     {
@@ -146,10 +146,10 @@
       "accommodation": "Albuergue LaMorena",
       "elevation_gain": "+60 m",
       "elevation_loss": "-70 m",
-      "image": "week4/dag4.jpg",
+      "image": "week4/dag25.jpg",
       "route_map": {
-        "start": { "name": "Carrión de los Condes", "lat": 42.5050, "lng": -5.3122 },
-        "end": { "name": "Ledigos", "lat": 42.5987, "lng": -5.5671 },
+        "start": { "name": "Carrión de los Condes", "lat": 42.3402, "lng": -4.6107 },
+        "end": { "name": "Ledigos", "lat": 42.3548, "lng": -4.8657 },
         "polyline": [
         ]
       }
@@ -167,16 +167,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week4/dag4/dag41.jpg",
-      "assets/week4/dag4/dag42.jpg",
-      "assets/week4/dag4/dag43.jpg",
-      "assets/week4/dag4/dag44.jpg",
-      "assets/week4/dag4/dag45.jpg",
-      "assets/week4/dag4/dag46.jpg",
-      "assets/week4/dag4/dag47.jpg",
-      "assets/week4/dag4/dag48.jpg",
-      "assets/week4/dag4/dag49.jpg",
-      "assets/week4/dag4/dag410.jpg"
+  "assets/week4/dag25/dag251.jpg",
+  "assets/week4/dag25/dag252.jpg",
+  "assets/week4/dag25/dag253.jpg",
+  "assets/week4/dag25/dag254.jpg",
+  "assets/week4/dag25/dag255.jpg",
+  "assets/week4/dag25/dag256.jpg",
+  "assets/week4/dag25/dag257.jpg",
+  "assets/week4/dag25/dag258.jpg",
+  "assets/week4/dag25/dag259.jpg",
+  "assets/week4/dag25/dag2510.jpg"
     ]
     },
     {
@@ -190,10 +190,10 @@
       "accommodation": "Domus Viatoris",
       "elevation_gain": "",
       "elevation_loss": "",
-      "image": "week4/dag5.jpg",
+      "image": "week4/dag26.jpg",
       "route_map": {
-        "start": { "name": "Ledigos", "lat": 42.5050, "lng": -5.3122 },
-        "end": { "name": "Sahagún", "lat": 42.5987, "lng": -5.5671 },
+        "start": { "name": "Ledigos", "lat": 42.3548, "lng": -4.8657 },
+        "end": { "name": "Sahagún", "lat": 42.3728, "lng": -5.0243 },
         "polyline": [
         ]
       }
@@ -211,16 +211,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week4/dag5/dag51.jpg",
-      "assets/week4/dag5/dag52.jpg",
-      "assets/week4/dag5/dag53.jpg",
-      "assets/week4/dag5/dag54.jpg",
-      "assets/week4/dag5/dag55.jpg",
-      "assets/week4/dag5/dag56.jpg",
-      "assets/week4/dag5/dag57.jpg",
-      "assets/week4/dag5/dag58.jpg",
-      "assets/week4/dag5/dag59.jpg",
-      "assets/week4/dag5/dag510.jpg"
+  "assets/week4/dag26/dag261.jpg",
+  "assets/week4/dag26/dag262.jpg",
+  "assets/week4/dag26/dag263.jpg",
+  "assets/week4/dag26/dag264.jpg",
+  "assets/week4/dag26/dag265.jpg",
+  "assets/week4/dag26/dag266.jpg",
+  "assets/week4/dag26/dag267.jpg",
+  "assets/week4/dag26/dag268.jpg",
+  "assets/week4/dag26/dag269.jpg",
+  "assets/week4/dag26/dag2610.jpg"
     ]
     },
     {
@@ -234,10 +234,10 @@
       "accommodation": "La Costa del adobe",
       "elevation_gain": "+120 m",
       "elevation_loss": "-100 m",
-      "image": "week4/dag6.jpg",
+      "image": "week4/dag27.jpg",
       "route_map": {
-        "start": { "name": "Sahagún", "lat": 42.5987, "lng": -5.5671 },
-        "end": { "name": "El Burgo Ranero", "lat": 42.4667, "lng": -5.9000 },
+        "start": { "name": "Sahagún", "lat": 42.3728, "lng": -5.0243 },
+        "end": { "name": "El Burgo Ranero", "lat": 42.4217, "lng": -5.2183 },
         "polyline": [
           
         ]
@@ -256,16 +256,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week4/dag6/dag61.jpg",
-      "assets/week4/dag6/dag62.jpg",
-      "assets/week4/dag6/dag63.jpg",
-      "assets/week4/dag6/dag64.jpg",
-      "assets/week4/dag6/dag65.jpg",
-      "assets/week4/dag6/dag66.jpg",
-      "assets/week4/dag6/dag67.jpg",
-      "assets/week4/dag6/dag68.jpg",
-      "assets/week4/dag6/dag69.jpg",
-      "assets/week4/dag6/dag610.jpg"
+  "assets/week4/dag27/dag271.jpg",
+  "assets/week4/dag27/dag272.jpg",
+  "assets/week4/dag27/dag273.jpg",
+  "assets/week4/dag27/dag274.jpg",
+  "assets/week4/dag27/dag275.jpg",
+  "assets/week4/dag27/dag276.jpg",
+  "assets/week4/dag27/dag277.jpg",
+  "assets/week4/dag27/dag278.jpg",
+  "assets/week4/dag27/dag279.jpg",
+  "assets/week4/dag27/dag2710.jpg"
     ]
     },
     {
@@ -276,13 +276,13 @@
   "time": "5 h",
   "short_desc": "Towards Astorga.",
   "long_desc": "End of the week in the Roman town of Astorga.",
-      "accommodation": "La Casa de los Soportales",
+      "accommodation": "Hotel Rural La Casa de los Soportales",
       "elevation_gain": "+90 m",
       "elevation_loss": "-80 m",
-      "image": "week4/dag7.jpg",
+      "image": "week4/dag28.jpg",
       "route_map": {
-        "start": { "name": "El Burgo Ranero", "lat": 42.4667, "lng": -5.9000 },
-        "end": { "name": "Mansilla de las Mulas", "lat": 42.4584, "lng": -6.0580 },
+        "start": { "name": "El Burgo Ranero", "lat": 42.4217, "lng": -5.2183 },
+        "end": { "name": "Mansilla de las Mulas", "lat": 42.4997, "lng": -5.4121 },
         "polyline": [
           
         ]
@@ -301,16 +301,16 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-      "assets/week4/dag7/dag71.jpg",
-      "assets/week4/dag7/dag72.jpg",
-      "assets/week4/dag7/dag73.jpg",
-      "assets/week4/dag7/dag74.jpg",
-      "assets/week4/dag7/dag75.jpg",
-      "assets/week4/dag7/dag76.jpg",
-      "assets/week4/dag7/dag77.jpg",
-      "assets/week4/dag7/dag78.jpg",
-      "assets/week4/dag7/dag79.jpg",
-      "assets/week4/dag7/dag710.jpg"
+  "assets/week4/dag28/dag281.jpg",
+  "assets/week4/dag28/dag282.jpg",
+  "assets/week4/dag28/dag283.jpg",
+  "assets/week4/dag28/dag284.jpg",
+  "assets/week4/dag28/dag285.jpg",
+  "assets/week4/dag28/dag286.jpg",
+  "assets/week4/dag28/dag287.jpg",
+  "assets/week4/dag28/dag288.jpg",
+  "assets/week4/dag28/dag289.jpg",
+  "assets/week4/dag28/dag2810.jpg"
     ]
     }
   ]

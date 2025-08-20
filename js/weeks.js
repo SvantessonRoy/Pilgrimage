@@ -62,7 +62,9 @@ async function loadWeek() {
                     html += `
                     <a class="stage-card" href="${dayUrl}">
                         <div style="display:flex;flex-direction:column;align-items:center;">
-                            <div class="stage-img" style="background-image:url('../assets/${img}');"></div>
+                            <div class="stage-img" style="background-image:url('../assets/${img}'); position:relative;">
+                                ${img && img.includes('placeholder.jpg') ? `<div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%) rotate(-20deg);font-style:italic;color:#555;background:#e0e0e0;padding:6px 16px;border-radius:8px;pointer-events:none;z-index:2;font-size:1em;">Photo will be updated during the Pilgrimage</div>` : ''}
+                            </div>
                         </div>
                         <div class="stage-card-content">
                             <div class="stage-img-number" style="font-weight:bold;font-size:1.1em;margin-bottom:8px;text-align:left;">${dayNumber}</div>
