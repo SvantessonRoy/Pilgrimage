@@ -14,7 +14,7 @@
     "image": "week1/dag1.JPG",
     "route_map": {
       "start": { "name": "Saint-Jean-Pied-de-Port", "lat": 43.1631, "lng": -1.2374 },
-      "end": { "name": "Orisson", "lat": 43.1767, "lng": -1.2031 },
+      "end": { "name": "Orisson", "lat": 43.1114, "lng": -1.2400 },
         "polyline": [
     
   ]
@@ -57,7 +57,7 @@
     "elevation_loss": "-600 m",
     "image": "week1/dag2.JPG",
     "route_map": {
-      "start": { "name": "Orisson", "lat": 43.1767, "lng": -1.2031 },
+      "start": { "name": "Orisson", "lat": 43.1114, "lng": -1.2400 },
       "end": { "name": "Roncesvalles", "lat": 43.0094, "lng": -1.3206 },
       "polyline": [
  
@@ -141,13 +141,13 @@
   "time": "6 h",
   "short_desc": "Over Alto del Perdón.",
   "long_desc": "Known for the wind turbines and pilgrim sculptures on the hill.",
-    "accommodation": "Albergue i Puente la Reina",
+    "accommodation": "Hotel Ciudadela Pamplona",
     "elevation_gain": "+400 m",
     "elevation_loss": "-450 m",
     "image": "week1/dag4.JPG",
     "route_map": {
       "start": { "name": "Zubiri", "lat": 42.9351, "lng": -1.5041 },
-      "end": { "name": "Pamplona", "lat": 42.8169, "lng": -1.6432 },
+      "end": { "name": "Pamplona", "lat": 42.8154, "lng": -1.6471 },
       "polyline": [
      
       ]
@@ -186,13 +186,13 @@
   "time": "7 h",
   "short_desc": "Wine landscapes and small villages.",
   "long_desc": "Hiking through vineyards and medieval villages to Estella.",
-    "accommodation": "Albergue i Estella",
+    "accommodation": "Alberque Estella Guia",
     "elevation_gain": "+300 m",
     "elevation_loss": "-350 m",
     "image": "week1/dag5.JPG",
     "route_map": {
-      "start": { "name": "Pamplona", "lat": 42.8169, "lng": -1.6432 },
-      "end": { "name": "Puente la Reina", "lat": 42.6716, "lng": -1.8167 },
+      "start": { "name": "Pamplona", "lat": 42.8154, "lng": -1.6471 },
+      "end": { "name": "Puente la Reina", "lat": 42.6722, "lng": -1.8183 },
       "polyline": [
      
       ]
@@ -236,8 +236,8 @@
     "elevation_loss": "-250 m",
     "image": "week1/dag6.JPG",
     "route_map": {
-      "start": { "name": "Puente la Reina", "lat": 42.6716, "lng": -1.8167 },
-      "end": { "name": "Lorca", "lat": 42.6707, "lng": -1.9436 },
+      "start": { "name": "Puente la Reina", "lat": 42.6722, "lng": -1.8183 },
+      "end": { "name": "Lorca", "lat": 42.6706, "lng": -1.9484 },
       "polyline": [
  
       ]
@@ -281,8 +281,8 @@
     "elevation_loss": "-200 m",
     "image": "week1/dag7.JPG",
     "route_map": {
-      "start": { "name": "Lorca", "lat": 42.6707, "lng": -1.9436 },
-      "end": { "name": "Estella", "lat": 42.6790, "lng": -2.0378 },
+      "start": { "name": "Lorca", "lat": 42.6706, "lng": -1.9484 },
+      "end": { "name": "Estella", "lat": 42.6789, "lng": -2.0320 },
       "polyline": [
      
       ]

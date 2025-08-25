@@ -13,7 +13,7 @@
       "elevation_loss": "-200 m",
       "image": "week2/dag1.JPG",
       "route_map": {
-        "start": { "name": "Estella", "lat": 42.6790, "lng": -2.0378 },
+        "start": { "name": "Estella", "lat": 42.6789, "lng": -2.0320 },
         "end": { "name": " Villamayor de Monjardin", "lat": 42.6291, "lng": -2.1034 },
         "polyline": [
         ]
