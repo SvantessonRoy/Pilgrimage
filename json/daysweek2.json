@@ -8,13 +8,13 @@
   "time": "2 h",
   "short_desc": "Vineyards and historic villages.",
   "long_desc": "Hiking through the Rioja wine region, with a stop at the famous wine fountain in Irache.",
-      "accommodation": "Albergue i  Villamayor de Monjardin",
+      "accommodation": "Casa Rural Montedeio",
       "elevation_gain": "+250 m",
       "elevation_loss": "-200 m",
       "image": "week2/dag1.JPG",
       "route_map": {
         "start": { "name": "Estella", "lat": 42.6789, "lng": -2.0320 },
-        "end": { "name": " Villamayor de Monjardin", "lat": 42.6291, "lng": -2.1034 },
+        "end": { "name": " Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
         "polyline": [
         ]
       }
@@ -52,13 +52,13 @@
   "time": "6 h",
   "short_desc": "The longest stage of the week.",
   "long_desc": "Rural walk to the regional capital Logroño.",
-      "accommodation": "Albergue i Tores de Rio",
+      "accommodation": "Hostel Rural San Andres",
       "elevation_gain": "+180 m",
       "elevation_loss": "-220 m",
       "image": "week2/dag2.JPG",
       "route_map": {
-        "start": { "name": "Villamayor de Monjardin", "lat": 42.6291, "lng": -2.1034 },
-        "end": { "name": "Tores de Rio", "lat": 42.5515, "lng": -2.2701 },
+        "start": { "name": "Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
+        "end": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
         "polyline": [
           
         ]
@@ -102,7 +102,7 @@
       "elevation_loss": "-180 m",
       "image": "week2/dag3.JPG",
       "route_map": {
-        "start": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2701 },
+        "start": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
         "end": { "name": "Logroño", "lat": 42.4660, "lng": -2.4468 },
         "polyline": [
           
