@@ -35,9 +35,19 @@ async function loadDay() {
         // Title
         document.getElementById('day-title').textContent = `Day ${day.day}: ${day.title}`;
         // Meta
-        let meta = '';
+        // Calculate date for each day
+    const startDate = new Date(2025, 8, 8); // September is month 8 (0-indexed), start at 8th
+        const dayNum = parseInt(day.day, 10);
+        const currentDate = new Date(startDate.getTime());
+        if (!isNaN(dayNum)) {
+            currentDate.setDate(startDate.getDate() + (dayNum - 1));
+        }
+        const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
+        const dateStr = `${weekdays[currentDate.getDay()]} ${months[currentDate.getMonth()]} ${currentDate.getDate()} ${currentDate.getFullYear()}`;
+        let meta = dateStr + ' | ';
         if (day.date) meta += day.date + ' | ';
-        if (day.distance) meta += 'Day distance: ' + day.distance + ' | ';
+        if (day.distance) meta += 'Distance: ' + day.distance + ' | ';
         if (day.time) meta += 'Time: ' + day.time + ' | ';
         if (day.elevation_gain) meta += 'Elevation: ' + day.elevation_gain;
         document.getElementById('day-meta').textContent = meta;

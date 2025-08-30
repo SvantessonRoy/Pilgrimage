@@ -34,7 +34,8 @@ async function loadWeek() {
         }
         html += '<div class="week-summary-text">';
         if (week.route) html += `<p><strong>Route:</strong> ${week.route}</p>`;
-        if (week.distance) html += `<p><strong>Distance:</strong> ${week.distance}</p>`;
+    if (week.distance) html += `<p><strong>Distance:</strong> ${week.distance}</p>`;
+    if (week.Summary) html += `<p><strong>Summary:</strong> ${week.Summary}</p>`;
         if (week.description) html += `<p>${week.description}</p>`;
         html += '</div></div>';
 

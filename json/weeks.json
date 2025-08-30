@@ -3,7 +3,8 @@
     "week": 1,
     "title": "Week 1",
     "route": "Saint-Jean-Pier-de-Port -> Estella",
-    "distance": "118,2 km",
+  "distance": "118,2 km",
+  "Summary": "It will be a tough week of hiking across the Pyrenees with three favorites, Refugio Orisson, Pamplona and Lorca.",
     "button": "Show details",
     "image": "weeks/vecka1.jpg"
   },
@@ -11,7 +12,8 @@
     "week": 2,
     "title": "Week 2",
     "route": "Estella -> Santo Domingo de la Calzada",
-    "distance": "99,9 km",
+  "distance": "99,9 km",
+  "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka2.jpg"
   },
@@ -19,7 +21,8 @@
     "week": 3,
     "title": "Week 3",
     "route": "Santo Domingo de la Calzada -> Hontanas",
-    "distance": "103,5 km",
+  "distance": "103,5 km",
+  "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka3.jpg"
   },
@@ -27,7 +30,8 @@
     "week": 4,
     "title": "Week 4",
     "route": "Hontanas -> Mansilla de las Mulas",
-    "distance": "129,1 km",
+  "distance": "129,1 km",
+  "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka4.jpg"
   },
@@ -35,7 +39,8 @@
     "week": 5,
     "title": "Week 5",
     "route": "Mansilla de las Mulas ->El Acebo de San Miguel",
-    "distance": "96,5 km",
+  "distance": "96,5 km",
+  "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka5.jpg"
   },
@@ -43,7 +48,8 @@
     "week": 6,
     "title": "Week 6",
     "route": "El Acebo de San Miguel -> Sarria",
-    "distance": "98,4 km",
+  "distance": "98,4 km",
+  "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka6.jpg"
   },
@@ -52,6 +58,7 @@
   "title": "Week 7",
   "route": "Sarria -> Santiago de Compostela",
   "distance": "95,1 km",
+  "Summary": "Updated weekly",
   "button": "Show details",
   "image": "weeks/vecka7.jpg"
   },
@@ -59,7 +66,8 @@
     "week": 8,
     "title": "Week 8",
     "route": "Santiago de Compostela -> Finisterre",
-    "distance": "82,0 km",
+  "distance": "82,0 km",
+  "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka8.jpg"
   }
