@@ -11,6 +11,7 @@
       "accommodation": "Albergue i O Pedrouzo",
       "elevation_gain": "+150 m",
       "elevation_loss": "-120 m",
+      "altitude_meter": "-",
       "image": "placeholder.jpg",
       "route_map": {
         "start": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
@@ -30,8 +31,8 @@
   "long_desc": "Final walk to the cathedral in Santiago.",
       "accommodation": "Albergue i Santiago",
       "elevation_gain": "+120 m",
-      "elevation_loss": "-150 m",
-      "image": "placeholder.jpg",
+      "elevation_loss": "-50 m",
+      "altitude_meter": "-",
       "route_map": {
         "start": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
         "end": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
@@ -51,6 +52,7 @@
       "accommodation": "Albergue i Finisterre",
       "elevation_gain": "",
       "elevation_loss": "",
+      "altitude_meter": "-",
       "image": "placeholder.jpg"
     }
   ]

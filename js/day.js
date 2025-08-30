@@ -49,7 +49,7 @@ async function loadDay() {
         if (day.date) meta += day.date + ' | ';
         if (day.distance) meta += 'Distance: ' + day.distance + ' | ';
         if (day.time) meta += 'Time: ' + day.time + ' | ';
-        if (day.elevation_gain) meta += 'Elevation: ' + day.elevation_gain;
+        if (day.elevation_gain) meta += 'Altitude meter: ' + day.altitude_meter;
         document.getElementById('day-meta').textContent = meta;
         // Description
         let desc = '';

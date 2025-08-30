@@ -72,6 +72,7 @@ async function loadWeek() {
                             <div class="stage-title">${day.title}</div>
                                 <div class="stage-meta"><strong>Distance:</strong> ${day.distance} &nbsp; <strong>Time:</strong> ${day.time || ''}</div>
                                 <div class="stage-meta"><strong>Elevation:</strong> ${day.elevation_gain || ''} / ${day.elevation_loss || ''}</div>
+                                    <div class="stage-meta"><strong>Altitude meter:</strong> ${day.altitude_meter || ''}</div>
                             <div class="stage-meta"><strong>Accommodation:</strong> ${day.accommodation || ''}</div>
                                 <div style="height:6px;"></div>
                                 <div class="stage-desc">${day.short_desc || ''}</div>

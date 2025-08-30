@@ -11,6 +11,7 @@
       "accommodation": "Hostel Puente Fitero",
       "elevation_gain": "+60 m",
       "elevation_loss": "-80 m",
+      "altitude_meter": "-",
       "image": "week4/dag22.jpg",
       "route_map": {
         "start": { "name": "Hontanas", "lat": 42.3138, "lng": -4.0450 },
@@ -56,7 +57,7 @@
       "accommodation": "Hostel Camino de Santiago",
       "elevation_gain": "+30 m",
       "elevation_loss": "-20 m",
-      "image": "week4/dag23.jpg",
+      "altitude_meter": "-",
       "route_map": {
         "start": { "name": "Itero de la Vega", "lat": 42.2872, "lng": -4.2557 },
         "end": { "name": "Frómista", "lat": 42.2694, "lng": -4.4047 },
@@ -101,6 +102,7 @@
       "accommodation": "Hotel Real Monasterio de san Zoilo",
       "elevation_gain": "+40 m",
       "elevation_loss": "-50 m",
+      "altitude_meter": "-",
       "image": "week4/dag24.jpg",
       "route_map": {
         "start": { "name": "Frómista", "lat": 42.2694, "lng": -4.4047 },
@@ -146,6 +148,7 @@
       "accommodation": "Albuergue LaMorena",
       "elevation_gain": "+60 m",
       "elevation_loss": "-70 m",
+      "altitude_meter": "-",
       "image": "week4/dag25.jpg",
       "route_map": {
         "start": { "name": "Carrión de los Condes", "lat": 42.3402, "lng": -4.6107 },
@@ -190,6 +193,7 @@
       "accommodation": "Domus Viatoris",
       "elevation_gain": "",
       "elevation_loss": "",
+      "altitude_meter": "-",
       "image": "week4/dag26.jpg",
       "route_map": {
         "start": { "name": "Ledigos", "lat": 42.3548, "lng": -4.8657 },
@@ -234,7 +238,9 @@
       "accommodation": "La Costa del adobe",
       "elevation_gain": "+120 m",
       "elevation_loss": "-100 m",
+      "altitude_meter": "-",
       "image": "week4/dag27.jpg",
+    "altitude_meter": "-",
       "route_map": {
         "start": { "name": "Sahagún", "lat": 42.3728, "lng": -5.0243 },
         "end": { "name": "El Burgo Ranero", "lat": 42.4217, "lng": -5.2183 },
@@ -279,6 +285,7 @@
       "accommodation": "Hotel Rural La Casa de los Soportales",
       "elevation_gain": "+90 m",
       "elevation_loss": "-80 m",
+      "altitude_meter": "-",
       "image": "week4/dag28.jpg",
       "route_map": {
         "start": { "name": "El Burgo Ranero", "lat": 42.4217, "lng": -5.2183 },

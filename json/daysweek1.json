@@ -4,13 +4,14 @@
     "week": 1,
     "day": 1,
     "title": "Saint-Jean-Pied-de-Port -> Orisson",
-  "distance": "7,4 km",
-  "time": "3 h",
+  "distance": "8,0 km",
+  "time": "4 hour 02 min.",
   "short_desc": "Mountain stage over the Pyrenees.",
   "long_desc": "One of the most challenging stages, with fantastic views and historic sites.",
     "accommodation": "Refugio Orisson",
     "elevation_gain": "+1250 m",
     "elevation_loss": "-500 m",
+    "altitude_meter": "800 m",
     "image": "week1/dag1.JPG",
     "route_map": {
       "start": { "name": "Saint-Jean-Pied-de-Port", "lat": 43.1631, "lng": -1.2374 },
@@ -55,6 +56,7 @@
     "accommodation": "Roncesvalles Pilgrims Hostel",
     "elevation_gain": "+250 m",
     "elevation_loss": "-600 m",
+    "altitude_meter": "-",
     "image": "week1/dag2.JPG",
     "route_map": {
       "start": { "name": "Orisson", "lat": 43.1114, "lng": -1.2400 },
@@ -99,6 +101,7 @@
     "accommodation": "Albergue Suseia",
     "elevation_gain": "+150 m",
     "elevation_loss": "-200 m",
+    "altitude_meter": "-",
     "image": "week1/dag3.JPG",
     "route_map": {
       "start": { "name": "Roncesvalles", "lat": 43.0094, "lng": -1.3206 },
@@ -144,6 +147,7 @@
     "accommodation": "Hotel Ciudadela Pamplona",
     "elevation_gain": "+400 m",
     "elevation_loss": "-450 m",
+    "altitude_meter": "-",
     "image": "week1/dag4.JPG",
     "route_map": {
       "start": { "name": "Zubiri", "lat": 42.9351, "lng": -1.5041 },
@@ -189,6 +193,7 @@
     "accommodation": "Alberque Estella Guia",
     "elevation_gain": "+300 m",
     "elevation_loss": "-350 m",
+    "altitude_meter": "-",
     "image": "week1/dag5.JPG",
     "route_map": {
       "start": { "name": "Pamplona", "lat": 42.8154, "lng": -1.6471 },
@@ -234,6 +239,7 @@
     "accommodation": "Casa Nahia Hostal Rural",
     "elevation_gain": "+200 m",
     "elevation_loss": "-250 m",
+    "altitude_meter": "-",
     "image": "week1/dag6.JPG",
     "route_map": {
       "start": { "name": "Puente la Reina", "lat": 42.6722, "lng": -1.8183 },
@@ -279,6 +285,7 @@
     "accommodation": "Hostal Christina",
     "elevation_gain": "+150 m",
     "elevation_loss": "-200 m",
+     "altitude_meter": "-",
     "image": "week1/dag7.JPG",
     "route_map": {
       "start": { "name": "Lorca", "lat": 42.6706, "lng": -1.9484 },

@@ -11,6 +11,7 @@
       "accommodation": "Hotel Aroi Ponferrada",
       "elevation_gain": "+200 m",
       "elevation_loss": "-300 m",
+      "altitude_meter": "-",
       "image": "week6/dag36.jpg",
       "route_map": {
         "start": { "name": "El Acebo de San Miguel", "lat": 42.4988, "lng": -6.4575 },
@@ -54,6 +55,7 @@
       "accommodation": "Vina Femita",
       "elevation_gain": "+350 m",
       "elevation_loss": "-400 m",
+      "altitude_meter": "-",
       "image": "week6/dag37.jpg",
       "route_map": {
         "start": { "name": "Ponferrada", "lat": 42.5461, "lng": -6.5941 },
@@ -97,7 +99,7 @@
       "accommodation": "Hostal El Recanto",
       "elevation_gain": "+300 m",
       "elevation_loss": "-250 m",
-      "image": "week6/dag38.jpg",
+      "altitude_meter": "-",
       "route_map": {
         "start": { "name": "Villafranca del Bierzo", "lat": 42.6059, "lng": -6.8117 },
         "end": { "name": "Vega de Valcarce", "lat": 42.6659, "lng": -6.9402 },
@@ -140,6 +142,7 @@
       "accommodation": "Casa Galego",
       "elevation_gain": "+120 m",
       "elevation_loss": "-100 m",
+      "altitude_meter": "-",
       "image": "week6/dag39.jpg",
       "route_map": {
         "start": { "name": "Vega de Valcarce", "lat": 42.6659, "lng": -6.9402 },
@@ -183,6 +186,7 @@
       "accommodation": "A Casa da Botica",
       "elevation_gain": "+80 m",
       "elevation_loss": "-90 m",
+      "altitude_meter": "-",
       "image": "week6/dag40.jpg",
       "route_map": {
         "start": { "name": "Fonfria", "lat": 42.7299, "lng": -7.1551 },
@@ -226,6 +230,7 @@
       "accommodation": "Casa Solance",
       "elevation_gain": "+120 m",
       "elevation_loss": "-110 m",
+      "altitude_meter": "-",
       "image": "week6/dag41.jpg",
       "route_map": {
         "start": { "name": "Samos", "lat": 42.7308, "lng": -7.3259 },
@@ -269,6 +274,7 @@
       "accommodation": "Casa Solance",
       "elevation_gain": "+150 m",
       "elevation_loss": "-200 m",
+      "altitude_meter": "-",
       "image": "week6/dag42.jpg",
       "route_map": {
         "start": { "name": "Sarria", "lat": 42.7811, "lng": -7.4154 },

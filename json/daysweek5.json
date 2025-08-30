@@ -11,7 +11,8 @@
       "accommodation": "Hotel My Palace Leon",
       "elevation_gain": "+350 m",
       "elevation_loss": "-100 m",
-      "image": "week5/dag29.jpg",
+      "elevation_loss": "-200 m",
+    "altitude_meter": "-",
       "route_map": {
         "start": { "name": "Mansilla de las Mulas", "lat": 42.4997, "lng": -5.4121 },
         "end": { "name": "León", "lat": 42.5947, "lng": -5.5700 },
@@ -55,6 +56,7 @@
       "accommodation": "Hotel My Palace Leon",
       "elevation_gain": "+250 m",
       "elevation_loss": "-50 m",
+      "altitude_meter": "-",
       "image": "week5/dag30.jpg",
       "route_map": {
         "start": { "name": "León", "lat": 42.5947, "lng": -5.5700 },
@@ -100,6 +102,7 @@
       "accommodation": "Tio pepe Hostel",
       "elevation_gain": "+50 m",
       "elevation_loss": "-900 m",
+      "altitude_meter": "-",
       "image": "week5/dag31.jpg",
       "route_map": {
         "start": { "name": "León", "lat": 42.5747, "lng": -5.5700 },
@@ -144,6 +147,7 @@
       "accommodation": "Hostal Don Suero de Quinones ",
       "elevation_gain": "+40 m",
       "elevation_loss": "-30 m",
+      "altitude_meter": "-",
       "image": "week5/dag32.jpg",
       "route_map": {
         "start": { "name": "Villa de Mazarife", "lat": 42.4832, "lng": -5.7267 },
@@ -189,6 +193,7 @@
       "accommodation": "Hotel Gaudi",
       "elevation_gain": "+200 m",
       "elevation_loss": "-180 m",
+    "altitude_meter": "-",
       "image": "week5/dag33.jpg",
       "route_map": {
         "start": { "name": "Hospital de Orbigio", "lat": 42.4638, "lng": -5.8810 },
@@ -234,6 +239,7 @@
       "accommodation": "Posada El Tesin",
       "elevation_gain": "+900 m",
       "elevation_loss": "-100 m",
+    "altitude_meter": "-",
       "image": "week5/dag34.jpg",
       "route_map": {
         "start": { "name": "Astorga", "lat": 42.4574, "lng": -6.0552 },
@@ -279,6 +285,7 @@
       "accommodation": "La Trucha del Arco Iris",
       "elevation_gain": "+100 m",
       "elevation_loss": "-600 m",
+    "altitude_meter": "-",
       "image": "week5/dag35.jpg",
       "route_map": {
         "start": { "name": "Rabanal del Camino ", "lat": 42.4818, "lng": -6.2808 },

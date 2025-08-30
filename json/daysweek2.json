@@ -11,6 +11,7 @@
       "accommodation": "Casa Rural Montedeio",
       "elevation_gain": "+250 m",
       "elevation_loss": "-200 m",
+      "altitude_meter": "-",
       "image": "week2/dag1.JPG",
       "route_map": {
         "start": { "name": "Estella", "lat": 42.6789, "lng": -2.0320 },
@@ -55,6 +56,7 @@
       "accommodation": "Hostel Rural San Andres",
       "elevation_gain": "+180 m",
       "elevation_loss": "-220 m",
+      "altitude_meter": "-",
       "image": "week2/dag2.JPG",
       "route_map": {
         "start": { "name": "Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
@@ -100,6 +102,7 @@
       "accommodation": "Hotell Los Bracos i Logroño",
       "elevation_gain": "+200 m",
       "elevation_loss": "-180 m",
+      "altitude_meter": "-",
       "image": "week2/dag3.JPG",
       "route_map": {
         "start": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
@@ -145,6 +148,7 @@
       "accommodation": "Hotell Los Bracos i Logroño",
       "elevation_gain": "+0 m",
       "elevation_loss": "-0 m",
+      "altitude_meter": "-",
       "image": "week2/dag4.JPG",
       "route_map": {
         "start": { "name": "Logroño", "lat": 42.4660, "lng": -2.4468 },
@@ -190,6 +194,7 @@
       "accommodation": "Hotell Ray Sancho Najera",
       "elevation_gain": "+120 m",
       "elevation_loss": "-100 m",
+      "altitude_meter": "-",
       "image": "week2/dag5.jpg",
       "route_map": {
         "start": { "name": "Logroño", "lat": 42.4654, "lng": -2.4497 },
@@ -235,6 +240,7 @@
       "accommodation": "Hotell Ray Sancho Najera",
       "elevation_gain": "",
       "elevation_loss": "",
+      "altitude_meter": "-",
       "image": "week2/dag6.jpg",
       "route_map": {
         "start": { "name": "Navarrete", "lat": 42.4324, "lng": -2.5601 },
@@ -280,6 +286,7 @@
       "accommodation": "Parador de S.D.Bernado de Fresna",
       "elevation_gain": "+180 m",
       "elevation_loss": "-160 m",
+      "altitude_meter": "-",
       "image": "week2/dag6.jpg",
       "route_map": {
         "start": { "name": "Najera", "lat": 42.4173, "lng": -2.731 },

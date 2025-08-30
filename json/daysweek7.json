@@ -11,6 +11,7 @@
       "accommodation": "Hotel Portomarin Star",
       "elevation_gain": "+300 m",
       "elevation_loss": "-250 m",
+      "altitude_meter": "-",
       "image": "assets/week7/dag43.jpg",
       "route_map": {
         "start": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
@@ -53,6 +54,7 @@
       "accommodation": "Casa de Cota",
       "elevation_gain": "+400 m",
       "elevation_loss": "-350 m",
+      "altitude_meter": "-",
       "image": "assets/week7/dag44.jpg",
       "route_map": {
         "start": { "name": "Portomarín", "lat": 42.8067, "lng": -7.6151 },
@@ -95,7 +97,8 @@
       "accommodation": "Pension Ferradura",
       "elevation_gain": "+100 m",
       "elevation_loss": "-400 m",
-      "image": "assets/week7dag45.jpg",
+      "elevation_loss": "-100 m",
+      "altitude_meter": "-",
       "route_map": {
         "start": { "name": "Ligonde (Airexe)", "lat": 42.8646, "lng": -7.7873 },
         "end": { "name": "Melide", "lat": 42.9143, "lng": -8.0148 },
@@ -137,6 +140,7 @@
       "accommodation": "1930 Boutique Hotel",
       "elevation_gain": "+80 m",
       "elevation_loss": "-90 m",
+      "altitude_meter": "-",
       "image": "assets/week7dag46.jpg",
       "route_map": {
         "start": { "name": "Melide", "lat": 42.9143, "lng": -8.0148 },
@@ -179,6 +183,7 @@
       "accommodation": "Pension 9 de Abril",
       "elevation_gain": "",
       "elevation_loss": "",
+      "altitude_meter": "-",
       "image": "assets/week7/dag47.jpg",
       "route_map": {
         "start": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1533 },
@@ -221,6 +226,7 @@
       "accommodation": "Hotel Compostela****",
       "elevation_gain": "+200 m",
       "elevation_loss": "-180 m",
+      "altitude_meter": "-",
       "image": "assets/week7/dag48.jpg",
       "route_map": {
         "start": { "name": "O Pedrouzo", "lat": 42.9048, "lng": -8.3634 },
@@ -263,6 +269,7 @@
       "accommodation": "Hotel Compostela",
       "elevation_gain": "",
       "elevation_loss": "",
+      "altitude_meter": "-",
       "image": "week7/dag49.jpg",
       "route_map": {
         "start": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
