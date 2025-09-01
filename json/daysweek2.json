@@ -9,9 +9,9 @@
   "short_desc": "Vineyards and historic villages.",
   "long_desc": "Hiking through the Rioja wine region, with a stop at the famous wine fountain in Irache.",
       "accommodation": "Casa Rural Montedeio",
-      "elevation_gain": "+250 m",
+      "elevation_gain": "+280 m",
       "elevation_loss": "-200 m",
-      "altitude_meter": "-",
+      "altitude_meter": "100 m",
       "image": "week2/dag1.JPG",
       "route_map": {
         "start": { "name": "Estella", "lat": 42.6789, "lng": -2.0320 },
