@@ -97,7 +97,6 @@
       "accommodation": "Pension Ferradura",
       "elevation_gain": "+100 m",
       "elevation_loss": "-400 m",
-      "elevation_loss": "-100 m",
       "altitude_meter": "-",
       "route_map": {
         "start": { "name": "Ligonde (Airexe)", "lat": 42.8646, "lng": -7.7873 },
