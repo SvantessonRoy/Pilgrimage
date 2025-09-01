@@ -11,7 +11,6 @@
       "accommodation": "Hotel My Palace Leon",
       "elevation_gain": "+350 m",
       "elevation_loss": "-100 m",
-      "elevation_loss": "-200 m",
     "altitude_meter": "-",
       "route_map": {
         "start": { "name": "Mansilla de las Mulas", "lat": 42.4997, "lng": -5.4121 },

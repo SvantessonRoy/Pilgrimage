@@ -87,6 +87,8 @@ async function loadDay() {
         }
         document.getElementById('day-gallery').innerHTML = gallery;
 
+
+        
         // Modal for enlarged image
         if (!document.getElementById('img-modal')) {
             const modalHtml = `
@@ -242,6 +244,17 @@ async function loadDay() {
         document.getElementById('day-gallery').innerHTML = '';
         document.getElementById('day-back-link').innerHTML = '<a href="week.html">← Back to week overview</a>';
     }
+
 }
+
+    const navLinks = document.querySelectorAll('nav a');
+    navLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            if (this.getAttribute('href').startsWith('#')) {
+                e.preventDefault();
+                alert('This site is under construction. Navigation links are placeholders.');
+            }
+        });
+    })
 
 window.addEventListener('DOMContentLoaded', loadDay);

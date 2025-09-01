@@ -24,6 +24,16 @@ async function loadAllDays() {
     return allDays;
 }
 
+    const navLinks = document.querySelectorAll('nav a');
+    navLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            if (this.getAttribute('href').startsWith('#')) {
+                e.preventDefault();
+                alert('This site is under construction. Navigation links are placeholders.');
+            }
+        });
+    })
+
 function renderDayList(days) {
     const list = document.getElementById('day-list');
     list.classList.add('day-list-flex');

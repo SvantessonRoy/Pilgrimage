@@ -240,7 +240,6 @@
       "elevation_loss": "-100 m",
       "altitude_meter": "-",
       "image": "week4/dag27.jpg",
-    "altitude_meter": "-",
       "route_map": {
         "start": { "name": "Sahagún", "lat": 42.3728, "lng": -5.0243 },
         "end": { "name": "El Burgo Ranero", "lat": 42.4217, "lng": -5.2183 },
