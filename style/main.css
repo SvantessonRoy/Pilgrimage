@@ -148,6 +148,14 @@
   margin-bottom: 0;
   background-color: #e0e0e0;
   border: 4px solid #fff;
+  display: block;
+}
+/* If .stage-img is an <img> tag, ensure it fills parent */
+.stage-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 .stage-card-content {
   display: flex;
@@ -183,19 +191,29 @@
   }
   .stage-img {
     width: 100%;
-    max-width: 340px;
-    height: 140px;
+    height: 180px;
     margin-bottom: 1.2rem;
+    border-radius: 1.1rem 1.1rem 0 0;
+    object-fit: cover;
+    display: block;
   }
 }
 @media (max-width: 600px) {
+  .stage-card {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem 0.3rem;
+    min-width: 0;
+    max-width: 100%;
+    gap: 0.7rem;
+  }
   .stage-img {
-    width: 100vw !important;
-    max-width: 100vw !important;
-    height: auto !important;
-    min-width: 0 !important;
-    border-radius: 0.7rem;
-    margin-bottom: 1.2rem;
+    width: 100%;
+    height: 140px;
+    border-radius: 0.7rem 0.7rem 0 0;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    display: block;
   }
 }
 
@@ -617,5 +635,10 @@ footer {
 }
 .day-box-link:hover .day-box-arrow {
     color: #29401f;
+}
+
+.qr-section img {
+  border-radius: 0.7rem;
+  box-shadow: 0 1px 6px rgba(60,90,60,0.10);
 }
 

@@ -72,7 +72,7 @@ async function loadDay() {
         if (day.descriptions_gallery && Array.isArray(day.descriptions_gallery)) {
             captions = day.descriptions_gallery;
         }
-        for (let i = 0; i < 10; i++) {
+        for (let i = 0; i < 11; i++) {
             if (images[i]) {
                 // Remove leading 'assets/' if present in path for consistency
                 let imgPath = images[i].startsWith('assets/') ? images[i].substring(7) : images[i];
