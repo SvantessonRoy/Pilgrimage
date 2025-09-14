@@ -26,7 +26,7 @@
       "Saint-Jean-Pied-de-Port",
       "Pilgrim passport - Crendencial",
       "Rest at Maison Lurentzenia",
-      "Pilgrim passport Credencial",
+      "Saint-Jean-Pied-de-Port",
       "Pilgrimage",
       "Help on the way!",
       "Rest in rain",
@@ -68,13 +68,13 @@
     "descriptions_gallery": [
       "Orisson",
       "Roncesvalles",
-      "Nature 1",
-      "Nature 2",
-      "People 1",
-      "People 2",
-      "Sustainability 1",
-      "Sustainability 2",
+      "Pilgrim´s dinner",
+      "Pyrenees",
+      "Pyrenees Food Truck",
+      "Perenees",
       "Pilgrimage",
+      "Horse on the road",
+      "Rescue cottage",
       "Distance, Time and Elevation"
     ],
     "gallery": [
@@ -323,6 +323,7 @@
 ]
 
 }
+
 
 
 
