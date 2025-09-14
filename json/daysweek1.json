@@ -205,7 +205,7 @@
     ,
     "descriptions_gallery": [
       "Pamplona",
-      "Puente la Reina",
+      "Puente la Reina, Albergue Estella Guia",
       "Colegio Mayor Belagua",
       "Workes in acrtion",
       "Wind turbines at Padrón",
@@ -218,8 +218,8 @@
     "gallery": [
       "assets/week1/dag5/dag51.jpg",
       "assets/week1/dag5/dag52.JPG",
-      "assets/week1/dag5/dag53.JPG",
-      "assets/week1/dag5/dag54.JPG",
+      "assets/week1/dag5/dag53.jpg",
+      "assets/week1/dag5/dag54.jpg",
       "assets/week1/dag5/dag55.JPG",
       "assets/week1/dag5/dag56.JPG",
       "assets/week1/dag5/dag57.JPG",
@@ -323,6 +323,7 @@
 ]
 
 }
+
 
 
 
