@@ -71,10 +71,10 @@
       "Pilgrim´s dinner",
       "Pyrenees",
       "Pyrenees Food Truck",
-      "Perenees",
+      "Pyrenees",
       "Pilgrimage",
-      "Horse on the road",
       "Rescue cottage",
+      "Horse on the run",
       "Distance, Time and Elevation"
     ],
     "gallery": [
@@ -83,7 +83,7 @@
       "assets/week1/dag2/dag23.JPG",
       "assets/week1/dag2/dag24.jpg",
       "assets/week1/dag2/dag25.jpg",
-      "assets/week1/dag2/dag26.jpg",
+      "assets/week1/dag2/dag26.JPG",
       "assets/week1/dag2/dag27.jpg",
       "assets/week1/dag2/dag28.jpg",
       "assets/week1/dag2/dag29.jpg",
@@ -323,6 +323,7 @@
 ]
 
 }
+
 
 
 
