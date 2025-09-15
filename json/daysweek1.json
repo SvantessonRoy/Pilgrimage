@@ -282,7 +282,7 @@
   "distance": "8,9 km",
   "time": "2 hour 24 min",
   "short_desc": "Walking-Rest-Day with Sunshine, Estella, and an ice cold Estrella Galicia.",
-  "long_desc": "After several intense days of walking, it felt just right to slow down with a late start around noon from Lorca and our Hostal. We took the opportunity to work a bit on our Website while enjoying something rare on the Camino, really good WiFi! We also enjoyed some pilgrim luxury at Casa Nahia Hostal Rural, delicious local food, refreshing drinks and that wonderful feeling of letting the body truly rest and unwind. Today’s walk was short, warm, and beautiful, with only a few gentle climbs and 28°C sunshine. More of a pleasant stroll than a challenge walk. This was  exactly what we needed. Along the way, we met yet another Swedish pilgrim, also headed to Santiago. A another newly retired soul with no return ticket booked back home, the kind of meeting that always brings a smile and a little extra energy. We ended our Sunday with an evening walk through Estella’s peaceful, people filled streets, where locals, pilgrims and the occasional tourist mingled in a soft, friendly hum of life.",
+  "long_desc": "After several intense days of walking, it felt just right to slow down wit.",
     "accommodation": "Hostal Christina",
     "elevation_gain": "+150 m",
     "elevation_loss": "-200 m",
@@ -324,6 +324,7 @@
 ]
 
 }
+
 
 
 
