@@ -145,9 +145,9 @@
   "short_desc": "The Road to Pamplona and Tapas with Hemingway.",
   "long_desc": "We left Zubiri around nine o’clock, a bit later than planned, but with light steps and perfect hiking weather. Today’s goal was the historic city of Pamplona, our first milestone on El Camino Francés. The path was far from flat. It wound up and down through the beautiful Basque countryside, with small villages appearing like little oases along the trail. After about 12 kilometers, we reached Irotz, home to a popular lunch stop offering food, drinks and some much needed rest. Refueled and refreshed, we pushed on toward Pamplona. By the time we reached the city Arre, the fatigue was creeping in and we found ourselves wishing we had booked a place to stay there. From Arre, it’s still 5 tough kilometers to the heart of Pamplona and you feel every one of them. But all weariness was quickly forgotten upon arrival. Pamplona is a vibrant city full of history, tradition, celebration and energy. In the evening, we treated ourselves to tapas at the legendary Café Iruña, the favorite spot of none other than Ernest Hemingway himself. And as if the day weren’t already perfect, we bumped into our Bed Bunker Buddies, Amelia and Ed from Virginia, whom we had met earlier on the trail. The reunion was celebrated with laughter, wine and that unmistakable Camino spirit.",
     "accommodation": "Hotel Ciudadela Pamplona",
-    "elevation_gain": "+400 m",
-    "elevation_loss": "-450 m",
-    "altitude_meter": "-",
+    "elevation_gain": "573 m",
+    "elevation_loss": "414 m",
+    "altitude_meter": "364",
     "image": "week1/dag4.JPG",
     "route_map": {
       "start": { "name": "Zubiri", "lat": 42.9351, "lng": -1.5041 },
@@ -193,7 +193,7 @@
     "accommodation": "Alberque Estella Guia",
     "elevation_gain": "779 m",
     "elevation_loss": "341 m",
-    "altitude_meter": "478 m",
+    "altitude_meter": "478",
     "image": "week1/dag5.JPG",
     "route_map": {
       "start": { "name": "Pamplona", "lat": 42.8154, "lng": -1.6471 },
@@ -239,7 +239,7 @@
     "accommodation": "Casa Nahia Hostal Rural",
     "elevation_gain": "491 m",
     "elevation_loss": "335 m",
-    "altitude_meter": "367 m",
+    "altitude_meter": "367",
     "image": "week1/dag6.JPG",
     "route_map": {
       "start": { "name": "Puente la Reina", "lat": 42.6722, "lng": -1.8183 },
@@ -281,7 +281,7 @@
   "distance": "8,9 km",
   "time": "2 hour 24 min",
   "short_desc": "Walking-Rest-Day with Sunshine, Estella, and an ice cold Estrella Galicia.",
-  "long_desc": "Test.",
+  "long_desc": "After several intense days of walking, it felt just right to slow down with a late start around noon from Lorca and our Hostal. We took the opportunity to work a bit on our Website while enjoying something rare on the Camino, really good WiFi! We also enjoyed some pilgrim luxury at Casa Nahia Hostal Rural, delicious local food, refreshing drinks and that wonderful feeling of letting the body truly rest and unwind. Today’s walk was short, warm, and beautiful, with only a few gentle climbs and 28°C sunshine. More of a pleasant stroll than a challenge. This was exactly what we needed. Along the way, we met yet another Swedish pilgrim, also headed to Santiago. A another  newly retired soul with no return ticket booked back home, the kind of meeting that always brings a smile and a little extra energy. We ended our Sunday with an evening walk through Estella’s peaceful, people filled streets, where locals, pilgrims and the occasional tourist mingled in a soft, friendly hum of life. The day rounded off with, an ice cold Estrella Galicia, at sunset.",
     "accommodation": "Hostal Christina",
     "elevation_gain": "+150 m",
     "elevation_loss": "-200 m",
@@ -323,6 +323,7 @@
 ]
 
 }
+
 
 
 
