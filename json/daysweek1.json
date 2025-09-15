@@ -282,7 +282,7 @@
   "distance": "8,9 km",
   "time": "2 hour 24 min",
   "short_desc": "Walking-Rest-Day with Sunshine, Estella, and an ice cold Estrella Galicia.",
-  "long_desc": "A.",
+  "long_desc": "Test.",
     "accommodation": "Hostal Christina",
     "elevation_gain": "+150 m",
     "elevation_loss": "-200 m",
@@ -324,6 +324,7 @@
 ]
 
 }
+
 
 
 
