@@ -49,14 +49,14 @@
       "week": 2,
       "day": 9,
       "title": "Villamayor de Monjardin -> Tores de Rio",
-  "distance": "19,9 km",
-  "time": "6 h",
-  "short_desc": "The longest stage of the week.",
+  "distance": "20,3 km",
+  "time": "5 hours 5 min",
+  "short_desc": "Routine, Rhythm, and a Refreshing Dip in the pool.",
   "long_desc": "Rural walk to the regional capital Logroño.",
       "accommodation": "Hostel Rural San Andres",
-      "elevation_gain": "+180 m",
-      "elevation_loss": "-220 m",
-      "altitude_meter": "-",
+      "elevation_gain": "681 m",
+      "elevation_loss": "440 m",
+      "altitude_meter": "180",
       "image": "week2/dag2.JPG",
       "route_map": {
         "start": { "name": "Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
@@ -323,5 +323,6 @@
     }
   ]
 }
+
 
 
