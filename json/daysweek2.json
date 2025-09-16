@@ -51,7 +51,7 @@
       "title": "Villamayor de Monjardin -> Tores de Rio",
   "distance": "20,3 km",
   "time": "5 hours 5 min",
-  "short_desc": "Routine, Rhythm, and a Refreshing Dip in the pool.",
+  "short_desc": "Routine, Rhythm and a Refreshing Dip in the pool.",
   "long_desc": "Rural walk to the regional capital Logroño.",
       "accommodation": "Hostel Rural San Andres",
       "elevation_gain": "681 m",
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
