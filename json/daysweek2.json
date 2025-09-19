@@ -57,7 +57,7 @@
       "elevation_gain": "681 m",
       "elevation_loss": "440 m",
       "altitude_meter": "180",
-      "image": "week2/dag9.jpg",
+      "image": "week2/dag9.JPG",
       "route_map": {
         "start": { "name": "Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
         "end": { "name": "Torres del Rio", "lat": 42.5516, "lng": -2.2708 },
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
