@@ -48,7 +48,7 @@
     {
       "week": 2,
       "day": 9,
-      "title": "Villamayor de Monjardin -> Tores de Rio",
+      "title": "Villamayor de Monjardin -> Torres del Rio",
   "distance": "20,3 km",
   "time": "5 hours 5 min",
   "short_desc": "Routine, Rhythm and a Refreshing Dip in the pool.",
@@ -60,7 +60,7 @@
       "image": "week2/dag9.jpg",
       "route_map": {
         "start": { "name": "Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
-        "end": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
+        "end": { "name": "Torres del Rio", "lat": 42.5516, "lng": -2.2708 },
         "polyline": [
           
         ]
@@ -68,7 +68,7 @@
     ,
     "descriptions_gallery": [
       "Villamayor de Monjardin",
-      "Tores de Rio",
+      "Torres del Rio",
       "Pilgrims dinner",
       "Casa Rural Montedeio",
       "Villamayor de Monjardin",
@@ -94,18 +94,18 @@
     {
       "week": 2,
       "day": 10,
-      "title": "Tores de Rioño -> Logroño",
+      "title": "Torres del Rio -> Logroño",
   "distance": "20,1 km",
   "time": "5 hours 36 min",
-  "short_desc": "Through vineyards and small villages.",
-  "long_desc": "Hiking through Rioja Alta to Logroño.",
+  "short_desc": "Leaving Navarra, entering La Rioja, and looking orward to a rest day.",
+  "long_desc": "After many beautiful km through Navarra, today we crossed into a new region La Rioja, known for its wines, landscapes, and warmth. Our steps felt a bit lighter knowing we were getting closer to one of our key milestoness, the capital city Logroño and a much needed rest day. Crossing a provincial border on the Camino feels symbolic, like closing one chapter and beginning the next. New views, new scents, new encounters and new friends. And tomorrow, no walking boots, heavy backpack, no kilometers. Just rest!",
       "accommodation": "Hotell Los Bracos i Logroño",
       "elevation_gain": "576 m",
       "elevation_loss": "346 m",
       "altitude_meter": "346",
       "image": "week2/dag10.jpg",
       "route_map": {
-        "start": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
+        "start": { "name": "Torres del Rio", "lat": 42.5516, "lng": -2.2708 },
         "end": { "name": "Logroño", "lat": 42.4660, "lng": -2.4468 },
         "polyline": [
           
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
