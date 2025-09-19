@@ -12,7 +12,7 @@
       "elevation_gain": "686 m",
       "elevation_loss": "418 m",
       "altitude_meter": "375 m",
-      "image": "week2/dag8.JPG",
+      "image": "week2/dag8.jpg",
       "route_map": {
         "start": { "name": "Estella", "lat": 42.6789, "lng": -2.0320 },
         "end": { "name": " Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
@@ -57,7 +57,7 @@
       "elevation_gain": "681 m",
       "elevation_loss": "440 m",
       "altitude_meter": "180",
-      "image": "week2/dag9.JPG",
+      "image": "week2/dag9.jpg",
       "route_map": {
         "start": { "name": "Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
         "end": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
@@ -103,7 +103,7 @@
       "elevation_gain": "576 m",
       "elevation_loss": "346 m",
       "altitude_meter": "346",
-      "image": "week2/dag10.JPG",
+      "image": "week2/dag10.jpg",
       "route_map": {
         "start": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
         "end": { "name": "Logroño", "lat": 42.4660, "lng": -2.4468 },
@@ -195,7 +195,7 @@
       "elevation_gain": "524 m",
       "elevation_loss": "387 m",
       "altitude_meter": "189",
-      "image": "week2/dag12.jpg",
+      "image": "week2/dag12.JPG",
       "route_map": {
         "start": { "name": "Logroño", "lat": 42.4654, "lng": -2.4497 },
         "end": { "name": "Navarre", "lat": 42.4324, "lng": -2.5601 },
@@ -241,7 +241,7 @@
       "elevation_gain": "",
       "elevation_loss": "",
       "altitude_meter": "-",
-      "image": "week2/dag13.jpg",
+      "image": "week2/dag13.JPG",
       "route_map": {
         "start": { "name": "Navarrete", "lat": 42.4324, "lng": -2.5601 },
         "end": { "name": "Najera", "lat": 42.4172, "lng": -2.7311 },
@@ -287,7 +287,7 @@
       "elevation_gain": "+180 m",
       "elevation_loss": "-160 m",
       "altitude_meter": "-",
-      "image": "week2/dag14.jpg",
+      "image": "week2/dag14.JPG",
       "route_map": {
         "start": { "name": "Najera", "lat": 42.4173, "lng": -2.731 },
         "end": { "name": "Santo Domingo de la Calzada", "lat": 42.4390, "lng": -2.9547 },
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
