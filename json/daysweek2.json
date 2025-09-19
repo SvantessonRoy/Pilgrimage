@@ -57,7 +57,7 @@
       "elevation_gain": "681 m",
       "elevation_loss": "440 m",
       "altitude_meter": "180",
-      "image": "week2/dag2.JPG",
+      "image": "week2/dag9.JPG",
       "route_map": {
         "start": { "name": "Villamayor de Monjardin", "lat": 42.6300, "lng": -2.1056 },
         "end": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
@@ -103,7 +103,7 @@
       "elevation_gain": "576 m",
       "elevation_loss": "346 m",
       "altitude_meter": "346",
-      "image": "week2/dag3.JPG",
+      "image": "week2/dag10.JPG",
       "route_map": {
         "start": { "name": "Tores de Rio", "lat": 42.5516, "lng": -2.2708 },
         "end": { "name": "Logroño", "lat": 42.4660, "lng": -2.4468 },
@@ -149,7 +149,7 @@
       "elevation_gain": "+0 m",
       "elevation_loss": "-0 m",
       "altitude_meter": "-",
-      "image": "week2/dag4.JPG",
+      "image": "week2/dag11.JPG",
       "route_map": {
         "start": { "name": "Logroño", "lat": 42.4660, "lng": -2.4468 },
         "end": { "name": "Logroño", "lat": 42.4654, "lng": -2.4497 },
@@ -187,15 +187,15 @@
       "week": 2,
       "day": 12,
       "title": "Logroño -> Navarrete",
-  "distance": "12,5 km",
-  "time": "4 h",
+  "distance": "12,2 km",
+  "time": "2 hours 55 min",
   "short_desc": "Towards the famous chicken cathedral.",
   "long_desc": "Historic town with a pilgrim legend.",
       "accommodation": "Hotell Ray Sancho Najera",
-      "elevation_gain": "+120 m",
-      "elevation_loss": "-100 m",
-      "altitude_meter": "-",
-      "image": "week2/dag5.jpg",
+      "elevation_gain": "524 m",
+      "elevation_loss": "387 m",
+      "altitude_meter": "189",
+      "image": "week2/dag12.jpg",
       "route_map": {
         "start": { "name": "Logroño", "lat": 42.4654, "lng": -2.4497 },
         "end": { "name": "Navarre", "lat": 42.4324, "lng": -2.5601 },
@@ -241,7 +241,7 @@
       "elevation_gain": "",
       "elevation_loss": "",
       "altitude_meter": "-",
-      "image": "week2/dag6.jpg",
+      "image": "week2/dag13.jpg",
       "route_map": {
         "start": { "name": "Navarrete", "lat": 42.4324, "lng": -2.5601 },
         "end": { "name": "Najera", "lat": 42.4172, "lng": -2.7311 },
@@ -287,7 +287,7 @@
       "elevation_gain": "+180 m",
       "elevation_loss": "-160 m",
       "altitude_meter": "-",
-      "image": "week2/dag6.jpg",
+      "image": "week2/dag14.jpg",
       "route_map": {
         "start": { "name": "Najera", "lat": 42.4173, "lng": -2.731 },
         "end": { "name": "Santo Domingo de la Calzada", "lat": 42.4390, "lng": -2.9547 },
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
