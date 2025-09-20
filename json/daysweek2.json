@@ -237,7 +237,7 @@
   "time": "5 hours 1 min",
   "short_desc": "Vineyards, reunions, and a perfect Camino Day.",
   "long_desc": "Today’s stage from Navarrete to Nájera offered one of the most enjoyable walks so far. La Rioja’s rolling wine country was in full glory. Sunny skies, temperatures between 23–29°C and a refreshing breeze that made the journey feel effortless. It’s harvest season in Rioja and the vineyards are buzzing with activity. Both machines and manual pickers are busy collecting ripe grapes, and the air is filled with the scents and sounds of a land hard at work. It’s the kind of atmosphere that makes you pause and soak it all in. At a café in Ventosa, we had a joyful reunion with two familiar Camino friends, Ted from Washington D.C. and Douglas from Kuranda in Cairns, Australia. Both are still heading toward Santiago de Compostela, just like us. We’ve also noticed a strong presence of young Spanish pilgrims on the trail, tighter with a great mix of ages and nationalities that brings the Camino to life in a unique way.",
-      "accommodation": "Hotell Ray Sancho Najera",
+      "accommodation": "HostalCiudad Najera",
       "elevation_gain": "669 m ",
       "elevation_loss": " 490 m",
       "altitude_meter": "214",
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
