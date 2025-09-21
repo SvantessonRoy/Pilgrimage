@@ -281,12 +281,12 @@
       "title": "Najera -> Santo Domingo de la Calzada ",
   "distance": "20,9 km",
   "time": "6 h",
-  "short_desc": "Towards Castile.",
-  "long_desc": "Leaving Rioja and entering Castile and León.",
-      "accommodation": "Parador de S.D.Bernado de Fresna",
-      "elevation_gain": "+180 m",
-      "elevation_loss": "-160 m",
-      "altitude_meter": "-",
+  "short_desc": "From Vineyards to open wheat fields, with raindrops, sunshine and rain again during the pilgrimage.",
+  "long_desc": "Today’s stage from Nájera to Santo Domingo de la Calzada brought a noticeable shift in scenery. We left behind La Rioja’s vineyards and entered wide, open grain fields with a landscape shaped more for farming than winemaking. Sheltered by nearby mountains, the terrain felt calm, expansive, and almost meditative. The day began with a light drizzle and 13°C, but as the hours passed, the sky cleared, and we arrived in Santo Domingo under sunshine and 17°C, a gentle contrast to the morning’s chill. Later during the evening it start to rain, again. We checked into the atmospheric Paradors Hotel Sto Domingo Bernadotte de Fresneda, a historic and peaceful place that added an extra touch of serenity to the day’s end. Along the way, we enjoyed two coffee breaks, perfect in the cool weather and also made new Camino friends, Lisa and Loreen, two young walkers from Frankfurt, traveling with their parents.",
+      "accommodation": "Parador de Sto.Domning Bernado de Fresna",
+      "elevation_gain": "750 m",
+      "elevation_loss": "487 m",
+      "altitude_meter": "361",
       "image": "week2/dag14.JPG",
       "route_map": {
         "start": { "name": "Najera", "lat": 42.4173, "lng": -2.731 },
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
