@@ -143,12 +143,12 @@
       "title": "Logroño - Rest day",
   "distance": "0,0 km",
   "time": "Rest",
-  "short_desc": "Rest day with city tour.",
-  "long_desc": "A relaxing stage to the small village of Azofra.",
+  "short_desc": "Sun, Tapas, and Rest in the Capital of Wine.",
+  "long_desc": "After 11 days on the trail, it was finally time for something we’d been looking forward to, a well-deserved rest day in Logroño, the sunny and beautiful capital of La Rioja. The day unfolded at a slow and easy pace with some sightseeing, short strolls through the city’s charming streets, a fantastic lunch at TXEBIKO. Later on in the evening, of course, tapas along the famous food street Calle Laurel, where each bar has its own unique specialty. But above all, it was a day for rest and recovery, both body and mind. The city was also starting to prepare for its annual wine festival, and there was a buzz of anticipation in the air. A perfect place to recharge before the next stretch of the Camino.",
       "accommodation": "Hotell Los Bracos i Logroño",
-      "elevation_gain": "+0 m",
-      "elevation_loss": "-0 m",
-      "altitude_meter": "-",
+      "elevation_gain": "0",
+      "elevation_loss": "0",
+      "altitude_meter": "0",
       "image": "week2/dag11.JPG",
       "route_map": {
         "start": { "name": "Logroño", "lat": 42.4660, "lng": -2.4468 },
@@ -163,12 +163,12 @@
       "Logroño",
       "Logroño",
       "Lunch with Lee-Anne and Steve from Vancover",
-      "Resturante TXEBIKO *****",
+      "Resturant TXEBIKO *****",
       "Dessert",
       "Logroño",
       "Calle Portales",
       "Calle de Laurel ",
-      "Distance, Time and Elevation"
+      "Rest day"
     ],
     "gallery": [
       "assets/week2/dag11/day111.JPG",
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
