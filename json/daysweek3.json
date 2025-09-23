@@ -50,14 +50,14 @@
       "week": 3,
       "day": 16,
       "title": "Belorado -> Villafranca Montes de Oca",
-  "distance": "11,9 km",
-  "time": "3 h",
-  "short_desc": "Towards the big city of Burgos.",
-  "long_desc": "Descent to the historic city of Burgos.",
+  "distance": "11, km",
+  "time": "2 h 58 min",
+  "short_desc": "A Short walk and history in the walls.",
+  "long_desc": "After two long days of walking, today’s plan was wisely kept short, just 12 kilometers, giving our tired bodies a much-needed break. The morning began with breakfast at Fernando’s, our kind host for the night. Before we left, he showed us a shortcut across his land that connected directly to the Camino trail, a thoughtful gesture that saved us both time and effort. After a morning coffee in the first village, we continued straight on to Villafranca Montes de Oca, a small town with a big historical presence. Here you’ll find Hotel San Antón Abad, originally built in the 14th century as a hospital for pilgrims. Since the 1970s, it has been transformed into a charming and comfortable hotel, complete with a restaurant, cafeteria, and bar. They offer pilgrim menus for both lunch and dinner, making it the perfect place to rest, refuel and feel the spirit of centuries of Camino history.",
       "accommodation": "Hotel San Anton Abad",
-      "elevation_gain": "+100 m",
-      "elevation_loss": "-350 m",
-      "altitude_meter": "-",
+      "elevation_gain": "952 m",
+      "elevation_loss": "768 m",
+      "altitude_meter": "227",
       "image": "week3/dag16.jpg",
       "route_map": {
         "start": { "name": "Belorado", "lat": 42.4149, "lng": -3.2001 },
@@ -324,4 +324,5 @@
     }
   ]
 }
+
 
