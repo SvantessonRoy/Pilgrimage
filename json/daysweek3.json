@@ -5,13 +5,13 @@
       "day": 15,
       "title": "Santo Domingo de la Calzada -> Belorado",
   "distance": "22,2 km",
-  "time": "6 h",
-  "short_desc": "Text and photos will be added once the current stage is completed!",
-  "long_desc": "Hiking through forests and over hills to the monastery in San Juan de Ortega.",
+  "time": "6 hours 41 min",
+  "short_desc": "A slow start and dinner with new faces",
+  "long_desc": " After many early mornings, we treated ourselves to a sleep-in and a late breakfast at our lovely hotel, Parador de Santo Domingo Bernado de Fresneda. The breakfast? Easily the best we’ve had on the Camino so far and a proper energy boost. We set off around 9:30 a.m., passing through four small villages before finally taking a coffee break in the fifth. It was a calm, easy-going day and no rush, just walking. When we arrived in Belorado, we spotted a familiar face. Eva from Varberg, waving to us from the balcony of her room. Camino reunions like that always bring a smile. We missed lunch, the Spannish kitchen had closed at 3:30 p.m. so we began searching for our accommodation for the night.  Rest Life El Santo located about 1 km outside the town center. On the way, we ran into Sharon and Glenn from Belfast, who happened to be staying at the same place. Eventually, we found a rustic rural stone house and stepped inside to find our room. The host, Fernando, prepared a shared pilgrim dinner for all the guests. There were nine of us at the table: Sharon and Glenn, Madonna (yes, that’s her real name) and her son from Brisbane, an American, and us. A slightly quirky remote but charming place and another evening full of conversations, laughter, and new connections.",
       "accommodation": "Albergue Rest Life El Salto",
-      "elevation_gain": "+350 m",
-      "elevation_loss": "-200 m",
-      "altitude_meter": "-",
+      "elevation_gain": "835 m",
+      "elevation_loss": "632 m",
+      "altitude_meter": "390",
       "image": "week3/dag15.jpg",
       "route_map": {
         "start": { "name": "Santo Domingo de la Calzada", "lat": 42.4390, "lng": -2.9547 },
@@ -324,5 +324,6 @@
     }
   ]
 }
+
 
 
