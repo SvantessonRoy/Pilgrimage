@@ -15,7 +15,7 @@
   "distance": "99,9 km",
   "Summary": "Updated weekly",
     "button": "Show details",
-    "image": "weeks/vecka2.jpg"
+    "image": "weeks/vecka2.JPG"
   },
   {
     "week": 3,
@@ -72,4 +72,5 @@
     "image": "weeks/vecka8.jpg"
   }
 ]
+
 
