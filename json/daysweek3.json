@@ -96,14 +96,14 @@
       "week": 3,
       "day": 17,
       "title": "Villafranca Montes de Oca -> Atapuerca",
-  "distance": "18,1 km",
-  "time": "5 h",
+  "distance": "18,5 km",
+  "time": "5 hours 5 min",
   "short_desc": "Out onto the Meseta.",
   "long_desc": "Flat landscape and wide views.",
       "accommodation": "Hostel Atapuerque Inpulso",
-      "elevation_gain": "+80 m",
-      "elevation_loss": "-60 m",
-      "altitude_meter": "-",
+      "elevation_gain": "1163 m",
+      "elevation_loss": "946 m",
+      "altitude_meter": "292",
       "image": "week3/dag17.jpg",
       "route_map": {
         "start": { "name": "Villafranca Montes de Oca", "lat": 42.3888, "lng": -3.3099 },
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
