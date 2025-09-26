@@ -98,8 +98,8 @@
       "title": "Villafranca Montes de Oca -> Atapuerca",
   "distance": "18,5 km",
   "time": "5 hours 5 min",
-  "short_desc": ".A Steep Start, Rocky Trails, and a Day That Ended in Sunshine",
-  "long_desc": "Flat landscape and wide views.",
+  "short_desc": ".A steep start, rocky trails, and a day that ended in Sunshine",
+  "long_desc": ".The day began early and brutally. We left our accommodation at dawn and immediately faced a tough 200-meter climb, from 960 to 1160 meters above sea level, all in just 2.7 kilometers and 50 minutes. Our bodies were completely drained before the day had even properly begun. As if the climb wasn’t enough, the trail added another challenge with rocky, uneven terrain that made every step require focus and effort. But just when we needed it most, a true Camino angel appeared, Dr. Coffee, a mobile coffee stand offering not just hot drinks and snacks, but also jazz music, energy, and a very much-needed break. By the time we arrived in Atapuerca, we were warmly welcomed at our hostel, where the host greeted us with refreshments and laundry service , a.small gestures that felt like luxury after such a demanding day. We ended the evening with a pilgrim dinner in wonderful international company with a dinner table full of laughter, stories, and shared Camino spirit. Despite the rough beginning, it turned into a day to remember with tired bodies, but full hearts.",
       "accommodation": "Hostel Atapuerque Inpulso",
       "elevation_gain": "1163 m",
       "elevation_loss": "946 m",
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
