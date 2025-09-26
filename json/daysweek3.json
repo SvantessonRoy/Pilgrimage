@@ -12,7 +12,7 @@
       "elevation_gain": "835 m",
       "elevation_loss": "632 m",
       "altitude_meter": "390",
-      "image": "week3/dag15.jpg",
+      "image": "week3/dag15.JPG",
       "route_map": {
         "start": { "name": "Santo Domingo de la Calzada", "lat": 42.4390, "lng": -2.9547 },
         "end": { "name": "Belorado", "lat": 42.4149, "lng": -3.2001 },
@@ -58,7 +58,7 @@
       "elevation_gain": "952 m",
       "elevation_loss": "768 m",
       "altitude_meter": "227",
-      "image": "week3/dag16.jpg",
+      "image": "week3/dag16.JPG",
       "route_map": {
         "start": { "name": "Belorado", "lat": 42.4149, "lng": -3.2001 },
         "end": { "name": "Villafranca Montes de Oca", "lat": 42.3888, "lng": -3.3099 },
@@ -104,7 +104,7 @@
       "elevation_gain": "1163 m",
       "elevation_loss": "946 m",
       "altitude_meter": "292",
-      "image": "week3/dag17.jpg",
+      "image": "week3/dag17.JPG",
       "route_map": {
         "start": { "name": "Villafranca Montes de Oca", "lat": 42.3888, "lng": -3.3099 },
         "end": { "name": "Atapuerca", "lat": 42.3758, "lng": -3.5075 },
@@ -150,7 +150,7 @@
       "elevation_gain": "+90 m",
       "elevation_loss": "-100 m",
       "altitude_meter": "-",
-      "image": "week3/dag18.jpg",
+      "image": "week3/dag18.JPG",
       "route_map": {
         "start": { "name": "Atapuerca", "lat": 42.3758, "lng": -3.5075 },
         "end": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
