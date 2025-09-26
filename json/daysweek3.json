@@ -196,7 +196,7 @@
       "elevation_gain": "+0 m",
       "elevation_loss": "-0 m",
     "altitude_meter": "-",
-      "image": "week3/dag19.jpg",
+      "image": "week3/dag19.JPG",
       "route_map": {
         "start": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
         "end": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
