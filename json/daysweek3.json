@@ -236,7 +236,7 @@
       "title": "Burgos -> Rabé de las Calzadas",
   "distance": "12,8 km",
   "time": "4 h",
-  "short_desc": "Along the canal.",
+  "short_desc": "The Meseta.",
   "long_desc": "Hiking along the Canal de Castilla.",
       "accommodation": "Hostel Bar Resturante La Fuente",
       "elevation_gain": "+50 m",
@@ -282,7 +282,7 @@
       "title": "Rabé de las Calzadas -> Hontanas",
   "distance": "18,3 km",
   "time": "5 h",
-  "short_desc": "Long straight stretch.",
+  "short_desc": "The Meseta.",
   "long_desc": "Solitary walk on the old Roman road.",
       "accommodation": "Villa Fontanas",
       "elevation_gain": "+30 m",
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
