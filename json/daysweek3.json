@@ -70,13 +70,13 @@
     "descriptions_gallery": [
       "Belorado",
       "Villafranca Montes de Oca",
-      "Nature 1",
-      "Nature 2",
-      "People 1",
-      "People 2",
-      "Sustainability 1",
-      "Sustainability 2",
+      "Fernando",
+      "View from hotel room",
+      "Pilgrim inspection",
       "Pilgrimage",
+      "Pilgrimage",
+      "550 km to Santiago de Compostela",
+      "Buen Camino",
       "Distance, Time and Elevation"
     ],
     "gallery": [
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
