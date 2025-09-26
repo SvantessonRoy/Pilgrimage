@@ -24,12 +24,12 @@
     "descriptions_gallery": [
       "Santo Domingo de la Calzada",
       "Belorado",
-      "Nature 1",
-      "Nature 2",
-      "People 1",
-      "People 2",
-      "Sustainability 1",
-      "Sustainability 2",
+      "Parador de Sto. Domingo",
+      "Parador de Sto. Domingo",
+      "Pilgrimage",
+      "Pilgrimage",
+      "Belorado",
+      "Belorado",
       "Pilgrimage",
       "Distance, Time and Elevation"
     ],
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
