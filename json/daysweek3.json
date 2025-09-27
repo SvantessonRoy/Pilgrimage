@@ -142,14 +142,14 @@
       "week": 3,
       "day": 18,
       "title": "Atapuerca -> Burgos",
-  "distance": "20,2 km",
-  "time": "6 h",
+  "distance": "21,3 km",
+  "time": "6 hours 50 min",
   "short_desc": "Rural walk.",
   "long_desc": "Through small villages and open fields.",
       "accommodation": "Hotel Corona de Castilla Burgos",
-      "elevation_gain": "+90 m",
-      "elevation_loss": "-100 m",
-      "altitude_meter": "-",
+      "elevation_gain": "1079 m",
+      "elevation_loss": "861 m",
+      "altitude_meter": "140",
       "image": "week3/dag18.JPG",
       "route_map": {
         "start": { "name": "Atapuerca", "lat": 42.3758, "lng": -3.5075 },
@@ -193,9 +193,9 @@
   "short_desc": "Rest day. Sunshine, Rest, and Love in Burgos",
   "long_desc": "What an incredible privilege it is to simply wander around Burgos on a sunny, warm Friday, with no obligations, no deadlines and just a well deserved rest day after 18 days on the Camino. What an adventure this is turning out to be. Today was all about what we needed most, sleep, shopping, a sunny lunch, sightseeing, culture, history  and yes, a proper Friday beer. The sun was shining in Burgos, with 20°C and a clear blue sky, and the city was at its finest. But the greatest privilege of all? Sharing this journey with a strong, wise, and deeply loved woman, my wife Birgitt-Marie. Walking side by side every day is both a joy and a gift. After a revitalizing coffee break, both body and mind feel ready for the next chapter; the vast and open Meseta. The Meseta is a geographical area within the region of Castilla y León and the larges region i Spain. Thecentral high plateau makes up 40% of Spain with elevation ranging from 400 m to 1000 m. What it will bring we don’t yet know. But we’re both ready.  .",
       "accommodation": "Hotel Corona de Castilla Burgos",
-      "elevation_gain": "+0 m",
-      "elevation_loss": "-0 m",
-    "altitude_meter": "-",
+      "elevation_gain": "0 m",
+      "elevation_loss": "0 m",
+    "altitude_meter": "0",
       "image": "week3/dag19.JPG",
       "route_map": {
         "start": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
@@ -234,15 +234,15 @@
       "week": 3,
       "day": 20,
       "title": "Burgos -> Rabé de las Calzadas",
-  "distance": "12,8 km",
-  "time": "4 h",
+  "distance": "13,7 km",
+  "time": "4 hours 9 min",
   "short_desc": "The Meseta.",
   "long_desc": "Hiking along the Canal de Castilla.",
       "accommodation": "Hostel Bar Resturante La Fuente",
-      "elevation_gain": "+50 m",
-      "elevation_loss": "-40 m",
-    "altitude_meter": "-",
-      "image": "week3/dag20.jpg",
+      "elevation_gain": "877 m",
+      "elevation_loss": "826 m",
+    "altitude_meter": "39",
+      "image": "week3/dag20.JPG",
       "route_map": {
         "start": { "name": "Burgos", "lat": 42.3372, "lng": -3.7001 },
         "end": { "name": "Rabé de las Calzadas ", "lat": 42.3401, "lng": -3.8339},
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
