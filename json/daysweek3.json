@@ -280,14 +280,14 @@
       "week": 3,
       "day": 21,
       "title": "Rabé de las Calzadas -> Hontanas",
-  "distance": "18,3 km",
-  "time": "5 h",
+  "distance": "18,8 km",
+  "time": "5 hours 10 min",
   "short_desc": "The Meseta (day 2).",
   "long_desc": "Solitary walk on the old Roman road.",
       "accommodation": "Villa Fontanas",
-      "elevation_gain": "+30 m",
-      "elevation_loss": "-20 m",
-    "altitude_meter": "-",
+      "elevation_gain": "942 m",
+      "elevation_loss": "824 m",
+    "altitude_meter": "260",
       "image": "week3/dag21.jpg",
       "route_map": {
         "start": { "name": "Rabé de las Calzadas", "lat": 42.3401, "lng": -3.8339 },
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
