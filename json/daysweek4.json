@@ -4,14 +4,14 @@
       "week": 4,
       "day": 22,
       "title": "Hontanas -> Itero de la Vega",
-  "distance": "20,4 km",
-  "time": "6 h",
+  "distance": "20,7 km",
+  "time": "5 hours 31 min",
   "short_desc": "Towards the province of León.",
   "long_desc": "Hiking through small villages and open fields.",
       "accommodation": "Hostel Puente Fitero",
-      "elevation_gain": "+60 m",
-      "elevation_loss": "-80 m",
-      "altitude_meter": "-",
+      "elevation_gain": "929 m",
+      "elevation_loss": "781 m",
+      "altitude_meter": "258",
       "image": "week4/dag22.jpg",
       "route_map": {
         "start": { "name": "Hontanas", "lat": 42.3138, "lng": -4.0450 },
@@ -50,14 +50,14 @@
       "week": 4,
       "day": 23,
       "title": "Itero de la Vega -> Frómista",
-  "distance": "13,9 km",
-  "time": "4 h",
+  "distance": "15,3 km",
+  "time": "4 hours 9 miin",
   "short_desc": "Flat landscape.",
   "long_desc": "Easy stage through agricultural landscape.",
       "accommodation": "Hostel Camino de Santiago",
-      "elevation_gain": "+30 m",
-      "elevation_loss": "-20 m",
-      "altitude_meter": "-",
+      "elevation_gain": "835 m",
+      "elevation_loss": "771 m",
+      "altitude_meter": "68",
       "route_map": {
         "start": { "name": "Itero de la Vega", "lat": 42.2872, "lng": -4.2557 },
         "end": { "name": "Frómista", "lat": 42.2694, "lng": -4.4047 },
@@ -321,4 +321,5 @@
     }
   ]
 }
+
 
