@@ -58,6 +58,7 @@
       "elevation_gain": "835 m",
       "elevation_loss": "771 m",
       "altitude_meter": "68",
+      "image": "week4/dag23.JPG",
       "route_map": {
         "start": { "name": "Itero de la Vega", "lat": 42.2872, "lng": -4.2557 },
         "end": { "name": "Frómista", "lat": 42.2694, "lng": -4.4047 },
@@ -321,6 +322,7 @@
     }
   ]
 }
+
 
 
 
