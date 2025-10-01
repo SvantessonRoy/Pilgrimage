@@ -51,8 +51,8 @@
       "day": 23,
       "title": "Itero de la Vega -> Frómista",
   "distance": "15,3 km",
-  "time": "4 hours 9 miin",
-  "short_desc": "Flat landscape.",
+  "time": "4 hours 9 min",
+  "short_desc": "Meseta, day 4. Flat landscape.",
   "long_desc": "Easy stage through agricultural landscape.",
       "accommodation": "Hostel Camino de Santiago",
       "elevation_gain": "835 m",
@@ -96,15 +96,15 @@
       "week": 4,
       "day": 24,
       "title": "Frómista -> Carrión de los Condes",
-  "distance": "19,0 km",
-  "time": "5 h",
-  "short_desc": "Towards the town of Mansilla.",
-  "long_desc": "End of the Meseta.",
+  "distance": "21,2 km",
+  "time": "5 hours 41 min",
+  "short_desc": "Endless Meseta, day 5.",
+  "long_desc": "End Meseta.",
       "accommodation": "Hotel Real Monasterio de san Zoilo",
-      "elevation_gain": "+40 m",
-      "elevation_loss": "-50 m",
-      "altitude_meter": "-",
-      "image": "week4/dag24.jpg",
+      "elevation_gain": "851 m",
+      "elevation_loss": "771 m",
+      "altitude_meter": "78",
+      "image": "week4/dag24.JPG",
       "route_map": {
         "start": { "name": "Frómista", "lat": 42.2694, "lng": -4.4047 },
         "end": { "name": "Carrión de los Condes", "lat": 42.3402, "lng": -4.6107 },
@@ -126,15 +126,15 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-  "assets/week4/dag24/dag241.jpg",
-  "assets/week4/dag24/dag242.jpg",
-  "assets/week4/dag24/dag243.jpg",
-  "assets/week4/dag24/dag244.jpg",
-  "assets/week4/dag24/dag245.jpg",
-  "assets/week4/dag24/dag246.jpg",
-  "assets/week4/dag24/dag247.jpg",
-  "assets/week4/dag24/dag248.jpg",
-  "assets/week4/dag24/dag249.jpg",
+  "assets/week4/dag24/dag241.JPG",
+  "assets/week4/dag24/dag242.JPG",
+  "assets/week4/dag24/dag243.JPG",
+  "assets/week4/dag24/dag244.JPG",
+  "assets/week4/dag24/dag245.JPG",
+  "assets/week4/dag24/dag246.JPG",
+  "assets/week4/dag24/dag247.JPG",
+  "assets/week4/dag24/dag248.JPG",
+  "assets/week4/dag24/dag249.JPG",
   "assets/week4/dag24/dag2410.jpg"
     ]
     },
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
