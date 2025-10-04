@@ -234,8 +234,8 @@
       "title": "Sahagún-> El Burgo Ranero",
   "distance": "17,7 km",
   "time": "5 hours",
-  "short_desc": "Meseta day 8.It’s the People Who Bring El Camino Francés to Life",
-  "long_desc": ".The landscapes are beautiful and some times endless, the history is rich, and the path El Camino Francés is well know and worn, but it’s the people and the pilgrims you meet along the way that truly make the Camino unforgettable. Pilgrims from all over the world, with different backgrounds, languages, ages, and reasons for walking, yet all heading in the same direction to Santiago de Compostela. It’s through conversations, shared meals, smiles, and unexpected reunions that El Camino Francés reveals its soul. Every encounter holds a story, every meal builds connection, and every “Buen Camino” is a small reminder of the shared journey that makes this pilgrimage so meaningful. ",
+  "short_desc": "Meseta day 8.",
+  "long_desc": ".---. ",
       "accommodation": "La Costa del adobe",
       "elevation_gain": " m",
       "elevation_loss": " m",
@@ -280,8 +280,8 @@
       "title": "El Burgo Ranero -> Mansilla de las Mulas",
   "distance": "18,8 km",
   "time": "5 h",
-  "short_desc": "Meseta day 9.",
-  "long_desc": "Endless Meseta, but it will be ended next week in the Roman town of Astorga.",
+  "short_desc": "Meseta day 9. It’s the People Who Bring El Camino Francés to Life ",
+  "long_desc": "The landscapes are beautiful and some times endless, the history is rich, and the path El Camino Francés is well know and worn, but it’s the people and the pilgrims you meet along the way that truly make the Camino unforgettable. Pilgrims from all over the world, with different backgrounds, languages, ages, and reasons for walking, yet all heading in the same direction to Santiago de Compostela. It’s through conversations, shared meals, smiles, and unexpected reunions that El Camino Francés reveals its soul. Every encounter holds a story, every meal builds connection, and every “Buen Camino” is a small reminder of the shared journey that makes this pilgrimage so meaningful.",
       "accommodation": "Hotel Rural La Casa de los Soportales",
       "elevation_gain": " m",
       "elevation_loss": " m",
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
