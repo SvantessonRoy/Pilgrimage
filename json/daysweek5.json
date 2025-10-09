@@ -5,7 +5,7 @@
       "day": 29,
       "title": "Mansilla de las Mulas -> León",
   "distance": "19,2 km",
-  "time": "5 hours 39",
+  "time": "5 hours 39 min",
   "short_desc": "Up towards the mountains.",
   "long_desc": "Hiking towards Montes de León.",
       "accommodation": "Hotel My Palace Leon",
@@ -139,14 +139,14 @@
       "week": 5,
       "day": 32,
       "title": "Villa de Mazarife -> Hospital de Orbigio",
-  "distance": "20,0 km",
-  "time": "5 h",
+  "distance": "14,7 km",
+  "time": "4 hours 4 min",
   "short_desc": "Short day to Ponferrada.",
   "long_desc": "Visit to the Templar castle in Ponferrada.",
       "accommodation": "Hostal Don Suero de Quinones ",
-      "elevation_gain": "+40 m",
-      "elevation_loss": "-30 m",
-      "altitude_meter": "-",
+      "elevation_gain": "877 m",
+      "elevation_loss": "824 m",
+      "altitude_meter": "21",
       "image": "week5/dag32.jpg",
       "route_map": {
         "start": { "name": "Villa de Mazarife", "lat": 42.4832, "lng": -5.7267 },
@@ -321,6 +321,7 @@
     }
   ]
 }
+
 
 
 
