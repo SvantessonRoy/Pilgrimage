@@ -186,15 +186,15 @@
       "week": 5,
       "day": 33,
       "title": "Hospital de Orbigio -> Astorga",
-  "distance": "17,9 km",
-  "time": "5 h",
-  "short_desc": "Through the Bierzo wine region.",
-  "long_desc": "Hiking through vineyards and small villages.",
+  "distance": "17,8 km",
+  "time": "5 hours 13 min",
+  "short_desc": "Sheep on the trail, Gaudí architecture, and pasta in Astorga",
+  "long_desc": " We left Hospital de Órbigo on a beautiful morning, and not long into the walk we encountered a shepherd with a large flock of sheep and a few well-trained sheepdogs. The animals passed right next to us , a magical and very Camino moment that added charm to the start of the day. Much of today’s route felt familiar, as we had walked this stretch three years ago with a travel group led by Rolf´s Travel Agency. The memories came flooding back as we made our way toward the city of Astorga. Upon arrival, we checked in at the lovely Hotel Gaudí, right across from the city's iconic Palacio de Gaudi. Designed by the famous architect Antoni Gaudí and begun in 1899, the building now houses a museum, which we took the time to explore, both the architecture and exhibits were well worth the visit. We ended the day with a leisurely evening stroll through the charming streets of Astorga, followed by a pasta dinner at the hotel, served in a beautiful, traditionally decorated Spanish dining room. A perfect end to a day filled with history, scenery, and classic Camino encounters.",
       "accommodation": "Hotel Gaudi",
-      "elevation_gain": "+200 m",
-      "elevation_loss": "-180 m",
-    "altitude_meter": "-",
-      "image": "week5/dag33.jpg",
+      "elevation_gain": "+927 m",
+      "elevation_loss": "818 m",
+    "altitude_meter": "216",
+      "image": "week5/dag33.JPG",
       "route_map": {
         "start": { "name": "Hospital de Orbigio", "lat": 42.4638, "lng": -5.8810 },
         "end": { "name": "Astorga", "lat": 42.4574, "lng": -6.0562 },
@@ -216,15 +216,15 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-  "assets/week5/dag33/dag331.jpg",
-  "assets/week5/dag33/dag332.jpg",
-  "assets/week5/dag33/dag333.jpg",
-  "assets/week5/dag33/dag334.jpg",
-  "assets/week5/dag33/dag335.jpg",
-  "assets/week5/dag33/dag336.jpg",
-  "assets/week5/dag33/dag337.jpg",
-  "assets/week5/dag33/dag338.jpg",
-  "assets/week5/dag33/dag339.jpg",
+  "assets/week5/dag33/dag331.JPG",
+  "assets/week5/dag33/dag332.JPG",
+  "assets/week5/dag33/dag333.JPG",
+  "assets/week5/dag33/dag334.JPG",
+  "assets/week5/dag33/dag335.JPG",
+  "assets/week5/dag33/dag336.JPG",
+  "assets/week5/dag33/dag337.JPG",
+  "assets/week5/dag33/dag338.JPG",
+  "assets/week5/dag33/dag339.JPG",
   "assets/week5/dag33/dag3310.jpg"
     ]
     },
@@ -240,7 +240,7 @@
       "elevation_gain": "+900 m",
       "elevation_loss": "-100 m",
     "altitude_meter": "-",
-      "image": "week5/dag34.jpg",
+      "image": "week5/dag34.JPG",
       "route_map": {
         "start": { "name": "Astorga", "lat": 42.4574, "lng": -6.0552 },
         "end": { "name": "Rabanal del Camino ", "lat": 42.4814, "lng": -6.2808 },
@@ -262,15 +262,15 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-  "assets/week5/dag34/dag341.jpg",
-  "assets/week5/dag34/dag342.jpg",
-  "assets/week5/dag34/dag343.jpg",
-  "assets/week5/dag34/dag344.jpg",
-  "assets/week5/dag34/dag345.jpg",
-  "assets/week5/dag34/dag346.jpg",
-  "assets/week5/dag34/dag347.jpg",
-  "assets/week5/dag34/dag348.jpg",
-  "assets/week5/dag34/dag349.jpg",
+  "assets/week5/dag34/dag341.JPG",
+  "assets/week5/dag34/dag342.JPG",
+  "assets/week5/dag34/dag343.JPG",
+  "assets/week5/dag34/dag344.JPG",
+  "assets/week5/dag34/dag345.JPG",
+  "assets/week5/dag34/dag346.JPG",
+  "assets/week5/dag34/dag347.JPG",
+  "assets/week5/dag34/dag348.JPG",
+  "assets/week5/dag34/dag349.JPG",
   "assets/week5/dag34/dag3410.jpg"
     ]
     },
@@ -286,7 +286,7 @@
       "elevation_gain": "+100 m",
       "elevation_loss": "-600 m",
     "altitude_meter": "-",
-      "image": "week5/dag35.jpg",
+      "image": "week5/dag35.JPG",
       "route_map": {
         "start": { "name": "Rabanal del Camino ", "lat": 42.4818, "lng": -6.2808 },
         "end": { "name": "El Acebo de San Miguel", "lat": 42.4988, "lng": -6.4575 },
@@ -308,20 +308,21 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-  "assets/week5/dag35/dag351.jpg",
-  "assets/week5/dag35/dag352.jpg",
-  "assets/week5/dag35/dag353.jpg",
-  "assets/week5/dag35/dag354.jpg",
-  "assets/week5/dag35/dag355.jpg",
-  "assets/week5/dag35/dag356.jpg",
-  "assets/week5/dag35/dag357.jpg",
-  "assets/week5/dag35/dag358.jpg",
-  "assets/week5/dag35/dag359.jpg",
+  "assets/week5/dag35/dag351.JPG",
+  "assets/week5/dag35/dag352.JPG",
+  "assets/week5/dag35/dag353.JPG",
+  "assets/week5/dag35/dag354.JPG",
+  "assets/week5/dag35/dag355.JPG",
+  "assets/week5/dag35/dag356.JPG",
+  "assets/week5/dag35/dag357.JPG",
+  "assets/week5/dag35/dag358.JPG",
+  "assets/week5/dag35/dag359.JPG",
   "assets/week5/dag35/dag3510.jpg"
     ]
     }
   ]
 }
+
 
 
 
