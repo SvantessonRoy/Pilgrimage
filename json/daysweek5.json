@@ -98,7 +98,7 @@
   "distance": "20,9 km",
   "time": "4 hours 46 min",
   "short_desc": "Back pain, taxi and booking mix-ups.",
-  "long_desc": ".The day started with Roy visiting the naprapath we had booked in León due to continued back pain. After the treatment, he returned to the hotel to rest. The naprapath advised against walking that day, so we decided to take a taxi to our next planned stop, Villa de Mazarife. Since we’ve pre-booked our entire route, it’s difficult to make changes to the master plan. When we arrived at Hostal Tío Pepe, the owner couldn’t find our reservation, flipping through his handwritten notes in vain. After nearly an hour, he brought in a woman who was more familiar with the booking system. She quickly found our reservation and confirmed it was prepaid. What a relief! Unfortunately, our bag sent via Jackotrans never arrived. It had been left behind at the hotel in León and wouldn’t be delivered until the next day. So, we had to get through the evening with only what we had in our daypacks. Later, we ran into Lydia from California again. She looked exhausted, waiting for a ride to her accommodation, which was located on the alternate Camino route. Unfortunately, she had mistakenly followed the main trail, taking her off course. Dinner that evening was a rather mediocre pilgrim menu, but the company helped lift the mood, including a nice woman from Norway we shared the table with.  ",
+  "long_desc": "The day started with Roy visiting the naprapath we had booked in León due to continued back pain. After the treatment, he returned to the hotel to rest. The naprapath advised against walking that day, so we decided to take a taxi to our next planned stop, Villa de Mazarife. Since we’ve pre-booked our entire route, it’s difficult to make changes to the master plan. When we arrived at Hostal Tío Pepe, the owner couldn’t find our reservation, flipping through his handwritten notes in vain. After nearly an hour, he brought in a woman who was more familiar with the booking system. She quickly found our reservation and confirmed it was prepaid. What a relief! Unfortunately, our bag sent via Jackotrans never arrived. It had been left behind at the hotel in León and wouldn’t be delivered until the next day. So, we had to get through the evening with only what we had in our daypacks. Later, we ran into Lydia from California again. She looked exhausted, waiting for a ride to her accommodation, which was located on the alternate Camino route. Unfortunately, she had mistakenly followed the main trail, taking her off course. Dinner that evening was a rather mediocre pilgrim menu, but the company helped lift the mood, including a nice woman from Norway we shared the table with.  ",
       "accommodation": "Tio pepe Hostel",
       "elevation_gain": "926 m",
       "elevation_loss": "819 m",
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
