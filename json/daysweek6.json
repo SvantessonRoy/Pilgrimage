@@ -100,6 +100,7 @@
       "elevation_gain": " m",
       "elevation_loss": " m",
       "altitude_meter": "-",
+       "image": "week6/dag38.JPG",
       "route_map": {
         "start": { "name": "Villafranca del Bierzo", "lat": 42.6059, "lng": -6.8117 },
         "end": { "name": "Vega de Valcarce", "lat": 42.6659, "lng": -6.9402 },
@@ -309,5 +310,6 @@
     }
   ]
 }
+
 
 
