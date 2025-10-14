@@ -1,4 +1,4 @@
-{
+ {
   "daysW6": [
     {
       "week": 6,
@@ -76,15 +76,15 @@
       "Distance, Time and Elevation"
     ],
     "gallery": [
-  "assets/week6/dag37/dag371.jpg",
-  "assets/week6/dag37/dag372.jpg",
-  "assets/week6/dag37/dag373.jpg",
-  "assets/week6/dag37/dag374.jpg",
-  "assets/week6/dag37/dag375.jpg",
-  "assets/week6/dag37/dag376.jpg",
-  "assets/week6/dag37/dag377.jpg",
-  "assets/week6/dag37/dag378.jpg",
-  "assets/week6/dag37/dag379.jpg",
+  "assets/week6/dag37/dag371.JPG",
+  "assets/week6/dag37/dag372.JPG",
+  "assets/week6/dag37/dag373.JPG",
+  "assets/week6/dag37/dag374.JPG",
+  "assets/week6/dag37/dag375.JPG",
+  "assets/week6/dag37/dag376.JPG",
+  "assets/week6/dag37/dag377.JPG",
+  "assets/week6/dag37/dag378.JPG",
+  "assets/week6/dag37/dag379.JPG",
   "assets/week6/dag37/dag3710.jpg"
     ]
     },
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
