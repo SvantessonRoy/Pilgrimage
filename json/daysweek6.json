@@ -48,14 +48,14 @@
       "week": 6,
       "day": 37,
       "title": "Ponferrada -> Villafranca del Bierzo",
-  "distance": "23,6 km",
-  "time": "6 h",
+  "distance": "24,6 km",
+  "time": "5 hours 48 min",
   "short_desc": "The first stage for many pilgrims.",
   "long_desc": "Hiking over the Miño river to Portomarín.",
       "accommodation": "Parador Villafranca de Bierzo",
-      "elevation_gain": " m",
-      "elevation_loss": " m",
-      "altitude_meter": "-",
+      "elevation_gain": "579 m",
+      "elevation_loss": "470 m",
+      "altitude_meter": " 423 ",
       "image": "week6/dag37.JPG",
       "route_map": {
         "start": { "name": "Ponferrada", "lat": 42.5461, "lng": -6.5941 },
@@ -66,12 +66,12 @@
     "descriptions_gallery": [
       "Ponferrada",
       "Villafranca del Bierzo",
-      "Nature 1",
-      "Nature 2",
-      "People 1",
-      "People 2",
-      "Sustainability 1",
-      "Sustainability 2",
+      "Pilgrim´s graffiti",
+      "Antique vin press",
+      "Pilgrim in shadow",
+      "Bodegas Mauro El Acerol",
+      "Pilgrimage",
+      "Pilgrimage",
       "Pilgrimage",
       "Distance, Time and Elevation"
     ],
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
