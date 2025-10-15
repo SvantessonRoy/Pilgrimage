@@ -4,14 +4,14 @@
       "week": 6,
       "day": 36,
       "title": "El Acebo de San Miguel-> Ponferrada",
-  "distance": "15,4 km",
-  "time": "4 h",
+  "distance": "17,2 km",
+  "time": "5 hours 20 min",
       "short_desc": "Brief description of today's pilgrimage of today's pilgrimage.",
       "long_desc": "Detailed description and illustration.",
       "accommodation": "Hotel Aroi Ponferrada",
-      "elevation_gain": " m",
-      "elevation_loss": " m",
-      "altitude_meter": "-",
+      "elevation_gain": "1152 m",
+      "elevation_loss": "519 m",
+      "altitude_meter": "89",
       "image": "week6/dag36.JPG",
       "route_map": {
         "start": { "name": "El Acebo de San Miguel", "lat": 42.4988, "lng": -6.4575 },
@@ -22,12 +22,12 @@
     "descriptions_gallery": [
       "El Acebo de San Miguel",
       "Ponferrada",
-      "Nature 1",
-      "Nature 2",
-      "People 1",
-      "People 2",
-      "Sustainability 1",
-      "Sustainability 2",
+      "Pilgrimage",
+      "Pilgrimage",
+      "Pilgrims",
+      "223,6 km to Santiago de Compostela",
+      "Molinaseca",
+      "Pilgrimage",
       "Pilgrimage",
       "Distance, Time and Elevation"
     ],
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
