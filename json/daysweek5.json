@@ -278,14 +278,14 @@
       "week": 5,
       "day": 35,
       "title": "Rabanal del Camino -> El Acebo de San Miguel",
-  "distance": "16,8 km",
-  "time": "5 h",
+  "distance": "17,6 km",
+  "time": "5 hours 47 min",
   "short_desc": "Down into Galicia.",
   "long_desc": "Hiking through green valleys and small villages.",
       "accommodation": "La Trucha del Arco Iris",
-      "elevation_gain": "+100 m",
-      "elevation_loss": "-600 m",
-    "altitude_meter": "-",
+      "elevation_gain": "1521 m",
+      "elevation_loss": "1135 m",
+    "altitude_meter": "482",
       "image": "week5/dag35.JPG",
       "route_map": {
         "start": { "name": "Rabanal del Camino ", "lat": 42.4818, "lng": -6.2808 },
@@ -298,13 +298,13 @@
     "descriptions_gallery": [
       "Rabanal del Camino",
       "El Acebo de San Miguel",
-      "Nature 1",
-      "Nature 2",
-      "People 1",
-      "People 2",
-      "Sustainability 1",
-      "Sustainability 2",
+      "Breakfast",
+      "Leaving the village",
+      "Morning sun",
       "Pilgrimage",
+      "Rest",
+      "Cruz Ferro",
+      "Pilgrimag friend Hanna from Rotterdam",
       "Distance, Time and Elevation"
     ],
     "gallery": [
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
