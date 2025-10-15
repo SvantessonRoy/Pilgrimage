@@ -27,7 +27,7 @@
       "Nature 2",
       "People 1",
       "People 2",
-      "Sustainability 1",
+      "",
       "Sustainability 2",
       "Pilgrimage",
       "Distance, Time and Elevation"
@@ -232,14 +232,14 @@
       "week": 5,
       "day": 34,
       "title": "Astorga ->  Rabanal del Camino",
-  "distance": "19,8 km",
-  "time": "6 h",
+  "distance": "20, km",
+  "time": "4 hours 33 min",
   "short_desc": "Up into the mountains of Galicia.",
   "long_desc": "Long and demanding climb to O Cebreiro.",
       "accommodation": "Posada El Tesin",
-      "elevation_gain": "+900 m",
-      "elevation_loss": "-100 m",
-    "altitude_meter": "-",
+      "elevation_gain": "1166 m",
+      "elevation_loss": "829 m",
+    "altitude_meter": "409 climb",
       "image": "week5/dag34.JPG",
       "route_map": {
         "start": { "name": "Astorga", "lat": 42.4574, "lng": -6.0552 },
@@ -252,12 +252,12 @@
     "descriptions_gallery": [
       "Astorga",
       "Rabanal del Camino",
-      "Nature 1",
-      "Nature 2",
-      "People 1",
-      "People 2",
-      "Sustainability 1",
-      "Sustainability 2",
+      "Astorga",
+      "Dinner Rabanal del Camino",
+      "Astorga",
+      "Astorga",
+      "Iglesia de Santa Maria de la Asunción",
+      "Pilgrimage",
       "Pilgrimage",
       "Distance, Time and Elevation"
     ],
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
