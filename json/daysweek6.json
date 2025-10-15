@@ -55,7 +55,7 @@
       "accommodation": "Parador Villafranca de Bierzo",
       "elevation_gain": "579 m",
       "elevation_loss": "470 m",
-      "altitude_meter": " 423 ",
+      "altitude_meter": " 413 climb ",
       "image": "week6/dag37.JPG",
       "route_map": {
         "start": { "name": "Ponferrada", "lat": 42.5461, "lng": -6.5941 },
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
