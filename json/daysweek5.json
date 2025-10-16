@@ -12,7 +12,7 @@
       "elevation_gain": "904 m",
       "elevation_loss": "794 m",
     "altitude_meter": "101",
-    "image": "week5/dag29.JPG",
+    "image": "week5/dag29.jpg",
       "route_map": {
         "start": { "name": "Mansilla de las Mulas", "lat": 42.4997, "lng": -5.4121 },
         "end": { "name": "León", "lat": 42.5947, "lng": -5.5700 },
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
