@@ -148,7 +148,7 @@
       "elevation_gain": "877 m",
       "elevation_loss": "824 m",
       "altitude_meter": "21",
-      "image": "week5/dag32.jpg",
+      "image": "week5/dag32.JPG",
       "route_map": {
         "start": { "name": "Villa de Mazarife", "lat": 42.4832, "lng": -5.7267 },
         "end": { "name": "Hospital de Orbigio", "lat": 42.4638, "lng": -5.8810 },
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
