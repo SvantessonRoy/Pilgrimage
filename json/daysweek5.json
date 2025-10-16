@@ -234,8 +234,8 @@
       "title": "Astorga ->  Rabanal del Camino",
   "distance": "20, km",
   "time": "4 hours 33 min",
-  "short_desc": "Up into the mountains of Galicia.",
-  "long_desc": "Long and demanding climb to O Cebreiro.",
+  "short_desc": "Rabanal del Camino, monks and mountain charm",
+  "long_desc": "Before leaving Astorga, we took a short stroll through the city center and bought a new pair of trekking poles for Roy, much needed for the days ahead in the mountains. After a peaceful walk, we arrived in the charming village of Rabanal del Camino, where we checked into Posada El Tesín, a small family run restaurant with just a few guest rooms upstairs. The place is located right at the entrance to the village and has a cozy, local feel. In the evening, we joined other pilgrims for a special experience, the Gregorian chant sung by monks in the ancient stone church at the top of the village. We climbed the long, steep hill to get there and it was well worth the effort. The atmosphere was magical, spiritual, and deeply peaceful. Rabanal del Camino is a truly picturesque mountain village, and a popular overnight stop for pilgrims, filled with stone houses, quiet paths, and the kind of simplicity that makes the Camino feel timeless.",
       "accommodation": "Posada El Tesin",
       "elevation_gain": "1166 m",
       "elevation_loss": "829 m",
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
