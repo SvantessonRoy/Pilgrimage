@@ -188,7 +188,7 @@
       "elevation_gain": "+80 m",
       "elevation_loss": "-90 m",
       "altitude_meter": "-",
-      "image": "week6/dag40.jpg",
+      "image": "week6/dag40.JPG",
       "route_map": {
         "start": { "name": "Fonfria", "lat": 42.7299, "lng": -7.1551 },
         "end": { "name": "Samos", "lat": 42.7308, "lng": -7.3259 },
@@ -232,7 +232,7 @@
       "elevation_gain": "+120 m",
       "elevation_loss": "-110 m",
       "altitude_meter": "-",
-      "image": "week6/dag41.jpg",
+      "image": "week6/dag41.JPG",
       "route_map": {
         "start": { "name": "Samos", "lat": 42.7308, "lng": -7.3259 },
         "end": { "name": "Sarria", "lat": 42.7811, "lng": -7.4154 },
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
