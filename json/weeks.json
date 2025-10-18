@@ -1,4 +1,4 @@
-[
+'ä-ö[
   {
     "week": 1,
     "title": "Week 1",
@@ -30,7 +30,7 @@
     "week": 4,
     "title": "Week 4",
     "route": "Hontanas -> Mansilla de las Mulas",
-  "distance": "129,1 km",
+  "distance": "133 km. Σ 477 km from SJPdP   ",
   "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka4.jpg"
@@ -39,7 +39,7 @@
     "week": 5,
     "title": "Week 5",
     "route": "Mansilla de las Mulas ->El Acebo de San Miguel",
-  "distance": "96,5 km",
+  "distance": "110 km. km. Σ 587 km from SJPdP  ",
   "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka5.jpg"
@@ -72,6 +72,7 @@
     "image": "weeks/vecka8.jpg"
   }
 ]
+
 
 
 
