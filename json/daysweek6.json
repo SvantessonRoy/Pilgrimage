@@ -270,8 +270,8 @@
       "title": "Sarria -Rest day",
   "distance": "0,0 km",
   "time": "Rest",
-  "short_desc": "The goal is reached!",
-  "long_desc": "Arrival at the cathedral in Santiago.",
+  "short_desc": "A rainy rest day in Sarria",
+  "long_desc": "After nearly 40 days without rain, we finally woke up to a grey and rainy morning in Sarria, just as forecasted by YR. But with a rest day planned, the timing couldn’t have been better. At breakfast, we ran into five fellow Swedes, a rare sight on the Camino! It turned out to be the members of Oh Hiroshima, an indie band from Örebro, Sweden, who had played at the music festival in town the night before. An unexpected and fun encounter! The rest of the day was calm and restorative. We updated our website, organized photos and simply took time to relax. Around lunchtime, the skies cleared and the sun peeked through, a hopeful sign for tomorrow’s journey toward Santiago.",
       "accommodation": "Casa Solance",
       "elevation_gain": "-",
       "elevation_loss": "-",
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
