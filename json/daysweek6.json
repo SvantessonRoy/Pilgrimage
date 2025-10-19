@@ -96,9 +96,9 @@
   "time": "5 h",
   "short_desc": "Change of plans, a lucky room, and lobster paella",
   "long_desc": "We left our beautiful Parador hotel at dawn and began our walk toward Vega de Valcarce, a small village with about 700 inhabitants. We had pre-booked a room that turned out to be part of a bed and breakfast situated directly under a newly built highway, not the most inviting location. The house itself didn’t look very appealing either. So, we decided to continue walking into the village, where we spotted a charming house offering rooms for rent. We asked the hostess if we could see one, and she gladly showed us a lovely, bright room and for only 55 euros. A quick decision was made. Then we remembered that Jackotrans had already delivered our bag to the original accommodation. Roy walked back and retrieved it with a vague excuse, saying we had changed our plans. Meanwhile, our new hostess kindly contacted the logistics company to update the booking so that our bag would be delivered correctly for the next stop. She also told us that the only place in town serving dinner was a small restaurant called Arrocería Español, which opened at 18:00 and closed at 19:00 sharp. We made it there just in time and enjoyed an amazing lobster paella. We chatted with the owner, who shared that it’s tough running a restaurant in such a small village. They’re considering moving their business to O Cebreiro instead. Another unexpected day on the Camino, full of detours, helpful people, and delicious food.",
-      "accommodation": "Hostal El Recanto",
-      "elevation_gain": " m",
-      "elevation_loss": " m",
+      "accommodation": "Hostal El Recanto -> Habitatione Rocas",
+      "elevation_gain": "640 m",
+      "elevation_loss": "498 m",
       "altitude_meter": "-",
        "image": "week6/dag38.jpg",
       "route_map": {
@@ -139,10 +139,10 @@
   "distance": "23,4 km",
   "time": "6 h",
   "short_desc": "A taxi ride, mountain views and a modern surprise in Fonfría",
-  "long_desc": ".   Before starting today's walk, our helpful hostess arranged a taxi to take us partway up the mountain to the small village of Laguna de Castilla. This helped shorten the long stage ahead, especially important due to Roy’s back pain. The hike up to O Cebreiro was absolutely beautiful with breathtaking landscapes and fresh mountain air. Once there, we enjoyed a well deserved coffee break in the charming and historic village. Then we began the descent, but first made a short detour to the highest point of the stage. There, we found a small bar where we had some pizza. Unexpectedly, we ran into the Frenchman we had shared dinner with in El Acebo a very fun reunion! We eventually arrived in Fonfría, where we had booked a place that turned out to be a brand-new, modern hostel with eight double rooms clean, fresh, and very comfortable. Dinner was a classic pilgrim’s menu with vegetable soup, a meat dish with fries, and almond cake for dessert. We shared the table with a Dutch pilgrim, a couple from Vienna, and a man from Germany, a lovely and lively group that made for a memorable evening.",
+  "long_desc": "Before starting today's walk, our helpful hostess arranged a taxi to take us partway up the mountain to the small village of Laguna de Castilla. This helped shorten the long stage ahead, especially important due to Roy’s back pain. The hike up to O Cebreiro was absolutely beautiful with breathtaking landscapes and fresh mountain air. Once there, we enjoyed a well deserved coffee break in the charming and historic village. Then we began the descent, but first made a short detour to the highest point of the stage. There, we found a small bar where we had some pizza. Unexpectedly, we ran into the Frenchman we had shared dinner with in El Acebo a very fun reunion! We eventually arrived in Fonfría, where we had booked a place that turned out to be a brand-new, modern hostel with eight double rooms clean, fresh, and very comfortable. Dinner was a classic pilgrim’s menu with vegetable soup, a meat dish with fries, and almond cake for dessert. We shared the table with a Dutch pilgrim, a couple from Vienna, and a man from Germany, a lovely and lively group that made for a memorable evening.",
       "accommodation": "Casa Galego",
-      "elevation_gain": "+120 m",
-      "elevation_loss": "-100 m",
+      "elevation_gain": "1337 m",
+      "elevation_loss": "636 m",
       "altitude_meter": "-",
       "image": "week6/dag39.JPG",
       "route_map": {
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
