@@ -40,7 +40,7 @@
     "title": "Week 5",
     "route": "Mansilla de las Mulas ->El Acebo de San Miguel",
   "distance": "110 km. Σ 587 km from SJPdP  ",
-  "Summary": "Updated weekly",
+  "Summary": "Hell Week with back pain, lost luggage, missed hotel bookings, and an endless Meseta with no shade.",
     "button": "Show details",
     "image": "weeks/vecka5.JPG"
   },
@@ -58,7 +58,7 @@
   "title": "Week 7",
   "route": "Sarria -> Santiago de Compostela",
   "distance": "114 km to Satiago de Compostela!!!!",
-  "Summary": "Updated weekly",
+  "Summary": "Final week",
   "button": "Show details",
   "image": "weeks/vecka7.JPG"
   },
@@ -72,6 +72,7 @@
     "image": "weeks/vecka8.JPG"
   }
 ]
+
 
 
 
