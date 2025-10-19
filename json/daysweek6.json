@@ -276,7 +276,7 @@
       "elevation_gain": "+150 m",
       "elevation_loss": "-200 m",
       "altitude_meter": "-",
-      "image": "week6/dag42.jpg",
+      "image": "week6/dag42.JPG",
       "route_map": {
         "start": { "name": "Sarria", "lat": 42.7811, "lng": -7.4154 },
         "end": { "name": "Sarria", "lat": 42.7811, "lng": -7.4154 },
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
