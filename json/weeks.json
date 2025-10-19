@@ -42,7 +42,7 @@
   "distance": "110 km. km. Σ 587 km from SJPdP  ",
   "Summary": "Updated weekly",
     "button": "Show details",
-    "image": "weeks/vecka5.jpg"
+    "image": "weeks/vecka5.JPG"
   },
   {
     "week": 6,
@@ -51,7 +51,7 @@
   "distance": "98,4 km",
   "Summary": "Updated weekly",
     "button": "Show details",
-    "image": "weeks/vecka6.jpg"
+    "image": "weeks/vecka6.JPG"
   },
   {
   "week": 7,
@@ -60,7 +60,7 @@
   "distance": "95,1 km",
   "Summary": "Updated weekly",
   "button": "Show details",
-  "image": "weeks/vecka7.jpg"
+  "image": "weeks/vecka7.JPG"
   },
   {
     "week": 8,
@@ -69,9 +69,10 @@
   "distance": "82,0 km",
   "Summary": "Updated weekly",
     "button": "Show details",
-    "image": "weeks/vecka8.jpg"
+    "image": "weeks/vecka8.JPG"
   }
 ]
+
 
 
 
