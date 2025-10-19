@@ -39,7 +39,7 @@
     "week": 5,
     "title": "Week 5",
     "route": "Mansilla de las Mulas ->El Acebo de San Miguel",
-  "distance": "110 km. km. Σ 587 km from SJPdP  ",
+  "distance": "110 km. Σ 587 km from SJPdP  ",
   "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka5.JPG"
@@ -48,7 +48,7 @@
     "week": 6,
     "title": "Week 6",
     "route": "El Acebo de San Miguel -> Sarria",
-  "distance": "98,4 km",
+  "distance": "117 km. ",
   "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka6.JPG"
@@ -72,6 +72,7 @@
     "image": "weeks/vecka8.JPG"
   }
 ]
+
 
 
 
