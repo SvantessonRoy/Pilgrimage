@@ -48,7 +48,7 @@
     "week": 6,
     "title": "Week 6",
     "route": "El Acebo de San Miguel -> Sarria",
-  "distance": "117 km. ",
+  "distance": "117 km. Σ 704 km from SJPdP ",
   "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka6.JPG"
@@ -57,7 +57,7 @@
   "week": 7,
   "title": "Week 7",
   "route": "Sarria -> Santiago de Compostela",
-  "distance": "95,1 km",
+  "distance": "114 km to Satiago de Compostela!!!!",
   "Summary": "Updated weekly",
   "button": "Show details",
   "image": "weeks/vecka7.JPG"
@@ -66,12 +66,13 @@
     "week": 8,
     "title": "Week 8",
     "route": "Santiago de Compostela -> Madrid",
-  "distance": "82,0 km",
+  "distance": "By train,
   "Summary": "Updated weekly",
     "button": "Show details",
     "image": "weeks/vecka8.JPG"
   }
 ]
+
 
 
 
