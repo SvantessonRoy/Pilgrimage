@@ -180,14 +180,14 @@
       "week": 6,
       "day": 40,
       "title": "Fonfria -> Samos",
-  "distance": "19,2 km",
-  "time": "5 h",
+  "distance": "19,6 km",
+  "time": "5 hours 39 min",
   "short_desc": "Towards the cheese town.",
   "long_desc": "Hiking to Arzúa, famous for its cheese.",
       "accommodation": "A Casa da Botica",
-      "elevation_gain": "+80 m",
-      "elevation_loss": "-90 m",
-      "altitude_meter": "-",
+      "elevation_gain": "1293 m",
+      "elevation_loss": "542 m",
+      "altitude_meter": "194",
       "image": "week6/dag40.JPG",
       "route_map": {
         "start": { "name": "Fonfria", "lat": 42.7299, "lng": -7.1551 },
@@ -224,14 +224,14 @@
       "week": 6,
       "day": 41,
       "title": "Samos -> Sarria",
-  "distance": "15,4 km",
-  "time": "4 h",
+  "distance": "15,1 km",
+  "time": "4 hours 44 min",
   "short_desc": "Almost there.",
   "long_desc": "Last night before Santiago.",
       "accommodation": "Casa Solance",
-      "elevation_gain": "+120 m",
-      "elevation_loss": "-110 m",
-      "altitude_meter": "-",
+      "elevation_gain": "569 m",
+      "elevation_loss": "431 m",
+      "altitude_meter": "213",
       "image": "week6/dag41.JPG",
       "route_map": {
         "start": { "name": "Samos", "lat": 42.7308, "lng": -7.3259 },
@@ -273,8 +273,8 @@
   "short_desc": "The goal is reached!",
   "long_desc": "Arrival at the cathedral in Santiago.",
       "accommodation": "Casa Solance",
-      "elevation_gain": "+150 m",
-      "elevation_loss": "-200 m",
+      "elevation_gain": "-",
+      "elevation_loss": "-",
       "altitude_meter": "-",
       "image": "week6/dag42.JPG",
       "route_map": {
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
