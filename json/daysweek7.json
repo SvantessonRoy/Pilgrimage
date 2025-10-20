@@ -12,7 +12,7 @@
       "elevation_gain": "+300 m",
       "elevation_loss": "-250 m",
       "altitude_meter": "-",
-      "image": "assets/week7/dag43.jpg",
+      "image": "assets/week7/dag43.JPG",
       "route_map": {
         "start": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
         "end": { "name": "Portomarín", "lat": 42.8067, "lng": -7.6151 },
@@ -302,4 +302,5 @@
     }
   ]
 }
+
 
