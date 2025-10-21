@@ -11,7 +11,7 @@
       "accommodation": "Hotel Portomarin Star",
       "elevation_gain": "670 m",
       "elevation_loss": "354 m",
-      "altitude_meter": "-462",
+      "altitude_meter": "462",
       "image": "assets/week7/dag43.JPG",
       "route_map": {
         "start": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
@@ -302,6 +302,7 @@
     }
   ]
 }
+
 
 
 
