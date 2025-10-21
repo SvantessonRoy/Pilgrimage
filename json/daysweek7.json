@@ -47,14 +47,14 @@
       "week": 7,
       "day": 44,
       "title": "Portomarín -> Ligonde (Airexe)",
-      "distance": "17,3 km",
-      "time": "5 h",
+      "distance": "18,0 km",
+      "time": "5 hours 34 min",
       "short_desc": "Ligonde (Airexe).",
       "long_desc": "Hiking through the interior of Galicia.",
       "accommodation": "Casa de Cota",
-      "elevation_gain": "+400 m",
-      "elevation_loss": "-350 m",
-      "altitude_meter": "-",
+      "elevation_gain": "731 m",
+      "elevation_loss": "3510 m",
+      "altitude_meter": "454",
       "image": "assets/week7/dag44.jpg",
       "route_map": {
         "start": { "name": "Portomarín", "lat": 42.8067, "lng": -7.6151 },
@@ -74,15 +74,15 @@
         "Distance, Time and Elevation"
       ],
       "gallery": [
-        "assets/week7/dag44/dag441.jpg",
-        "assets/week7/dag44/dag442.jpg",
-        "assets/week7/dag44/dag443.jpg",
-        "assets/week7/dag44/dag444.jpg",
-        "assets/week7/dag44/dag445.jpg",
-        "assets/week7/dag44/dag446.jpg",
-        "assets/week7/dag44/dag447.jpg",
-        "assets/week7/dag44/dag448.jpg",
-        "assets/week7/dag44/dag449.jpg",
+        "assets/week7/dag44/dag441.JPG",
+        "assets/week7/dag44/dag442.JPG",
+        "assets/week7/dag44/dag443.JPG",
+        "assets/week7/dag44/dag444.JPG",
+        "assets/week7/dag44/dag445.JPG",
+        "assets/week7/dag44/dag446.JPG",
+        "assets/week7/dag44/dag447.JPG",
+        "assets/week7/dag44/dag448.JPG",
+        "assets/week7/dag44/dag449.JPG",
         "assets/week7/dag44/dag4410.jpg"
       ]
     },
@@ -302,6 +302,7 @@
     }
   ]
 }
+
 
 
 
