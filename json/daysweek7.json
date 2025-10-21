@@ -4,14 +4,14 @@
       "week": 7,
       "day": 43,
       "title": "Sarria -> Portomarín",
-      "distance": "22,3 km",
-      "time": "5 h",
-      "short_desc": "Portomarin.",
-      "long_desc": "First stage towards Finisterre.",
+      "distance": "22,6 km",
+      "time": "6 hours 28 min",
+      "short_desc": "Final week on the Camin",
+      "long_desc": "Start weth heavt rain.",
       "accommodation": "Hotel Portomarin Star",
-      "elevation_gain": "+300 m",
-      "elevation_loss": "-250 m",
-      "altitude_meter": "-",
+      "elevation_gain": "670 m",
+      "elevation_loss": "354 m",
+      "altitude_meter": "-462",
       "image": "assets/week7/dag43.JPG",
       "route_map": {
         "start": { "name": "Sarria", "lat": 42.7797, "lng": -7.4144 },
@@ -302,5 +302,6 @@
     }
   ]
 }
+
 
 
