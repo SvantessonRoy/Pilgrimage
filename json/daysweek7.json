@@ -90,14 +90,14 @@
       "week": 7,
       "day": 45,
       "title": "Ligonde (Airexe) -> Melide",
-      "distance": "22,4 km",
-      "time": "5 h",
+      "distance": "23,1 km",
+      "time": "5 hours 33 min",
       "short_desc": "Melide",
-      "long_desc": "Descent to the Atlantic coast.",
+      "long_desc": "Still raining.",
       "accommodation": "Pension Ferradura",
-      "elevation_gain": "+100 m",
-      "elevation_loss": "-400 m",
-      "altitude_meter": "-",
+      "elevation_gain": "649 m",
+      "elevation_loss": "412 m",
+      "altitude_meter": "364",
       "route_map": {
         "start": { "name": "Ligonde (Airexe)", "lat": 42.8646, "lng": -7.7873 },
         "end": { "name": "Melide", "lat": 42.9143, "lng": -8.0148 },
@@ -302,6 +302,7 @@
     }
   ]
 }
+
 
 
 
