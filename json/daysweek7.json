@@ -132,15 +132,15 @@
       "week": 7,
       "day": 46,
       "title": "Melide -> Arzúa",
-      "distance": "14,2 km",
-      "time": "4 h",
+      "distance": "15,3 km",
+      "time": "4 hours 27",
       "short_desc": "Arzúa.",
-      "long_desc": "Arrival at the Atlantic and Finisterre.",
+      "long_desc": "Arrival early.",
       "accommodation": "1930 Boutique Hotel",
-      "elevation_gain": "+80 m",
-      "elevation_loss": "-90 m",
-      "altitude_meter": "-",
-      "image": "assets/week7dag46.jpg",
+      "elevation_gain": "469 m",
+      "elevation_loss": "310 m",
+      "altitude_meter": "319",
+      "image": "assets/week7dag46.JPG",
       "route_map": {
         "start": { "name": "Melide", "lat": 42.9143, "lng": -8.0148 },
         "end": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1533 },
@@ -302,6 +302,7 @@
     }
   ]
 }
+
 
 
 
