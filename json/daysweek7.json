@@ -55,7 +55,7 @@
       "elevation_gain": "731 m",
       "elevation_loss": "3510 m",
       "altitude_meter": "454",
-      "image": "assets/week7/dag44.jpg",
+      "image": "assets/week7/dag44.JPG",
       "route_map": {
         "start": { "name": "Portomarín", "lat": 42.8067, "lng": -7.6151 },
         "end": { "name": "Ligonde (Airexe)", "lat": 42.8646, "lng": -7.7873 },
@@ -98,6 +98,7 @@
       "elevation_gain": "649 m",
       "elevation_loss": "412 m",
       "altitude_meter": "364",
+      "image": "assets/week7/dag45.JPG",
       "route_map": {
         "start": { "name": "Ligonde (Airexe)", "lat": 42.8646, "lng": -7.7873 },
         "end": { "name": "Melide", "lat": 42.9143, "lng": -8.0148 },
@@ -140,7 +141,7 @@
       "elevation_gain": "469 m",
       "elevation_loss": "310 m",
       "altitude_meter": "319",
-      "image": "assets/week7dag46.JPG",
+      "image": "assets/week7/dag46.JPG",
       "route_map": {
         "start": { "name": "Melide", "lat": 42.9143, "lng": -8.0148 },
         "end": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1533 },
@@ -183,7 +184,7 @@
       "elevation_gain": "",
       "elevation_loss": "",
       "altitude_meter": "-",
-      "image": "assets/week7/dag47.jpg",
+      "image": "assets/week7/dag47.JPG",
       "route_map": {
         "start": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1533 },
         "end": { "name": "O Pedrouzo", "lat": 42.9048, "lng": -8.3634 },
@@ -226,7 +227,7 @@
       "elevation_gain": "+200 m",
       "elevation_loss": "-180 m",
       "altitude_meter": "-",
-      "image": "assets/week7/dag48.jpg",
+      "image": "assets/week7/dag48.JPG",
       "route_map": {
         "start": { "name": "O Pedrouzo", "lat": 42.9048, "lng": -8.3634 },
         "end": { "name": "Santiago de Compostela", "lat": 42.8804, "lng": -8.5459 },
@@ -302,6 +303,7 @@
     }
   ]
 }
+
 
 
 
