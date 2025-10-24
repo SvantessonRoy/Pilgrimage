@@ -64,13 +64,13 @@
       "descriptions_gallery": [
         "Portomarín",
         "Ligonde (Airexe)",
-        "Nature 1",
-        "Nature 2",
-        "People 1",
-        "People 2",
-        "Sustainability 1",
-        "Sustainability 2",
-        "Pilgrimage",
+        "Camino friends 1",
+        "Camino friends 2",
+        "Camino friends 3",
+        "Camino friends cooking",
+        "Rush hours",
+        "Pilgrimage 1",
+        "Pilgrimage 2",
         "Distance, Time and Elevation"
       ],
       "gallery": [
@@ -303,6 +303,7 @@
     }
   ]
 }
+
 
 
 
