@@ -176,14 +176,14 @@
       "week": 7,
       "day": 47,
       "title": "Arzúa -> O Pedrouzo",
-      "distance": "19,2 km",
-      "time": "5 h",
+      "distance": "19,4 km",
+      "time": "4 hours 58 min",
       "short_desc": "O Pedrouzo",
       "long_desc": "Time for recovery and excursions by the coast.",
       "accommodation": "Pension 9 de Abril",
-      "elevation_gain": "",
-      "elevation_loss": "",
-      "altitude_meter": "-",
+      "elevation_gain": "415 m",
+      "elevation_loss": "265 m",
+      "altitude_meter": "336",
       "image": "week7/dag47.JPG",
       "route_map": {
         "start": { "name": "Arzúa", "lat": 42.9311, "lng": -8.1533 },
@@ -303,6 +303,7 @@
     }
   ]
 }
+
 
 
 
