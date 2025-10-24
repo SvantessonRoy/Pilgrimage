@@ -135,8 +135,8 @@
       "title": "Melide -> Arzúa",
       "distance": "15,3 km",
       "time": "4 hours 27",
-      "short_desc": "Arzúa.",
-      "long_desc": "Arrival early.",
+      "short_desc": "From cows on the trail to boutique comfort and Galician cod",
+      "long_desc": " The rain has finally cleared and by 9 AM we’re on our way from Pensión Ferradura after enjoying a great breakfast. The walk to Arzúa offers beautiful nature, fresh air, and a gentle landscape, perfect for a relaxed day on the Camino. A few kilometers in, we encounter a herd of cows being led along the Camino for a short stretch, a charming reminder of rural Galician life. After about 8 km, we stop for a well-earned coffee break before continuing. Once in Arzúa, we check in at the lovely Boutique Hotel 1930. The building once housed a pulpería (octopus restaurant) and dates back to the 1930s. Two brothers bought and restored it, opening the hotel in 2020. It’s a wonderful place to stay, nearly all the guests here are fellow pilgrims, which speaks volumes about how important the Camino is to the local economy. We round off the day at Casa Nené with a delicious dinner of  Solomillo de Bacalao a la plancha, cod cooked in true Galician style. A beautiful ending to a peaceful and memorable day.",
       "accommodation": "1930 Boutique Hotel",
       "elevation_gain": "469 m",
       "elevation_loss": "310 m",
@@ -303,6 +303,7 @@
     }
   ]
 }
+
 
 
 
