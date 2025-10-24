@@ -222,7 +222,7 @@
       "distance": "22,0 km",
       "time": "6 h",
       "short_desc": "Santiago de Compostela",
-      "long_desc": "Hiking along the coast to Muxía.",
+      "long_desc": "Will be updated soon!.",
       "accommodation": "Hotel Compostela****",
       "elevation_gain": "+200 m",
       "elevation_loss": "-180 m",
@@ -265,7 +265,7 @@
       "distance": "0,0 km",
       "time": "0 h",
       "short_desc": "Santiago de Compostela.",
-      "long_desc": "Bus trip back to the starting point.",
+      "long_desc": "Will be updated.",
       "accommodation": "Hotel Compostela",
       "elevation_gain": "",
       "elevation_loss": "",
@@ -303,6 +303,7 @@
     }
   ]
 }
+
 
 
 
