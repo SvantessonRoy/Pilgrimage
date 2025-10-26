@@ -219,14 +219,14 @@
       "week": 7,
       "day": 48,
       "title": "O Pedrouzo -> Santiago de Compostela",
-      "distance": "22,0 km",
-      "time": "6 h",
+      "distance": "20,3 km",
+      "time": "5 hours 28 min",
       "short_desc": "Santiago de Compostela",
       "long_desc": "Will be updated soon!.",
       "accommodation": "Hotel Compostela****",
-      "elevation_gain": "+200 m",
-      "elevation_loss": "-180 m",
-      "altitude_meter": "-",
+      "elevation_gain": "395 m",
+      "elevation_loss": "250 m",
+      "altitude_meter": "351",
       "image": "week7/dag48.JPG",
       "route_map": {
         "start": { "name": "O Pedrouzo", "lat": 42.9048, "lng": -8.3634 },
@@ -303,6 +303,7 @@
     }
   ]
 }
+
 
 
 
