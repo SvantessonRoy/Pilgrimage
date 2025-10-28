@@ -21,14 +21,14 @@
       }
     ,
     "descriptions_gallery": [
-      "Estella",
+      "Estella 1",
       "Villamayor de Monjardin",
-      "Estella",
+      "Estella 2",
       "Azqueta",
       "Vine fountain in Irache",
       "Bodega",
-      "Fountain of the Moors",
-      "Fountain of the Moors",
+      "Fountain of the Moors 1",
+      "Fountain of the Moors 2",
       "Pilgrim",
       "Distance, Time and Elevation"
     ],
@@ -67,14 +67,14 @@
       }
     ,
     "descriptions_gallery": [
-      "Villamayor de Monjardin",
+      "Villamayor de Monjardin 1",
       "Torres del Rio",
       "Pilgrims dinner",
       "Casa Rural Montedeio",
-      "Villamayor de Monjardin",
+      "Villamayor de Monjardin 2",
       "Castle Monjardin",
-      "Villamayor de Monjardin",
-      "Villamayor de Monjardin",
+      "Villamayor de Monjardin 3",
+      "Villamayor de Monjardin 4",
       "Relax",
       "Distance, Time and Elevation"
     ],
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
