@@ -114,14 +114,14 @@
     ,
     "descriptions_gallery": [
       "Tores de Rio",
-      "Logroño",
+      "Logroño 1",
       "Early morning Coffe",
       "Province Navarra // La Rioja",
       "La Rioja grapes",
       "Fiesta in Viana",
       "Grape harvesting, Logroño",
       "Old Ladýs house in Logroño",
-      "Logroño",
+      "Logroño 2",
       "Distance, Time and Elevation"
     ],
     "gallery": [
@@ -159,13 +159,13 @@
       }
     ,
     "descriptions_gallery": [
-      "Logroño",
-      "Logroño",
-      "Logroño",
+      "Logroño 1",
+      "Logroño 2",
+      "Logroño 3",
       "Lunch with Lee-Anne and Steve from Vancover",
       "Resturant TXEBIKO *****",
       "Dessert",
-      "Logroño",
+      "Logroño 4",
       "Calle Portales",
       "Calle de Laurel ",
       "Rest day"
@@ -323,6 +323,7 @@
     }
   ]
 }
+
 
 
 
