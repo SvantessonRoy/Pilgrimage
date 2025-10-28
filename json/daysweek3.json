@@ -24,13 +24,13 @@
     "descriptions_gallery": [
       "Santo Domingo de la Calzada",
       "Belorado",
-      "Parador de Sto. Domingo",
-      "Parador de Sto. Domingo",
-      "Pilgrimage",
-      "Pilgrimage",
-      "Belorado",
-      "Belorado",
-      "Pilgrimage",
+      "Parador de Sto. Domingo 1",
+      "Parador de Sto. Domingo 2",
+      "Pilgrimage 1",
+      "Pilgrimage 2",
+      "Belorado 1",
+      "Belorado 2",
+      "Pilgrimage 3",
       "Distance, Time and Elevation"
     ],
     "gallery": [
@@ -324,6 +324,7 @@
     }
   ]
 }
+
 
 
 
