@@ -2,24 +2,48 @@
   "daysW8": [
     {
       "week": 8,
-      "day": 1,
+      "day": 3,
       "title": "Santiago de Compostela -> Madrid",
-  "distance": "-",
-  "time": "-",
+  "distance": " ",
+  "time": "",
   "short_desc": "Train to Madrid.",
-  "long_desc": "Stay in Madrid.",
+  "long_desc": "3 days stay and rest in Madrid.",
       "accommodation": "?",
-      "elevation_gain": "-",
-      "elevation_loss": "-",
-      "altitude_meter": "-",
+      "elevation_gain": " ",
+      "elevation_loss": " ",
+      "altitude_meter": " ",
       "image": "placeholder.jpg",
       "route_map": {
         "start": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
-        "end": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
-        "polyline": [
-          
-        ]
-      }
+        "end": { "name": "Madrid", "lat": 42.9050, "lng": -8.3167 },
+        "polyline": []
+
+      },
+        "descriptions_gallery": [
+        "Madrid 1",
+        "Madrid 2",
+        "Madrid 3 ",
+        "Madrid 4",
+        "Madrid 5",
+        "Madrid 6",
+        "Madrid 7",
+        "Madrid 8",
+        "Madrid 9",
+        "Madrid 10"
+      ],
+      "gallery": [
+        "assets/week8/dag1/dag11.JPG",
+        "assets/week8/dag1/dag12.JPG",
+        "assets/week8/dag1/dag13.JPG",
+        "assets/week8/dag1/dag14.JPG",
+        "assets/week8/dag1/dag15.JPG",
+        "assets/week8/dag1/dag16.JPG",
+        "assets/week8/dag1/dag17.JPG",
+        "assets/week8/dag1/dag18.JPG",
+        "assets/week8/dag1/dag19.JPG",
+        "assets/week8/dag1/dag110.JPG"
+      ]
+
     },
     {
       "week": 8,
