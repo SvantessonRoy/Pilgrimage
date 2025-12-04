@@ -12,7 +12,7 @@
       "elevation_gain": " ",
       "elevation_loss": " ",
       "altitude_meter": " ",
-      "image": "placeholder.jpg",
+      "image": "week8/dag50.JPG",
       "route_map": {
         "start": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
         "end": { "name": "Madrid", "lat": 40.4168, "lng": -3.7038 },
