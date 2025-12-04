@@ -15,7 +15,7 @@
       "image": "placeholder.jpg",
       "route_map": {
         "start": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
-        "end": { "name": "Madrid", "lat": 42.9050, "lng": -8.3167 },
+        "end": { "name": "Madrid", "lat": 40.4168, "lng": -3.7038 },
         "polyline": []
 
       },
