@@ -43,41 +43,6 @@
         "assets/week8/dag1/dag19.JPG",
         "assets/week8/dag1/dag110.JPG"
       ]
-
-    },
-    {
-      "week": 8,
-      "day": 2,
-      "title": "Madrid",
-  "distance": "-",
-  "time": "-",
-  "short_desc": "Madrid",
-  "long_desc": "Rest",
-      "accommodation": "?",
-      "elevation_gain": "_",
-      "elevation_loss": "-",
-      "altitude_meter": "-",
-      "route_map": {
-        "start": { "name": "O Pedrouzo", "lat": 42.9050, "lng": -8.3167 },
-        "end": { "name": "Santiago de Compostela", "lat": 42.8806, "lng": -8.5457 },
-        "polyline": [
-          
-        ]
-      }
-    },
-    {
-      "week": 8,
-      "day": 3,
-      "title": "Madrid -> Gothenburg",
-  "distance": "-",
-  "time": "Rest",
-  "short_desc": "Madrid.",
-  "long_desc": "Flight back home.",
-      "accommodation": "?",
-      "elevation_gain": "",
-      "elevation_loss": "",
-      "altitude_meter": "-",
-      "image": "placeholder.jpg"
     }
   ]
 }
